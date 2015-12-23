@@ -7,4 +7,7 @@
     <color name="tabsScrollColor">#8a140e</color>
     <color name="listviewbody">#DBDBDB</color>
     <color name="listitembody">#F7F7F7</color>
+    <color name="GREEN">#339933</color>
+    <color name="WHITE">#FFFFFF</color>
+    <color name="GREY">#999999</color>
 </resources>
