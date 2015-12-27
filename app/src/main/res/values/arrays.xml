@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="SOUPLIST_1">
+        <item>Veg Corn Soup</item>
+        <item>soup</item>
+        <item>SOUP100</item>
+    </array>
+    <array name="SOUPLIST_2">
+        <item>Chicken Clear Soup</item>
+        <item>soup</item>
+        <item>SOUP101</item>
+    </array>
+    <array name="SOUPLIST_3">
+        <item>Veg Manchow Soup</item>
+        <item>soup</item>
+        <item>SOUP102</item>
+    </array>
+    <array name="SOUPLIST_4">
+        <item>Chicken Manchurian Soup</item>
+        <item>soup</item>
+        <item>SOUP103</item>
+    </array>
+    <array name="SOUPLIST_5">
+        <item>Corn Soup</item>
+        <item>soup</item>
+        <item>SOUP104</item>
+    </array>
+    <array name="SOUPLIST_6">
+        <item>Veg Manchurian Soup</item>
+        <item>soup</item>
+        <item>SOUP105</item>
+    </array>
+</resources>
