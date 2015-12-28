@@ -8,15 +8,10 @@
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
-        <LinearLayout
+        <FrameLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/button_material_light"
-            android:orientation="vertical">
-            <include
-                android:id="@+id/toolbarlayout"
-                layout="@layout/toolbarwithsearchgreen"
-                ></include>
+            android:background="@color/button_material_light">
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -92,7 +87,7 @@
                             android:layout_height="wrap_content"
                             android:singleLine="true"
                             android:layout_margin="10dp"
-                            android:text="Ingredients"
+                            android:text="What do I need ?"
                             android:layout_gravity="center"
                             android:gravity="left"
                             android:layout_weight="2"
@@ -114,49 +109,35 @@
                     android:orientation="vertical">
                     <LinearLayout
                         android:layout_width="match_parent"
-                        android:layout_height="60dp"
+                        android:layout_height="40dp"
                         android:orientation="horizontal">
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:singleLine="true"
                             android:layout_margin="10dp"
-                            android:text="Popular Desserts"
+                            android:text="How do I Cook ?"
                             android:layout_gravity="center"
                             android:gravity="left"
                             android:layout_weight="2"
                             android:textSize="18sp"
                             android:textStyle="bold" />
-                        <Button
-                            android:id="@+id/morepopulardesserts"
+                        <com.krish.indiancook.utils.NestedListView
+                            android:id="@+id/directionList"
+                            android:layout_width="0dip"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="2dp"
                             android:layout_weight="1"
-                            android:layout_margin="10dp"
-                            android:background="@drawable/btn_green_round_corners"
-                            android:layout_width="10dp"
-                            android:layout_height="30dp"
-                            android:textAllCaps="true"
-                            android:gravity="center|center_vertical"
-                            android:textColor="@android:color/white"
-                            android:text="More"
-                            />
+                            android:cacheColorHint="#00000000" >
+                        </com.krish.indiancook.utils.NestedListView>
                     </LinearLayout>
-                    <HorizontalScrollView
-                        android:layout_width="fill_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_alignParentTop="true"
-                        android:fillViewport="true"
-                        android:measureAllChildren="false"
-                        android:scrollbars="none" >
-                        <LinearLayout
-                            android:id="@+id/populardesserts"
-                            android:layout_width="match_parent"
-                            android:layout_height="match_parent"
-                            android:orientation="horizontal">
-                        </LinearLayout>
-                    </HorizontalScrollView>
                 </LinearLayout>
             </LinearLayout>
-        </LinearLayout>
+            <include
+                android:id="@+id/toolbarlayout"
+                layout="@layout/toolbarwithsearchtransparent"
+                ></include>
+        </FrameLayout>
     </ScrollView>
     <android.support.design.widget.NavigationView
         android:id="@+id/navigation_view"

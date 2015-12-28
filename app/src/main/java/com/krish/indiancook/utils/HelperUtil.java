@@ -17,7 +17,7 @@ import java.util.List;
  */
 public class HelperUtil {
 
-    public static List<String> getIngredientsList(Context context, String ingredientId){
+    public static List<String> getResourceList(Context context, String ingredientId){
         //ResourceHelper.getMultiTypedArray(context, "INGREDIENT" + ingredientId);
         int ingredientIdentifier = context.getResources().getIdentifier(ingredientId, "array", context.getPackageName());
         String[] ingredientList = context.getResources().getStringArray(ingredientIdentifier);

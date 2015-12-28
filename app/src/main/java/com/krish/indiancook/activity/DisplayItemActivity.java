@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
 
 import com.krish.indiancook.R;
-import com.krish.indiancook.adapter.IngredientsAdapter;
+import com.krish.indiancook.adapter.IngredientAdapter;
 import com.krish.indiancook.utils.HelperUtil;
 import com.krish.indiancook.utils.NestedListView;
 
@@ -24,9 +24,13 @@ public class DisplayItemActivity extends AppCompatActivity {
         if (extras != null) {
             itemid = extras.getString("itemid");
         }
-        IngredientsAdapter iga = new IngredientsAdapter(this, HelperUtil.getIngredientsList(this,itemid));
+        IngredientAdapter ingredieentadapter = new IngredientAdapter(this, HelperUtil.getResourceList(this, "INGREDIENT_" + itemid));
         NestedListView ingredList = (NestedListView)findViewById(R.id.ingredientList);
-        ingredList.setAdapter(iga);
+        ingredList.setAdapter(ingredieentadapter);
+
+        IngredientAdapter directionsadapter = new IngredientAdapter(this, HelperUtil.getResourceList(this, "DIRECTIONS_" +itemid));
+        NestedListView directionsList = (NestedListView)findViewById(R.id.directionList);
+        directionsList.setAdapter(directionsadapter);
     }
 
     @Override

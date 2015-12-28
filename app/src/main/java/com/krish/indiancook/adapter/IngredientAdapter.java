@@ -17,11 +17,11 @@ import com.krish.indiancook.R;
 
 import java.util.List;
 
-public class IngredientsAdapter extends ArrayAdapter<String> {
+public class IngredientAdapter extends ArrayAdapter<String> {
     private final Context context;
     private final List<String> values;
 
-    public IngredientsAdapter(Context context, List<String> values) {
+    public IngredientAdapter(Context context, List<String> values) {
         super(context, -1, values);
         this.context = context;
         this.values = values;

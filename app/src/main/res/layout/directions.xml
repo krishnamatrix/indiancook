@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="4"
+    android:padding="5dp"
+    android:orientation="horizontal">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/startext"
+        android:text="\u2605"
+        android:layout_gravity="center_vertical|left"
+        android:textSize="18sp"
+        android:textColor="#FFFF00"
+        android:textStyle="bold" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/directionDetail"
+        android:text="160 mins asdfas asdfasdf asdf  asdf saf sadf asdf asd fas df asdf  d fsdf asd fas df s"
+        android:layout_gravity="center_vertical|left"
+        android:textSize="18sp"
+        android:textColor="#FFFF00"
+        android:textStyle="bold" />
+</LinearLayout>
