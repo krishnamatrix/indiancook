@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Item Codes Expansions
+DS - Dishes
+DT - Desserts
+ITC - Item Code
+The Image name is second and it stats with same item code expansions
+-->
+<resources>
+    <array name="POPULAR_DISHES">
+        <item>Chicken Biriyani|dscbi|NV|DS_ITC100</item>
+        <item>Prawns Fry|dspfy|NV|DS_ITC101</item>
+        <item>Mutton Curry|dsmcy|NV|DS_ITC102</item>
+        <item>Chilli Chicken|dsccn|NV|DS_ITC103</item>
+        <item>Hyderabadi Dhum Biriyani|dshdb|NV|DS_ITC104</item>
+        <item>Pepper Chicken Masala|dspcm|NV|DS_ITC105</item>
+    </array>
+    <array name="POPULAR_DESSERTS">
+        <item>Coffee Nuts|dtcts|NA|DT_ITC100</item>
+        <item>Cup Cake|dtcce|NA|DT_ITC101</item>
+        <item>Chocolate Cake|dtchc|NA|DT_ITC102</item>
+    </array>
+</resources>
