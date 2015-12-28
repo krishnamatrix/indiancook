@@ -3,6 +3,7 @@ package com.krish.indiancook.utils;
 import android.app.Activity;
 import android.content.Context;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.widget.Toast;
 
 import com.krish.indiancook.R;
@@ -18,6 +19,7 @@ import java.util.List;
 public class HelperUtil {
 
     public static List<String> getResourceList(Context context, String ingredientId){
+        Log.d("IndianCook", "Trying to fetch the resource:" + ingredientId);
         //ResourceHelper.getMultiTypedArray(context, "INGREDIENT" + ingredientId);
         int ingredientIdentifier = context.getResources().getIdentifier(ingredientId, "array", context.getPackageName());
         String[] ingredientList = context.getResources().getStringArray(ingredientIdentifier);

@@ -5,4 +5,44 @@
         <item>A Pinch of Salt|salt</item>
         <item>5 tsp of oil|oil</item>
     </array>
+    <array name="INGREDIENT_DS_ITC101">
+        <item>1/2 tsp of Pepper|pepper</item>
+        <item>A Pinch of Sugar|sugar</item>
+        <item>5 tsp of ginger|ginger</item>
+    </array>
+    <array name="INGREDIENT_DS_ITC102">
+        <item>1/2 tsp of Coriander|coriander</item>
+        <item>A Pinch of Salt|salt</item>
+        <item>5 tsp of oil|oil</item>
+    </array>
+    <array name="INGREDIENT_DS_ITC103">
+        <item>1/2 tsp of Coriander|coriander</item>
+        <item>A Pinch of Salt|salt</item>
+        <item>5 tsp of oil|oil</item>
+    </array>
+    <array name="INGREDIENT_DS_ITC104">
+        <item>1/2 tsp of Coriander|coriander</item>
+        <item>A Pinch of Salt|salt</item>
+        <item>5 tsp of oil|oil</item>
+    </array>
+    <array name="INGREDIENT_DS_ITC105">
+        <item>1/2 tsp of Coriander|coriander</item>
+        <item>A Pinch of Salt|salt</item>
+        <item>5 tsp of oil|oil</item>
+    </array>
+    <array name="INGREDIENT_DS_ITC106">
+        <item>1/2 tsp of Coriander|coriander</item>
+        <item>A Pinch of Salt|salt</item>
+        <item>5 tsp of oil|oil</item>
+    </array>
+    <array name="INGREDIENT_DS_ITC107">
+        <item>1/2 tsp of Coriander|coriander</item>
+        <item>A Pinch of Salt|salt</item>
+        <item>5 tsp of oil|oil</item>
+    </array>
+    <array name="INGREDIENT_DS_ITC108">
+        <item>1/2 tsp of Coriander|coriander</item>
+        <item>A Pinch of Salt|salt</item>
+        <item>5 tsp of oil|oil</item>
+    </array>
 </resources>

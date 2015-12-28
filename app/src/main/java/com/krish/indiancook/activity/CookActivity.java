@@ -11,6 +11,7 @@ import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -63,16 +64,17 @@ public class CookActivity extends AppCompatActivity {
     private void populateMainPageOtherCategories(int category, int layoutId){
         LayoutInflater mInflater = LayoutInflater.from(this);
         LinearLayout lp = (LinearLayout) findViewById(layoutId);
-        View v = null;String item = null;String[] splitItem;
+        View v = null;String item = null;
         String[] categoryList = getResources().getStringArray(category);
         for(int i = 0; i< categoryList.length;i++){
             item = categoryList[i];
-            splitItem = item.split("|");
+            final String[] splitItem = item.split("\\|");
             v = mInflater.inflate(R.layout.dishesitem,lp, false);
             ImageView iv = (ImageView)v.findViewById(R.id.imageLabel);
             TextView tv = (TextView)v.findViewById(R.id.textLabel);
             tv.setText(splitItem[0]);
             iv.setBackgroundResource(getResources().getIdentifier(splitItem[1], "drawable", this.getPackageName()));
+            Log.d("IndianCook", "The split item list is " + splitItem + ",the item" + splitItem[3]);
             v.setTag(splitItem[3]);
             v.setOnClickListener(new View.OnClickListener() {
                 @Override
@@ -80,6 +82,7 @@ public class CookActivity extends AppCompatActivity {
                     Intent intent = new Intent();
                     intent.setClass(CookActivity.this, DisplayItemActivity.class);
                     intent.putExtra("itemid", (String) v.getTag());
+                    intent.putExtra("itemdesc", (String) splitItem[0]);
                     CookActivity.this.startActivity(intent);
                 }
             });
@@ -163,7 +166,7 @@ public class CookActivity extends AppCompatActivity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
-        inflater.inflate(R.menu.menu, menu);
+        inflater.inflate(R.menu.searchmenu, menu);
         return true;
     }
 

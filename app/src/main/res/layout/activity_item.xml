@@ -22,12 +22,12 @@
                     android:layout_height="match_parent">
                     <FrameLayout
                         android:layout_width="match_parent"
-                        android:layout_height="200dp"
+                        android:layout_height="250dp"
                         android:orientation="horizontal">
                         <ImageView
                             android:layout_width="fill_parent"
-                            android:layout_height="wrap_content"
-                            android:background="@color/listitembody"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/icon"
                             android:scaleType="fitXY"
                             />
                         <ImageView
@@ -40,9 +40,8 @@
                     <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="40dp"
-                        android:background="@color/listitembody"
+                        android:background="@drawable/gradient"
                         android:layout_gravity="bottom"
-                        android:backgroundTint="@null"
                         android:orientation="horizontal">
                         <TextView
                             android:layout_width="wrap_content"
@@ -52,8 +51,7 @@
                             android:text="Name of Dish"
                             android:layout_gravity="left"
                             android:layout_weight="2"
-                            android:textSize="18sp"
-                            android:textStyle="bold" />
+                            android:textSize="16sp" />
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -62,8 +60,7 @@
                             android:text="160 mins"
                             android:layout_gravity="left"
                             android:layout_weight="1"
-                            android:textSize="18sp"
-                            android:textStyle="bold" />
+                            android:textSize="16sp" />
                         <ImageView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
@@ -91,17 +88,16 @@
                             android:layout_gravity="center"
                             android:gravity="left"
                             android:layout_weight="2"
-                            android:textSize="18sp"
-                            android:textStyle="bold" />
+                            android:textSize="18sp" />
                     </LinearLayout>
-                    <com.krish.indiancook.utils.NestedListView
+                    <com.krish.indiancook.utils.NonScrollListView
                         android:id="@+id/ingredientList"
-                        android:layout_width="0dip"
-                        android:layout_height="wrap_content"
-                        android:layout_marginBottom="2dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="5dp"
                         android:layout_weight="1"
                         android:cacheColorHint="#00000000" >
-                    </com.krish.indiancook.utils.NestedListView>
+                    </com.krish.indiancook.utils.NonScrollListView >
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -120,17 +116,16 @@
                             android:layout_gravity="center"
                             android:gravity="left"
                             android:layout_weight="2"
-                            android:textSize="18sp"
-                            android:textStyle="bold" />
-                        <com.krish.indiancook.utils.NestedListView
-                            android:id="@+id/directionList"
-                            android:layout_width="0dip"
-                            android:layout_height="wrap_content"
-                            android:layout_marginBottom="2dp"
-                            android:layout_weight="1"
-                            android:cacheColorHint="#00000000" >
-                        </com.krish.indiancook.utils.NestedListView>
+                            android:background="@color/highlighted_text_material_light"
+                            android:textSize="16sp" />
                     </LinearLayout>
+                    <com.krish.indiancook.utils.NonScrollListView
+                        android:id="@+id/directionList"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginBottom="5dp"
+                        android:layout_weight="1">
+                    </com.krish.indiancook.utils.NonScrollListView>
                 </LinearLayout>
             </LinearLayout>
             <include

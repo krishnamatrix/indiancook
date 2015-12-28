@@ -64,8 +64,7 @@
                     android:layout_gravity="center"
                     android:gravity="left"
                     android:layout_weight="2"
-                    android:textSize="18sp"
-                    android:textStyle="bold" />
+                    android:textSize="16sp" />
                 <Button
                     android:id="@+id/morepopulardishes"
                     android:layout_weight="1"
@@ -111,8 +110,7 @@
                     android:layout_gravity="center"
                     android:gravity="left"
                     android:layout_weight="2"
-                    android:textSize="18sp"
-                    android:textStyle="bold" />
+                    android:textSize="16sp" />
                 <Button
                     android:id="@+id/morepopulardesserts"
                     android:layout_weight="1"

@@ -35,21 +35,21 @@ public class DirectionsAdapter extends ArrayAdapter<String> {
             convertView = inflater.inflate(R.layout.directions, parent, false);
         }
         TextView startextView = (TextView) convertView.findViewById(R.id.startext);
-        if(position % 2 == 0) {
-            startextView.setTextColor(Color.parseColor(CookingConstants.STAR_COLOR_CODES[1]));
-        } else if(position % 3 == 0) {
-            startextView.setTextColor(Color.parseColor(CookingConstants.STAR_COLOR_CODES[2]));
+        if(position % 5 == 0) {
+            startextView.setTextColor(Color.parseColor(CookingConstants.STAR_COLOR_CODES[4]));
         } else if(position % 4 == 0) {
             startextView.setTextColor(Color.parseColor(CookingConstants.STAR_COLOR_CODES[3]));
-        }else if(position % 5 == 0) {
-            startextView.setTextColor(Color.parseColor(CookingConstants.STAR_COLOR_CODES[4]));
+        } else if(position % 3 == 0) {
+            startextView.setTextColor(Color.parseColor(CookingConstants.STAR_COLOR_CODES[2]));
+        }else if(position % 2 == 0) {
+            startextView.setTextColor(Color.parseColor(CookingConstants.STAR_COLOR_CODES[1]));
         }else {
             startextView.setTextColor(Color.parseColor(CookingConstants.STAR_COLOR_CODES[0]));
         }
         String ingredItem = values.get(position);
-        String[] ingredItemList = ingredItem.split("|");
+        String[] ingredItemList = ingredItem.split("\\|");
         TextView textView = (TextView) convertView.findViewById(R.id.directionDetail);
-        textView.setText(CookingConstants.BLACK_STAR_UNICODE + ingredItemList[0]);
+        textView.setText(ingredItemList[0]);
         return convertView;
     }
 }
