@@ -5,9 +5,10 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.LayoutInflater;
+import android.view.Menu;
+import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -15,7 +16,9 @@ import com.krish.indiancook.Layouts.FlowLayout;
 import com.krish.indiancook.R;
 import com.krish.indiancook.dto.CookingItem;
 import com.krish.indiancook.utils.CookingConstants;
+import com.krish.indiancook.utils.HelperUtil;
 import com.krish.indiancook.utils.ResourceHelper;
+import com.quinny898.library.persistentsearch.SearchBox;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -24,28 +27,26 @@ import java.util.List;
  * Created by u462716 on 12/23/2015.
  */
 public class DisplayListActivity extends AppCompatActivity {
-    EditText custname, custphone, custemail, custaddress1, custaddress2;
+    private SearchBox searchbox;
+    private Toolbar toolbar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //requestWindowFeature(Window.FEATURE_NO_TITLE); //To display the activity in Full Screen
-
         setContentView(R.layout.activity_displaylist);
 
-        Toolbar toolbar = (Toolbar) findViewById(R.id.tool_bar);
-        setSupportActionBar(toolbar);
+        toolbar = (Toolbar) findViewById(R.id.toolbar);
+        searchbox = (SearchBox) findViewById(R.id.searchbox);
 
+        setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         Bundle extras = getIntent().getExtras();
-        String category = null;
-
+        String type = null;
         if (extras != null) {
-            category = extras.getString("category");
+            type = extras.getString("category");
         }
-
-        if(CookingConstants.SOUPS.equalsIgnoreCase(category)){
+        if(CookingConstants.SOUPS.equalsIgnoreCase(type)){
             populateItems(getItemList(CookingConstants.SOUPLIST));
         }
 
@@ -56,7 +57,7 @@ public class DisplayListActivity extends AppCompatActivity {
         FlowLayout mFlowLayout = (FlowLayout) findViewById(R.id.flow_layout);
         View v = null; CookingItem ci = null;
         for (int i = 0; i < cookingItemList.size(); i++) {
-            v = mInflater.inflate(R.layout.foodcategoriesitem, mFlowLayout, false);
+            v = mInflater.inflate(R.layout.displaylistitems, mFlowLayout, false);
             ImageView iv = (ImageView) v.findViewById(R.id.imageLabel);
             TextView tv = (TextView) v.findViewById(R.id.textLabel);
             ci = cookingItemList.get(i);
@@ -80,17 +81,23 @@ public class DisplayListActivity extends AppCompatActivity {
     }
 
     @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.menu, menu);
+        return true;
+    }
+    @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
-
-        if (id == android.R.id.home) {
-            onBackPressed();
+        switch (item.getItemId()) {
+            case R.id.action_search:
+                HelperUtil.openSearch(toolbar, searchbox, this);
+                return true;
+            case android.R.id.home:
+                onBackPressed();
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
         }
-
-        return super.onOptionsItemSelected(item);
     }
 }
 

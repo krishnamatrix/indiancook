@@ -21,7 +21,9 @@ public class ResourceHelper {
             int counter = 0;
             do {
                 field = res.getField(key + "_" + counter);
-                array.add(context.getResources().obtainTypedArray(field.getInt(null)));
+                if(field != null) {
+                    array.add(context.getResources().obtainTypedArray(field.getInt(null)));
+                }
                 counter++;
             } while (field != null);
         } catch (Exception e) {

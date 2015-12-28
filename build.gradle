@@ -6,6 +6,9 @@ buildscript {
             name "jcenter"
             url "http://jcenter.bintray.com/"
         }
+        maven {
+            url "https://oss.sonatype.org/content/repositories/snapshots"
+        }
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:1.2.3'
@@ -21,6 +24,9 @@ allprojects {
         maven {
             name "jcenter"
             url "http://jcenter.bintray.com/"
+        }
+        maven {
+            url "https://oss.sonatype.org/content/repositories/snapshots"
         }
     }
 }

@@ -5,12 +5,15 @@ import android.content.ActivityNotFoundException;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
+import android.speech.RecognizerIntent;
 import android.support.design.widget.NavigationView;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.LayoutInflater;
+import android.view.Menu;
+import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
@@ -21,34 +24,65 @@ import android.widget.Toast;
 import com.krish.indiancook.Layouts.FlowLayout;
 import com.krish.indiancook.R;
 import com.krish.indiancook.utils.CookingConstants;
+import com.krish.indiancook.utils.HelperUtil;
+import com.quinny898.library.persistentsearch.SearchBox;
+
+import java.util.ArrayList;
 
 public class CookActivity extends AppCompatActivity {
     private NavigationView navigationView;
     private DrawerLayout drawerLayout;
+    private SearchBox searchbox;
+    private Toolbar toolbar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_cook);
 
-        Toolbar toolbar = (Toolbar) findViewById(R.id.tool_bar); // Attaching the layout to the toolbar object
+        toolbar = (Toolbar) findViewById(R.id.toolbar);
+        searchbox = (SearchBox) findViewById(R.id.searchbox);
+
+        //search.enableVoiceRecognition(this);
+        //this.setSupportActionBar(toolbar);
+        /*toolbar.setOnMenuItemClickListener(new Toolbar.OnMenuItemClickListener() {
+            @Override
+            public boolean onMenuItemClick(MenuItem item) {
+                openSearch();
+                return true;
+            }
+        });*/
+
         setSupportActionBar(toolbar);
         setDrawer(this, toolbar);
         populateFoodCategories();
-        populateMainPageOtherCategories(CookingConstants.POPULAR_DISHES, R.id.populardishes);
-        populateMainPageOtherCategories(CookingConstants.POPULAR_DESSERTS, R.id.populardesserts);
+        populateMainPageOtherCategories(R.array.POPULAR_DISHES, R.id.populardishes);
+        populateMainPageOtherCategories(R.array.POPULAR_DESSERTS, R.id.populardesserts);
     }
 
-    private void populateMainPageOtherCategories(String [][] othercategory, int layoutId){
+    private void populateMainPageOtherCategories(int category, int layoutId){
         LayoutInflater mInflater = LayoutInflater.from(this);
         LinearLayout lp = (LinearLayout) findViewById(layoutId);
-        View v = null;
-        for(int i = 0; i< othercategory.length;i++){
+        View v = null;String item = null;String[] splitItem;
+        String[] categoryList = getResources().getStringArray(category);
+        for(int i = 0; i< categoryList.length;i++){
+            item = categoryList[i];
+            splitItem = item.split("|");
             v = mInflater.inflate(R.layout.dishesitem,lp, false);
             ImageView iv = (ImageView)v.findViewById(R.id.imageLabel);
             TextView tv = (TextView)v.findViewById(R.id.textLabel);
-            tv.setText(othercategory[i][0]);
-            iv.setBackgroundResource(getResources().getIdentifier(othercategory[i][1], "drawable", this.getPackageName()));
+            tv.setText(splitItem[0]);
+            iv.setBackgroundResource(getResources().getIdentifier(splitItem[1], "drawable", this.getPackageName()));
+            v.setTag(splitItem[3]);
+            v.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    Intent intent = new Intent();
+                    intent.setClass(CookActivity.this, DisplayItemActivity.class);
+                    intent.putExtra("itemid", (String) v.getTag());
+                    CookActivity.this.startActivity(intent);
+                }
+            });
             lp.addView(v);
         }
     }
@@ -67,7 +101,7 @@ public class CookActivity extends AppCompatActivity {
                 @Override
                 public void onClick(View v) {
                     Intent intent = new Intent();
-                    intent.setClass(CookActivity.this,DisplayListActivity.class);
+                    intent.setClass(CookActivity.this, DisplayListActivity.class);
                     intent.putExtra("category", (String) v.getTag());
                     CookActivity.this.startActivity(intent);
                 }
@@ -110,7 +144,6 @@ public class CookActivity extends AppCompatActivity {
             }
         });
 
-        // Initializing Drawer Layout and ActionBarToggle
         drawerLayout = (DrawerLayout) findViewById(R.id.drawer);
         ActionBarDrawerToggle actionBarDrawerToggle = new ActionBarDrawerToggle(this,drawerLayout,toolbar,R.string.openDrawer, R.string.closeDrawer){
             @Override
@@ -125,5 +158,32 @@ public class CookActivity extends AppCompatActivity {
 
         drawerLayout.setDrawerListener(actionBarDrawerToggle);
         actionBarDrawerToggle.syncState();
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.menu, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        switch (item.getItemId()) {
+            case R.id.action_search:
+                HelperUtil.openSearch(toolbar, searchbox, this);
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        if (requestCode == 1234 && resultCode == RESULT_OK) {
+            ArrayList<String> matches = data
+                    .getStringArrayListExtra(RecognizerIntent.EXTRA_RESULTS);
+            searchbox.populateEditText(matches.get(0));
+        }
+        super.onActivityResult(requestCode, resultCode, data);
     }
 }

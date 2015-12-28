@@ -5,26 +5,18 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true">
-
-    <LinearLayout
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@color/button_material_light"
         android:orientation="vertical">
         <include
-            android:id="@+id/tool_bar"
-            layout="@layout/toolbar"
+            android:id="@+id/toolbarlayout"
+            layout="@layout/toolbarwithsearch"
             ></include>
-        <com.krish.indiancook.SearchBox
-            android:layout_width="wrap_content"
-            android:id="@+id/searchbox"
-            android:layout_height="wrap_content"
-            android:visibility="gone"
-            android:layout_marginTop="-6dp"
-            android:layout_marginLeft="-6dp"
-            android:layout_marginRight="-6dp"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentTop="true" />
         <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -49,7 +41,7 @@
         </LinearLayout>
         <com.krish.indiancook.Layouts.FlowLayout
             android:id="@+id/flow_layout"
-            android:layout_width="fill_parent"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="start|top"
             android:background="@color/button_material_light"
@@ -211,6 +203,7 @@
 
         </LinearLayout>-->
     </LinearLayout>
+    </ScrollView>
     <android.support.design.widget.NavigationView
         android:id="@+id/navigation_view"
         android:layout_height="match_parent"
