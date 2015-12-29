@@ -70,9 +70,9 @@ public class IngredientAdapter extends ArrayAdapter<String> {
         }
 
         if(position % 2 == 0) {
-            rowView.setBackgroundColor(Color.rgb(256, 256, 256));
+            rowView.setBackgroundColor(Color.parseColor("#EEEEEE"));
         } else {
-            rowView.setBackgroundColor(Color.rgb(180, 180, 180));
+            rowView.setBackgroundColor(Color.parseColor("#FFFFFF"));
         }
         return rowView;
     }

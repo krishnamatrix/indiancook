@@ -17,12 +17,12 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.GridLayout;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.krish.indiancook.Layouts.FlowLayout;
 import com.krish.indiancook.R;
 import com.krish.indiancook.utils.CookingConstants;
 import com.krish.indiancook.utils.HelperUtil;
@@ -91,7 +91,7 @@ public class CookActivity extends AppCompatActivity {
     }
     private void populateFoodCategories(){
         LayoutInflater mInflater = LayoutInflater.from(this);
-        FlowLayout mFlowLayout = (FlowLayout) findViewById(R.id.flow_layout);
+        GridLayout mFlowLayout = (GridLayout) findViewById(R.id.flow_layout);
         View v = null;
         for(int i = 0; i< CookingConstants.FOOD_CATEGORIES.length;i++){
             v = mInflater.inflate(R.layout.foodcategoriesitem,mFlowLayout, false);

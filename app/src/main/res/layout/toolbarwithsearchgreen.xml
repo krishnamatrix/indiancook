@@ -8,6 +8,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/toolbar"
         android:background="#009933"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark"
         android:elevation="4dp">
     </android.support.v7.widget.Toolbar>
 <!--android:theme="@style/ThemeOverlay.AppCompat.Dark" -->
