@@ -19,5 +19,7 @@ The Image name is second and it stats with same item code expansions
         <item>Coffee Nuts|dtcts|NA|DT_ITC100</item>
         <item>Cup Cake|dtcce|NA|DT_ITC101</item>
         <item>Chocolate Cake|dtchc|NA|DT_ITC102</item>
+        <item>Chocolate Cake|dtchc|NA|DT_ITC103</item>
+        <item>Chocolate Cake|dtchc|NA|DT_ITC104</item>
     </array>
 </resources>

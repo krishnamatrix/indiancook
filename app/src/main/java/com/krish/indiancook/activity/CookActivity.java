@@ -17,18 +17,19 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.GridLayout;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
 import com.krish.indiancook.R;
-import com.krish.indiancook.utils.CookingConstants;
+import com.krish.indiancook.adapter.FoodCategoriesAdapter;
 import com.krish.indiancook.utils.HelperUtil;
+import com.krish.indiancook.views.ExpandableGridView;
 import com.quinny898.library.persistentsearch.SearchBox;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class CookActivity extends AppCompatActivity {
     private NavigationView navigationView;
@@ -43,17 +44,6 @@ public class CookActivity extends AppCompatActivity {
 
         toolbar = (Toolbar) findViewById(R.id.toolbar);
         searchbox = (SearchBox) findViewById(R.id.searchbox);
-
-        //search.enableVoiceRecognition(this);
-        //this.setSupportActionBar(toolbar);
-        /*toolbar.setOnMenuItemClickListener(new Toolbar.OnMenuItemClickListener() {
-            @Override
-            public boolean onMenuItemClick(MenuItem item) {
-                openSearch();
-                return true;
-            }
-        });*/
-
         setSupportActionBar(toolbar);
         setDrawer(this, toolbar);
         populateFoodCategories();
@@ -90,15 +80,20 @@ public class CookActivity extends AppCompatActivity {
         }
     }
     private void populateFoodCategories(){
-        LayoutInflater mInflater = LayoutInflater.from(this);
-        GridLayout mFlowLayout = (GridLayout) findViewById(R.id.flow_layout);
+        String[] categoryList = getResources().getStringArray(R.array.FOOD_CATEGORIES);
+        ExpandableGridView gridview = (ExpandableGridView) findViewById(R.id.foodcategoriesgridview);
+        gridview.setExpanded(true);
+        gridview.setAdapter(new FoodCategoriesAdapter(this, Arrays.asList(categoryList)));
+
+        /*LayoutInflater mInflater = LayoutInflater.from(this);
+        FlowLayout mFlowLayout = (FlowLayout) findViewById(R.id.flow_layout);
         View v = null;
         for(int i = 0; i< CookingConstants.FOOD_CATEGORIES.length;i++){
             v = mInflater.inflate(R.layout.foodcategoriesitem,mFlowLayout, false);
-            ImageView iv = (ImageView)v.findViewById(R.id.imageLabel);
+            RoundedImageView iv = (RoundedImageView)v.findViewById(R.id.imageLabel);
             TextView tv = (TextView)v.findViewById(R.id.textLabel);
             tv.setText(CookingConstants.FOOD_CATEGORIES[i][0]);
-            iv.setBackgroundResource(getResources().getIdentifier(CookingConstants.FOOD_CATEGORIES[i][1], "drawable", this.getPackageName()));
+            iv.setImageResource(getResources().getIdentifier(CookingConstants.FOOD_CATEGORIES[i][1], "drawable", this.getPackageName()));
             v.setTag(CookingConstants.FOOD_CATEGORIES[i][1]);
             v.setOnClickListener(new View.OnClickListener() {
                 @Override
@@ -110,7 +105,7 @@ public class CookActivity extends AppCompatActivity {
                 }
             });
             mFlowLayout.addView(v);
-        }
+        }*/
     }
     private void setDrawer(Activity act, Toolbar toolbar){
         navigationView = (NavigationView) this.findViewById(R.id.navigation_view);

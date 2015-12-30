@@ -2,6 +2,7 @@ package com.krish.indiancook.activity;
 
 import android.content.res.TypedArray;
 import android.os.Bundle;
+import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.LayoutInflater;
@@ -40,7 +41,8 @@ public class DisplayListActivity extends AppCompatActivity {
 
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-
+        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer);
+        drawer.setDrawerLockMode(DrawerLayout.LOCK_MODE_LOCKED_CLOSED);
         Bundle extras = getIntent().getExtras();
         String type = null;
         if (extras != null) {
