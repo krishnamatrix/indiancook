@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="INGREDIENT_NVSTARTER_ITC100">
+        <item>Chicken Lollypop</item>
+
+        <item>Chicken Lollypops (Wings deskinned) - 500 gms.</item>
+        <item>For Marination</item>
+        <item>cornflour - 2 tblsp. </item>
+        <item>soya sauce - 2 tblsp. </item>
+        <item>vinegar - 1 tsp </item>
+        <item>Red chilli paste - 1 tsp. </item>
+        <item>Ginger paste - 2 tsp. </item>
+        <item>Garlic paste - 1 tsp. </item>
+        <item>Ajinomoto - ¼ tsp. </item>
+        <item>salt - to taste</item>
+        <item>For Batter </item>
+        <item>Maida - 6 tblsp. </item>
+        <item>Cornflour - 6 tblsp. </item>
+        <item>Coriander - 1 tblsp. </item>
+        <item>Garlic - 1 tblsp.</item>
+        <item>Ginger -  1 tblsp. </item>
+        <item>Vinegar - 1 tblsp. </item>
+        <item>Red chilli paste - 1 tblsp. </item>
+        <item>Egg - 1</item>
+        <item>Ajinomoto - 1/8 tsp. </item>
+        <item>Orange red color - 1/8 tsp. </item>
+        <item>Celery - 1 tsp. </item>
+        <item>salt - to taste</item>
+        <item>water - as required</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC100">
+        <item>1. First, dry out the chicken pieces on a muslin cloth to remove out excess water. 2. Marinate the chicken with all the ingredients under 'for marination' for atleast 2 hours.</item>
+        <item>3. Mix all the ingredients under "for batter" with enough water to make a thick batter.</item>
+        <item>4. Dip the lollypops in batter and deep fry.</item>
+        <item>5. Serve as a starter with Schezuan sauce.</item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC101">
+        <item>Nutty Chicken</item>
+
+        <item>Boneless Chicken-1 lb</item>
+        <item>Oil-2 Tblsp</item>
+        <item>Eggs-2</item>
+        <item>Salt- to taste</item>
+        <item>Nuts- 1/2 Cup( crushed/ground)</item>
+        <item>For Marination</item>
+        <item>Turmeric Powder-1 tsp</item>
+        <item>Ginger-Garlic Paste-2 tsp</item>
+        <item>Lemon Juice-2 tsp</item>
+        <item>Garam Masala Powder/Chicken masala-1/4 tsp</item>
+        <item>Oil-2 Tblsp</item>
+        <item>Chilly Powder-2 tsp</item>
+        <item>Salt-to taste</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC101">
+        <item>1. Wash the chicken and cut into a thin layer 1 inch thick.</item>
+        <item>2. Combine the chicken with marinade ingredients to coat all the sides and keep it in fridge for atleast 1 hour. Even overnight marination will be good.</item>
+        <item>3. Beat the eggs with a pinch of salt.</item>
+        <item>4. Roll the chicken in the egg mixture and coat it with the nuts. Any nuts like almond, cashewnut, walnut etc can be used.</item>
+        <item>5. Fry the chicken in oil or bake it. For baking, preheat the owen to 300 degrees and bake the chicken pieces for approximately 20-25 minutes</item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC102">
+        <item>Chicken Roll</item>
+
+        <item>Chicken/ Turkey breast - 1</item>
+        <item>Spinach - 1/2 cup</item>
+        <item>Green chillie - 1</item>
+        <item>Chilly powder - 1/2 tsp</item>
+        <item>Corriander powder - 1/2 tsp</item>
+        <item>Cumin powder - 1/4 tsp</item>
+        <item>Garam masala - a pinch</item>
+        <item>Turmeric powder - a pinch</item>
+        <item>Ginger garlic paste - 1 tsp</item>
+        <item>Cumin powder - 1/4 tsp</item>
+        <item>Salt - to taste</item>
+        <item>Lemon juice - 2tsp</item>
+        <item>Yogurt - 2 tblsp</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC102">
+        <item>1. Wash the chicken/turkey breast and sclice it into thin layers about 1 inch thick.</item>
+        <item>2. Mix all the spices (garam masala, chilly powder, ginger garlic paste, corriander </item>
+        <item>powder, cumin powder, turmeric powder and salt) with yogurt and add the lemon juice to it.</item>
+        <item>3. Apply the marinade on the chicken/turkey layers and let it rest in the refrigerator for atleast half and hour. Overnight marination would be excellent.</item>
+        <item>4. While the chicken/turkey rests, heat some oil in a pan. Temper some cumin seeds.</item>
+        <item>5. Add the green chillies and spinach with little salt. Let it cook for few minutes until the spinach wilts.Switch off and let it cool.</item>
+        <item>6. Once it is cool enough, grind it into a coarse paste.</item>
+        <item>7. Spread this spinach chutney on the chicken/turkey layers.</item>
+        <item>8. Roll the chicken/turkey as shown in the picture. Use toothpicks to hold the chicken in place.</item>
+        <item>9. Fry the rolls in oil or bake it in an oven preheated to 300 degrees for 20 minutes or until done.</item>
+        <item>10. Remove the toothpicks and serve. Few drops of lemon juice can be added at the end.</item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC103">
+        <item>Chicken Sukka</item>
+
+        <item>Chicken - 1 lb (1/2 kg)</item>
+        <item>Onion - 1/2 ( diced in medium sized pieces)</item>
+        <item>Red Chilly powder - 1 tsp</item>
+        <item>Black Pepper powder - 1 tsp</item>
+        <item>Coriander/dhania powder - 2 tsp</item>
+        <item>Turmeric powder - ¼ tsp</item>
+        <item>Garam masala powder -¼ tsp</item>
+        <item>Yogurt(curd) -2 tsp</item>
+        <item>Ginger garlic paste -1 tsp</item>
+        <item>Salt - to taste</item>
+        <item>Oil - 2 tsp</item>
+        <item>Coriander leaves - (for garnishing)   </item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC103">
+        <item>1. Wash and cut chicken in small pieces.</item>
+        <item>2. Take a bowl mix chilly powder, pepper powder, coriander powder, turmeric powder, salt, garam masala, ginger garlic paste, yogurt and form a paste. Add the chicken pieces to this and rub at the masala on the chicken. Let this marinate for at least an hour in the refrigerator.</item>
+        <item>3. Now heat oil in a kadai and saute the chicken. Cover and cook it for 7 minutes or until it is thoroughly cooked.</item>
+        <item>4.Open the lid and fry on medium high flame for about 6 minutes or until all the water evaporates.</item>
+        <item>5. Add onions and fry for 2 more minutes.</item>
+        <item>6. Garnish with coriander leaves, split chillies and lemon or tomato slices .</item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC104">
+        <item>Chicken Bartha</item>
+
+        <item>Chicken - 2 lbs (boneless, skinless and chopped into very small pieces)</item>
+        <item>Onion - 4 </item>
+        <item>Tomato - 1 (chopped)</item>
+        <item>Green Chillies - 3 (minced)</item>
+        <item>Ginger - 2" piece (minced)</item>
+        <item>Garlic - 8-10 (minced)</item>
+        <item>Turmeric Powder - 1/4 tsp</item>
+        <item>Chilly Powder - 1 tblsp</item>
+        <item>Roasted Cumin Powder - 1 tsp</item>
+        <item>Garam Masala Powder - 1 tsp</item>
+        <item>Kasoori Methi Powder - 3/4 tsp </item>
+        <item>Cashew paste - 1.5 tblsp</item>
+        <item>Tomato Ketchup - 3 tblsp</item>
+        <item>Water - 1/2 cup</item>
+        <item>Oil - 2 tblsp</item>
+        <item>Cilantro - handful</item>
+        <item>Salt - as needed</item>
+
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC104">
+        <item>1. Heat oil in a pan and saute the ginger and garlic followed by the 2 chopped onions till it turns pink.</item>
+        <item>2. Add the tomatoes and green chillies and cook for few minutes.</item>
+        <item>3. Let the mixture cool and then puree it in a blender and keep aside.</item>
+        <item>4. Heat some more oil in the same pan and add the remaining 2 chopped onions, chicken pieces, turmeric powder and salt.</item>
+        <item>5. Saute it for few minutes, cover and let it cook in its own liquid.</item>
+        <item>6. The chicken oozes out a lot of water. Let it cook till all the water that has oozed out has evaporated completely.</item>
+        <item>7. Remove the lid and keep stirring till the chicken starts getting brownish.</item>
+        <item>8. At this stage add the chilly powder, roasted cumin powder, kasoori methi powder and garam masala powder.</item>
+        <item>9. Add the tomato ketchup and fry everything together for few minutes. The chicken tastes yummy at this stage itself.</item>
+        <item>10. Add the masala puree that we prepared earlier and the cashew paste and mix well.</item>
+        <item>11. Cook for few more minutes, add finely chopped corriander leaves and switch off.</item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC105">
+        <item>Chilli Chicken</item>
+
+        <item>Marination</item>
+        <item>Chicken Breast-2</item>
+        <item>Ginger Garlic Paste-2 tsp</item>
+        <item>Chilli Power-2 tsp</item>
+        <item>Garam Masala Powder-1/2 tsp</item>
+        <item>Egg -1</item>
+        <item>Corn flour-1 tsp</item>
+        <item>Red Food Color – couple pinches</item>
+        <item>Lemon juice/Vineger -1 tsp </item>
+        <item>For tossing</item>
+        <item>Bell pepper -1 cup sliced(colored )</item>
+        <item>Curry Leaves -1 string</item>
+        <item>Onion - 1/2 cup(Sliced)</item>
+        <item>Chilli sauce - as needed</item>
+        <item>Soya sauce - as needed</item>
+
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC105">
+        <item>1.Clean the chicken and cut into small pieces.</item>
+        <item>2. Mix the chicken with all the marination ingredients, let it sit for an hour.</item>
+        <item>3. Shallow fry the marinated chicken in oil and one it’s done, leave it on a paper towel.</item>
+        <item>4. In the same oil add the curry leaves and scoop it out and keep separately.</item>
+        <item>5. In a different pan add little oil and sauté the onions and the bell peppers. Let the veggies stay crunchy.</item>
+        <item>6. Add the chili sauce and little Soya sauce.</item>
+        <item>7. Toss the fried chicken pieces with this.</item>
+        <item>8. Add the curry leaves to it.</item>
+        <item>9. Yummy Chilli Chicken ready.</item>
+        <item>10. Serve it with any kind of pulav or serve as a starter.</item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC106">
+        <item>Scallion Chicken</item>
+
+        <item>Scallions (Spring Onion/ Green Onion) - 1 bunch (sliced)</item>
+        <item>Chicken - 1 lb (boneless, skinless)</item>
+        <item>Ginger garlic Paste - 1 tsp</item>
+        <item>Red Chilly Powder - 1/2 tsp</item>
+        <item>Black Pepper Powder - 1/2 tsp</item>
+        <item>Turmeric Powder - a pinch</item>
+        <item>Corriander Powder - 1/2 tsp</item>
+        <item>Garam Masala - 1/4 tsp</item>
+        <item>Lemon Juice - 3 tsp</item>
+        <item>Salt - as needed</item>
+        <item>Oil - 2 tblsp</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC106">
+        <item>1. Clean the chicken and cut it into strips. Add the lemon juice, ginger garlic paste, corriander powder, black pepper powder, turmeric powder, red chilly powder and garam masala to the chicken.  </item>
+        <item>2. Mix it thoroughly and let it marinate for atleast half an hour.</item>
+        <item>3. Heat oil in a wok/kadai. Add the white portion of the spring onions and stir fry for a couple of minutes.</item>
+        <item>4. Next add the marinated chicken and fry on medium high flame till the chicken is cooked. This should take about 5-7 minutes.</item>
+        <item>5. Add the green leaves of the scallions and continue to stirfry. All the moisture from the chicken should dry out.</item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC107">
+        <item>Chicken Tawa</item>
+
+        <item>Chicken - 500 gms </item>
+        <item>Onions - 2(finely chopped)</item>
+        <item>Tomato - 1 1/2 (chopped/pureed)</item>
+        <item>Ginger paste - 1 tbsp </item>
+        <item>Garlic paste - 1 tbsp </item>
+        <item>Turmeric - ½ tsp </item>
+        <item>Chilli powder - 2 tsp. </item>
+        <item>Garam masala powder - 1 tsp </item>
+        <item>Methi dana (fenugreek seeds) - 1 tsp </item>
+        <item>Cream - ½ cup </item>
+        <item>Capsicum - (cubed)</item>
+        <item>Onion -1 (cubed)</item>
+        <item>Red chillies -2 whole</item>
+        <item>Lemon juice - 1 tsp </item>
+        <item>Coriander leaves - for garnish</item>
+        <item>Salt - to taste</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC107">
+        <item>1. Take some oil on a tawa/pan. Add methi dana (fenugreek seeds) and fry well. </item>
+        <item>2. Add chopped onion and sauté it. </item>
+        <item>3. Add the tomatoes, ginger- garlic paste, turmeric, chilli powder, garam masala powder and sauté. </item>
+        <item>4. Then add chicken, cream, lemon juice and let the chicken cook.</item>
+        <item>5. After chicken is cooked, add capsicum and/or onion cubes, chopped coriander leaves and whole red chillies. Cook for only 2 minutes. </item>
+        <item>6. Chicken tawa is ready to be served. </item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC108">
+        <item>Chicken Fry</item>
+
+        <item>Whole Chicken - 1 medium sized (cut into 20-25 pieces with bones in)</item>
+        <item>Ginger Garlic Paste - 1 tblsp</item>
+        <item>Chilly Powder - 2 tsp</item>
+        <item>Paprika - 1 tblsp (This gives a nice colour without increasing the spice)</item>
+        <item>Pepper Powder - 1/2 tsp</item>
+        <item>Turmeric Powder - 1/4 tsp</item>
+        <item>Garam Masala - 1 tsp (optional)</item>
+        <item>Lemon Juice - 2 tblsp</item>
+        <item>Salt - as needed</item>
+        <item>Curry Leaves - 2-3 springs (keep the leaves whole or tear it with hands)</item>
+        <item>Oil - for deep frying</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC108">
+        <item>1. Cut the chicken into lemon sized pieces and wash it nicely.</item>
+        <item>2. Mix the chicken with lemon juice, ginger garlic paste, salt and pepper powder. </item>
+        <item>3. Let this rest and marinate for atleast half an hour. Overnight marination will be good.</item>
+        <item>4. In a seperate bowl mix together the chilly powder, paprika, garam masala and turmeric powder.</item>
+        <item>5. Add some lemon juice/ water with this powder and make a nice paste.</item>
+        <item>6. Rub this paste nicely over all the chicken pieces. Also mix in the curry leaves with the chicken pieces.</item>
+        <item>7. In the meantime, heat oil in a kadai for deep frying.</item>
+        <item>8. Deep fry the chicken pieces in batches until it is completely cooked. It may take 10-12 minutes for each batch.</item>
+        <item>9. Remove and drain the excess oil in paper towel. Serve with biriyani or any variety rice.</item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC109">
+        <item>Lemon Pepper Chicken</item>
+
+        <item>Chicken Breast - 2 (You can use drumsticks too)</item>
+        <item>Freshly ground pepper - 1 tblsp (or as per taste)</item>
+        <item>Lemon - 2</item>
+        <item>Salt - as needed</item>
+        <item>Oil - 1 tsp</item>
+        <item>Turmeric Powder - 1/4 tsp</item>
+        <item>Ginger garlic paste - 1 tsp</item>
+        <item>Cilantro - handful</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC109">
+        <item>1. Gently scrap the zest of both the lemon and put it in a bowl.</item>
+        <item>2. Add the ginger garlic paste, salt, turmeric powder, fresh ground pepper powder,  finely chopped cilantro, juice of one lemon and little oil and make a paste.</item>
+        <item>3. Make slits in few places in the chicken for the marination to get in nicely. Rub the marination paste all over the chicken and let it marinate for atleast half an hour in the fridge. Ovrenight marination would be good.</item>
+        <item>4. Transfer it to a baking dish, cover it with aluminium foil and Bake it in a 350 degree F oven for half an hour.</item>
+        <item>5. Uncover the dish, transfer the chicken to a new tray and bake it for another 10- 15 minutes to crisp up the outside. Turn the side of the chicken after 10 minutes so that all the sides get crisped up uniformly.</item>
+        <item>6. Remove it and transfer it to the serving plate. When it is still hot, add the juice of 1 whole lemon on top of the chicken.</item>
+        <item>7. Have as a meal with some pasta and some vegetables. If you make the same with small pieces of chicken, it would be a side with any rice dish too.</item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC110">
+        <item>Pan Fried Chicken</item>
+
+        <item>Chicken breast - 1 (slice it horizontally)</item>
+        <item>Crushed pepper - As per taste </item>
+        <item>Lime juice - 2 tsp</item>
+        <item>Salt- as per taste</item>
+        <item>Oil -To fry</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC110">
+        <item>1. Cut the breast horizontally. Now put it in a ziplock bag and tap well with a hammer.</item>
+        <item>2. Now add pepper salt and lemon juice.Keep it for 1/2 hr in the refrigerator.</item>
+        <item>3. Now pan fry it.(better to use non stick dosa or chappatti pan). </item>
+        <item>4. You can use this to make sandwiches, pasta, wraps, pizzas, noodles, fried rice or roll it inside chappati and have it.</item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC111">
+        <item>Fried Chicken</item>
+
+        <item>Coating-1</item>
+        <item>All purpose Flour-1/2 Cup</item>
+
+        <item>Coating-2</item>
+        <item>Eggs (beaten) - 2</item>
+        <item>Milk - 1 1/2 cups</item>
+        <item>Soy sauce - 1/2 tsp. </item>
+        <item>Knorr chicken bouillon - 1 tsp. </item>
+        <item>Freshly chopped parsley - 1 tbsp. </item>
+        <item>Garlic (minced) - 2 large cloves </item>
+        <item>Coating-3</item>
+        <item>All purpose flour - 1 cup</item>
+        <item>Fine bread crumbs - 3/4 cup </item>
+        <item>Salt - 1/2 tsp. </item>
+        <item>Garlic powder - 1/2 tsp. (not salt)</item>
+        <item>Onion powder - 1/4 tsp. (not salt)</item>
+        <item>Paprika - 1/2 tsp. </item>
+        <item>Black pepper - 2 tsp. </item>
+        <item>Frying</item>
+        <item>Cooking oil - 5-6 cups </item>
+        <item>Chicken - 2 lb (cut in pieces)</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC111">
+        <item>1.Mix each coating ingredients in seperate bowls.</item>
+        <item>2.Heat oil in a kadai put in medium heat(to cook the chicken)</item>
+        <item>3.Coat the chicken pieces in first flour coating and dip in milk egg coating and in final coating of bread crumbs. </item>
+        <item>4.Deep fry the chicken in oil. The oil should not be too hot otherwise the outside gets browned before the inside gets cooked. </item>
+        <item>5.Check if its cooked properly and its light brown in color.</item>
+        <item>6.Put in paper towel.</item>
+        <item>7.Serve with fries or onion rings with tomato sauce.</item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC112">
+        <item>Salted Country Chicken Fry</item>
+
+        <item>Country Chicken (Nattu Kozhi) - 1/2 kg</item>
+        <item>Shallots (Pearl Onions) - 20 (sliced)</item>
+        <item>Ginger - 1/2 " piece (crushed)</item>
+        <item>Garlic pods - 20 (crushed)</item>
+        <item>Tomato - 1</item>
+        <item>Dry Red Chilies - 10</item>
+        <item>Turmeric Powder - 1/2 tsp</item>
+        <item>Salt -  to taste</item>
+        <item>Fennel Seeds - 1 tsp</item>
+        <item>Oil - 2 tbsp</item>
+        <item>Curry Leaves - 1 sprig</item>
+        <item>Cilantro (Coriander Leaves) - 1 tbsp (finely chopped for garnish)</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC112">
+        <item>Cut the chicken into medium sized pieces. Wash it thoroughly and drain all the water from it.</item>
+        <item>Marinate the chicken with salt and turmeric powder. Let it rest while you get the other things ready.</item>
+        <item>Heat oil in a pan and add the fennel seeds and curry leaves.</item>
+        <item>Break and add the dry red chilies.</item>
+        <item>Next add the chopped shallots, crushed ginger and crushed garlic. Saute till it turns soft.</item>
+        <item>Add the chopped tomato and cook till tomato turns pulpy.</item>
+        <item>Add the chicken pieces and saute for couple of minutes.</item>
+        <item>Add required salt and about half a cup of water. Cover and cook the chicken for about 10-15 minutes.</item>
+        <item>After the chicken is cooked, open the lid, increase the flame and stir fry till all the moisture evaporates. Continue until all the chicken pieces are fried and get a nice brown color.</item>
+        <item>Finally sprinkle the chopped coriander leaves and switch off.</item>
+        <item>Awesome Chettinad Country Chicken (Nattu Kozhi) Uppu Varuvalis ready.</item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC113">
+        <item>Kheema Matar</item>
+
+        <item>Ground Meat (Kheema) - 1 lb (you could use ground beef, ground chicken, ground turkey, ground lamb or ground pork)</item>
+        <item>Frozen Green Peas - 1/2 cup</item>
+        <item>Onion - 1 large, finely chopped</item>
+        <item>Green Chillies - 3 (minced)</item>
+        <item>Ginger - 2 " piece (crushed/ minced)</item>
+        <item>Garllic - 8 cloves (minced)</item>
+        <item>Tomatoes - 2 large/3 small (pureed)</item>
+        <item>Turmeric Powder - 1/2 tsp</item>
+        <item>Chilly Powder - 1 tsp (or to taste)</item>
+        <item>Corriander Powder - 2 tsp</item>
+        <item>Cumin Powder - 1 tsp</item>
+        <item>Garam Maasala - 1/2 tsp</item>
+        <item>Pepper powder - 1/2 tsp</item>
+        <item>Whole Garam Masala - (1 bay leaf, 1 cinnamon stick, 2-3 cloves, 3 cardomoms)</item>
+        <item>Salt - to taste</item>
+        <item>Oil - 2 tblsp</item>
+        <item>Cilantro - for garnishing (finely chopped)</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC113">
+        <item>1. Heat oil in a pan and add the whole garam masala(bay leaf, cinnamon stick, cardamom and cloves).</item>
+        <item>2. Add the finely chopped onions, cover and cook for 18-20 minutes stirring once in a while till the onions turns brown in colour.</item>
+        <item>3. Add ginger, garlic and green chillies and cook for another few minutes.</item>
+        <item>4. Add  the tomatoes and cook for about 10-15 minutes stirring frequently until oil starts seperating from the mixture.</item>
+        <item>5. Add turmeric powder, chilly powder, corriander powder, cumin powder and pepper powder.</item>
+        <item>6. Add the ground meat and required salt and mix everything together. </item>
+        <item>   (Add little water if you want little gravy. I prefer this as a dry dish.)</item>
+        <item>7. Cover with a lid and cook for about 20-25 minutes on low flame till the meat is completely cooked.</item>
+        <item>8. Finally add the green peas, garam masala and finely chopped cilantro and mix.</item>
+        <item>9. Cook for another 2 minutes and switch off. Serve as a side for chappatti, naan or pulao.</item>
+    </array>
+
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC114">
+        <item>Mutton Masala</item>
+
+        <item>Mutton - 1/2 kg (1 lb)</item>
+        <item>Onion Chopped - 1/2 cup</item>
+        <item>Tomato small sized chopped -1</item>
+        <item>Ginger Garlic - 2 tbsp</item>
+        <item>Curry Leaves- 1 string</item>
+        <item>Chilly powder- 1 tsp</item>
+        <item>Coriander powder - 2 tsp</item>
+        <item>Fennel seeds powdered - 1/2 tsp</item>
+        <item>Garam masala -1/2 tsp</item>
+        <item>Turmeric -1/4 tsp</item>
+        <item>Oil - 2 tbsp</item>
+        <item>Water - 1/2 cup</item>
+        <item>Coriander leaves chopped – for garnish</item>
+        <item>Black Pepper –powdered - 1/2 tsp</item>
+        <item>Salt to Taste </item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC114">
+        <item>1. Wash Mutton thoroughly in water and drain it.</item>
+        <item>2. Sauté Onion and ginger and garlic together in oil till the onion turns nicely brown.</item>
+        <item>3. Add Tomato to it and sauté for another minute.</item>
+        <item>4. Add the mutton pieces and sauté it for a minute.</item>
+        <item>5. Add Chili powder, coriander powder, Garam masala, turmeric, salt and sauté it for another couple of minutes so that the mutton pieces will coated with all the masalas.</item>
+        <item>6. Add the water (1/2 cup) and let it cook for 15 -20 minutes.</item>
+        <item>7. Let it cook on simmer for another 15 minutes till most of the water is evaporated.</item>
+        <item>8. Garnish it with Coriander leaves, curry leaves, Fennel seeds powder and black pepper</item>
+    </array>
+
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC115">
+        <item>Cauliflower Egg Bhurjee</item>
+
+        <item>Cauliflower - 1 (finely chopped/grated)</item>
+        <item>Eggs - 3 (beaten)</item>
+        <item>Onion - 1 (chopped)</item>
+        <item>Green Chillies - 3-4</item>
+        <item>Salt - to taste</item>
+        <item>Pepper - to taste</item>
+        <item>For Tempering</item>
+        <item>Oil - 2 tblsp</item>
+        <item>Mustard seeds - 1 tsp</item>
+        <item>Urad dal - 1 tsp</item>
+        <item>Cumin seeds - 1 tsp</item>
+        <item>Curry Leaves - 1 strand</item>
+        <item>Optional Ingredients</item>
+        <item>Garlic - 1 clove (grated)</item>
+        <item>Ginger - 1/2 " piece (grated) Tomato - 1 (chopped)</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC115">
+        <item>Heat oil in a pan and splutter the mustard seeds, cumin seeds, urad dal add curry leaves.</item>
+        <item>Fry the chopped onions and green chillies.</item>
+        <item>When the onions turn golden brown, add the cauliflower along with required salt and pepper and let it cook for a couple of minutes. Since the cauliflower is very finely chopped, it gets cooked in 2 minutes.</item>
+        <item>In the meanwhile beat the eggs in a separate bowl.</item>
+        <item>Add the eggs to the cauliflower. Do not disturb that for the next 2 minutes.</item>
+        <item>After that, toss everything together till the egg gets cooked.</item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC116">
+        <item>Whole Roasted Chicken</item>
+
+        <item>For the chicken</item>
+        <item>Whole Chicken - 1</item>
+        <item>Garlic - 3 cloves (minced)</item>
+        <item>Rosemary(dried) - 1 tbsp</item>
+        <item>Unsalted butter(softened) - 3 tbsp</item>
+        <item>Crushed black pepper - 1 tsp</item>
+        <item>Salt - to taste</item>
+        <item>Pepper - to taste</item>
+        <item>Lemon - 1</item>
+        <item>For the potatoes</item>
+        <item>Potatoes - 4 large (or use about 15 baby potatoes)</item>
+        <item>Rosemary (dried) - 2 tsp (or use 1 tbsp of fresh rosemary)</item>
+        <item>Garlic - 1 bulb</item>
+        <item>Salt - 1/2 tsp</item>
+        <item>Pepper - 1/4 tsp</item>
+        <item>Olive Oil - 2 tbsp</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC116">
+        <item>Preheat the oven to 425 degrees F.</item>
+        <item>Wash the potatoes and dry it completely using a clean kitchen towel. If you are using large potatoes, cut it into big chunks. If using baby potatoes, you can leave them whole.</item>
+        <item>Take the potatoes in a large bowl. Mix the olive oil, salt, pepper and rosemary with it.</item>
+        <item>Cut the garlic bulb in half or leave it whole. Add it along with the above mixture.</item>
+        <item>Take a large roasting dish and drizzle some olive oil. Add the potatoes and spread it at the bottom of the pan.</item>
+        <item>Clean the chicken and dry it completely.</item>
+        <item>Juice the lemon and rub it all around the chicken. Leave the lemon rind along with the potatoes in the baking dish. </item>
+        <item>Mix the butter, garlic, rosemary, salt, crushed pepper powder and the leftover lemon juice in a bowl.</item>
+        <item>Spread some of this butter mixture under the skin of the chicken. Spread the remaining butter all over the chicken.</item>
+        <item>Place the chicken carefully on the bed of potatoes.</item>
+        <item>Tuck the legs and wings of the chicken under the body to prevent it from getting burnt.</item>
+        <item>Bake for about 1.5 hours. Check the internal temperature. If it has reached 170 degree F, remove it from the oven. If not keep it for another 10 minutes and check. If you do not have a kitchen thermometer, cut with a knife into the chicken. If the juices coming out of the chicken are clear and  colourless, then the chicken is cooked. Do not overcook, else the chicken will become dry.</item>
+        <item>Whole Roasted Chicken</item>
+        <item>Let the chicken rest for about 10 minutes before you dig in.</item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC117">
+        <item>Chicken And Vegetable Saute</item>
+
+        <item>Chicken – 1 lb (1/2 kg)</item>
+        <item>Mixed vegetables - 1 lb (1/2 kg) (You can use a mixture of vegetables like broccoli, cauliflower, sugar snap peas, asparagus, green beans, green peas, carrots, bell peppers, water chestnut, mushrooms etc..)</item>
+        <item>Oregano - 1/2 tsp</item>
+        <item>Red chilly flakes or Black pepper powder – 1/4 tsp or as needed</item>
+        <item>Soy sauce – 2 tbsp</item>
+        <item>Oil – 2 tbsp</item>
+        <item>Salt – as needed</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC117">
+        <item>Cut the chicken to small pieces or long thin strips.</item>
+        <item>Chop the vegetables in big chunks or long strips.</item>
+        <item>Take a big wok and heat on medium high heat.</item>
+        <item>Pour the oil and then add the chicken pieces.</item>
+        <item>Saute the chicken till it turns opaque. Let the chicken cook till the water that oozes out from the chicken gets evaporated.</item>
+
+        <item>Next add the mixed vegetables. Stir fry for a couple of minutes.</item>
+        <item>Add the soy sauce, oregano, salt and chili flakes.</item>
+        <item>Stir fry for about 5 minutes on high flame. The vegetables should be cooked tender crisp.</item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC118">
+        <item>Pan Seared Chicken</item>
+
+        <item>Chicken breast – 2</item>
+        <item>Tandoori chicken masala (or any store bought chicken masala blend) – 2 tbsp</item>
+        <item>Salt – to taste</item>
+        <item>Oil (Olive oil or any refined oil)  – 1 tbsp</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC118">
+        <item>Wash the chicken breast pieces and slice it to 2 thinner pieces. Thinner pieces cooks fast.</item>
+        <item>Sprinkle some of the chicken masala spice mix and required salt on the chicken pieces.</item>
+        <item>Rub the spices all over the chicken slices.</item>
+        <item>Heat a griddle or tawa on the stove over medium flame. spray or drizzle the oil.</item>
+        <item>Place the chicken breast pieces on the tawa.</item>
+        <item>Wait till one side is cooked. Flip the pieces carefully using tongs and cook the other side too.</item>
+        <item>Once it’s fully cooked, the chicken is no longer transparent i.e. it changes from pinkish color to white or golden brown. If you gently press the center of the slice, the meat should feel firm and the juices running out should be colorless and not pink.</item>
+    </array>
+
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC119">
+        <item>Baked Fish</item>
+
+        <item>Whole Fish - 1</item>
+        <item>Turmeric Powder - 1/4 tsp</item>
+        <item>Chilly Powder - 2 tsp</item>
+        <item>Corriander Powder - 2 tsp</item>
+        <item>Ginger garlic Paste - 2 tsp</item>
+        <item>Pepper Powder - 1 tsp</item>
+        <item>Salt - to taste</item>
+        <item>Oil - 1 tblsp</item>
+        <item>Onion - 1/2</item>
+        <item>Garlic - 3 cloves</item>
+        <item>Cilantro - 1/2 bunch</item>
+        <item>Lemon - 1/2</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC119">
+        <item>1. Wash the fish nicely and make small slits on both sides.</item>
+        <item>2. Marinate the fish with salt, chilly powder, turmeric powder, corriander powder, pepper powder and ginger garlic paste.</item>
+        <item>3. After marinating for half an hour, stuff the onions, garlic, lemon slices and cilantro into the body of the fish.</item>
+        <item>4. Sprinkle few drops of oil over the body of the fish.</item>
+        <item>5. Bake the fish in an oven preheated to 350 degrees for 20 minutes.</item>
+        <item>6. Set the oven to broil mode and broil it for 5 minutes.</item>
+        <item>7. Flip the fish and broil the other side for another 5-10 minutes until the skin of the fish is nicely browned.</item>
+        <item>8. Garnish with cilantro and lemon rings and serve.</item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC120">
+        <item>Fish Egg (Mullet Roe) Fry</item>
+
+        <item>Mullet Roe - 3 ( cut into cubes)</item>
+        <item>Onion - 1/2 (finely chopped)</item>
+        <item>Ginger garlic paste - 1/4 tsp</item>
+        <item>Chilly Powder - 1/2 tsp</item>
+        <item>Pepper powder - 1/4 tsp</item>
+        <item>Turmeric Powder - a pinch</item>
+        <item>Lemon - 1/2</item>
+        <item>Salt - to taste</item>
+        <item>Oil - 2 tblsp</item>
+        <item>Parsley - for garnish</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC120">
+        <item>1. Marinate the roe for half an hour with ginger garlic paste, chilly powder, pepper powder, </item>
+        <item>turmeric powder and salt.</item>
+        <item>2. Heat the oil in a pan and saute the onions for a minute. This is optional based on individual </item>
+        <item>choice.</item>
+        <item>3. Push the onions to the sides of the pan and add the marinated roe. Let the roe fry for 2 minutes.</item>
+        <item>4. Gently flip the roe and fry for another minute. </item>
+        <item>5. Mix the onions and the roe together and reduce the flame. Let it hang on for another 2 minutes </item>
+        <item>till all the flavours blend together.</item>
+        <item>6. Juice the lemon on top and garnish with chopped parsley. This goes very well with curd rice, </item>
+        <item>biriyani, sambhar rice or chappatti.</item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC121">
+        <item>Red Lobster Masala</item>
+
+        <item>Lobster tail/ Whole lobster - 2</item>
+        <item>Onion - 2 (sliced lengthwise)</item>
+        <item>Ginger garlic paste -  2 tblsp</item>
+        <item>Tomatoes - 2-3 (chopped)</item>
+        <item>Green Chillies - 3</item>
+        <item>Chilli powder - 2 tsp</item>
+        <item>Turmeric powder - 1/2 tsp</item>
+        <item>Mustard seeds - 1/4 tsp</item>
+        <item>Cilantro - handful</item>
+        <item>Oil - 2-3 tblsp</item>
+        <item>Salt - to taste</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC121">
+        <item>1. Boil the lobster tail in water with some salt and turmeric powder for 2-3 minutes.</item>
+        <item>2. If using whole lobster, cut it into slices after boiling. If using lobster tail just make a slit in the center for the masala to get inside.</item>
+        <item>3. Heat oil in a pan. When it is smoking hot, sear the lobster in that for a minute over medium high heat.</item>
+        <item>4. Remove the lobster and keep it aside.</item>
+        <item>5. In the same pan, add some more oil if needed, splutter the mustard seeds and saute the onions till they turn golden brown.</item>
+        <item>6. Fry the ginger garlic paste for a minute and then add the tomatoes.  </item>
+        <item>7. Add turmeric powder, required salt and chilli powder and cook everything for 5 minutes till a nice masala is formed. </item>
+        <item>8. Now add the fried lobster pieces/tail and finely chopped cilantro.  </item>
+        <item>9. Toss everything together for 1-2 minutes. Add little water and bring it to a boil if you want more gravy.</item>
+        <item>10.Garnish with finely chopped cilantro and split green chilies. Serve with pulav or shrimp biriyani. </item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC122">
+        <item>Fish Fry</item>
+
+        <item>Fish Pieces - 1 lb (1/2 kg)</item>
+        <item>Red Chilly Powder - 3 tsp</item>
+        <item>Corriander Powder - 1 tsp</item>
+        <item>Turmeric Powder - 1/4 tsp</item>
+        <item>Pepper Powder - 1/2 tsp</item>
+        <item>Garlic Powder - 1/2 tsp (or use 1/2 tsp Ginger Garlic Paste) </item>
+        <item>Curry Leaves - 1 spring (chopped)</item>
+        <item>Lemon Juice - 1 tsp</item>
+        <item>Salt - 1 tsp</item>
+        <item>Oil - for frying</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC122">
+        <item>1. Wash the fish thoroughly and cut it into pieces.</item>
+        <item>2. Mix the chilly powder, corriander powder, pepper powder, turmeric powder, chopped curry leaves,  garlic powder and salt in a bowl.</item>
+        <item>3. Add the lemon juice and make a smooth spice paste.</item>
+        <item>4. Apply this paste over the fish pieces. Let it marinate for 10-15 minutes.</item>
+        <item>5. Shallow fry the pieces till both sides are brown and crispy (about 2-3 minutes on each side).</item>
+        <item>6. Serve with rice and some curry or serve as an appetizer.</item>
+    </array>
+
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC123">
+        <item>Capsicum Fish</item>
+
+        <item>Fish fillets - 2 (cutt into pieces)</item>
+        <item>Onion - 1/2 (diced in medium sized pieces)</item>
+        <item>Tomato - 2 ( finely diced)</item>
+        <item>Capsicum - 1 (diced in medium sized pieces)</item>
+        <item>Chilly powder - 1tsp</item>
+        <item>Pepper powder - 1tsp</item>
+        <item>Coriander/dhania powder - 2 tsp</item>
+        <item>Turmeric powder - ¼ tsp</item>
+        <item>Ginger garlic paste -1 tsp</item>
+        <item>Salt - to taste</item>
+        <item>Mustard Seeds - ¼ tsp</item>
+        <item>Curry Leaves - 5</item>
+        <item>Oil - 2 tsp</item>
+        <item>Coriander leaves - (for garnishing) </item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC123">
+        <item>1.Take a deep bowl mix half the spices (1/2 tsp chilly powder, 1/2 tsp pepper powder, 1tsp coriander powder,1/4 tsp turmeric powder, salt and 1/2 tsp ginger garlic paste) to make a thick paste. Add fish pieces to this and rub to coat the masala on all the fish pieces. </item>
+        <item>2. Heat oil in a kadai or deep sauce pan and shallow fry the fish pieces. </item>
+        <item>3. Once both the sides of the fish is browned, remove it and keep aside.</item>
+        <item>4. Now add some oil to the same kadai. When the oil is heated, splutter the mustard seeds and curry leaves. Saute the onions until they start to sweat.</item>
+        <item>5. Next add the capsicum pieces and tomato along with remaining spices (1/2 tsp chilly powder, 1/2 tsp pepper powder, 1tsp coriander powder,salt). Saute for 3 minutes or till the tomato pieces are nicely cooked.</item>
+        <item>6. At this stage add the fish pieces. Toss everything gently without breaking the fish pieces.</item>
+        <item>7. Let this cook for another 2 minutes until all the juices from the tomatoes are completely absorbed by the fish.</item>
+        <item>8. Garnish with coriander leaves, split chillies or lemon slices. Serve with rice varieties, biriyani, pulao or chappatti.</item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC124">
+        <item>Chilli Shrimp</item>
+
+        <item>Marination:</item>
+        <item>Shrimp -1 lb</item>
+        <item>Ginger Garlic Paste -2 tsp</item>
+        <item>Chilli Power -1 spoon</item>
+        <item>Garam Masala Powder -1/2 tsp</item>
+        <item>Corn flour -1 tblsp</item>
+        <item>Red food color - couple pinches/drops</item>
+        <item>Lemon juice -1 tblsp </item>
+
+        <item>For tossing:</item>
+        <item>Bell pepper (colored ) -1 cup (sliced lengthwise)</item>
+        <item>Curry Leaves - 1 string</item>
+        <item>Onion - 1/2 cup(Sliced lengthwise)</item>
+        <item>Chilli sauce - 1 tblsp or to taste</item>
+        <item>Soya sauce - 1 tblsp or to taste</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC124">
+        <item>1. Clean and devein the Shrimp.</item>
+        <item>2. Mix the Shrimp with all the marination ingredients and let it sit for an hour.</item>
+        <item>3. Heat oil in a wok, fry the curry leaves and scoop it out and keep separately.</item>
+        <item>4. In the same pan saute the onions and the bell peppers. Let the veggies stay crunchy.</item>
+        <item>5. Add the chili sauce and little Soya sauce.</item>
+        <item>6. Add the marinated shrimp on the sautéed veggie bed and close it with a lid and let it cook on a low flame.</item>
+        <item>7. After couple minutes mix it together and let it cook for another minute</item>
+        <item>8. Add the curry leaves to it.</item>
+        <item>9. Yummy spicy Chilli Shrimp ready.</item>
+        <item>10. Serve it with any kind of pulav or serve as a starter. </item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC125">
+        <item>Fish Masala</item>
+
+
+        <item>For Marinating</item>
+        <item>Fish - 1 lb (cut into pieces)</item>
+        <item>Red Chilly Powder - 2 tsp</item>
+        <item>Corriander Powder - 1/2 tsp</item>
+        <item>Turmeric Powder - 1/4 tsp</item>
+        <item>Fennel Powder - 1/2 tsp</item>
+        <item>Salt - as needed</item>
+        <item>Lemon Juice - as needed (app. 1 tblsp)</item>
+        <item>For  Masala</item>
+        <item>Onion - 1 big(or 2 small finely chopped)</item>
+        <item>Tomato - 1 big (or 2 small chopped)</item>
+        <item>Green Chilly - 4</item>
+        <item>Red chilly Powder - 2 tsp</item>
+        <item>Corriander Powder - 1.5 tsp</item>
+        <item>Turmeric Powder - 1/4 tsp</item>
+        <item>Fennel Powder - 1/4 tsp</item>
+        <item>Cumin Powder - 1/4 tsp</item>
+        <item>Grated Cococnut - 2 tblsp</item>
+        <item>Tamarind - small lime sized</item>
+        <item>Salt - as needed</item>
+        <item>Cilantro - for garnish</item>
+        <item>Oil - 2 tblsp</item>
+
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC125">
+        <item>1. Cut the fish into small pieces and marinate with the ingredients under 'For Marinating'.</item>
+        <item>2. After about 5 minutes of marinating, shallow fry the pieces.</item>
+        <item>3. To prepare the masala, heat oil in a pan and fry the onions till golden brown.</item>
+        <item>4. Next add the tomatoes and green chillies and cook till the tomatoes become pulpy.</item>
+        <item>5. Now add the tamarind pulp and all the dry spices. (red chilly powder, corriander powder, turmeric powder, cumin powder, fennel powder and salt)</item>
+        <item>6. Grind the coconut and add it to the masala. </item>
+        <item>7. Cook till the mixture is well cooked and oil seperates from the masala.</item>
+        <item>8. Finally add the fried fish pieces and chopped cilantro.</item>
+        <item>9. Toss gently and cover with a lid. Cook on medium low heat for few minutes and switch off. </item>
+        <item>10. Serve with white rice or chappatti.</item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC126">
+        <item>Ridgegourd Shrimp Masala</item>
+
+        <item>Ridgegourd - 1 (chopped)</item>
+        <item>Shrimp - 1/2 lb (cleaned and deveined)</item>
+        <item>Onion - 2 (chopped)</item>
+        <item>Tomato - 2 (chopped)</item>
+        <item>Green Chilly - 1 (minced)</item>
+        <item>Garlic - 3-4 (minced)</item>
+        <item>Ginger - 1/2 " piece (minced)</item>
+        <item>Chilly Powder - 1 tsp</item>
+        <item>Corriander Powder - 1.5 tsp</item>
+        <item>Turmeric Powder - 1/4 tsp</item>
+        <item>Mustard seeds - 1/4 tsp</item>
+        <item>Cumin seeds - 1/4 tsp</item>
+        <item>Curry Leaves - 1 spring</item>
+        <item>Cilantro - for garnish</item>
+        <item>Oil - 2 tblsp</item>
+        <item>Salt - as needed</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC126">
+        <item>1. Heat oil in a pan and splutter the mustard seeds, cumin seeds and curry leaves.</item>
+        <item>2. Add the finely chopped garlic and ginger and fry for a minute. The flame should be in medium low to prevent the ginger and garlic from getting burnt.</item>
+        <item>3. Saute the onions and green chilly till the onions turn golden brown in colour.</item>
+        <item>4. Add the tomatoes, turmeric powder, corriander powder and chilly powder and cook till the tomatoes gets mashed up.</item>
+        <item>5. When oil starts seperating from the masala, add the shrimp pieces and fry so that shrimp is coated with the masala.</item>
+        <item>6. Add the ridgegourd pieces and required salt. Cover and let it cook for about 5-10 minutes.</item>
+        <item>7. The ridgegourd pieces will ooze out lot of water. Cook till most of the water gets dried up and oil starts seperating from the masala.</item>
+        <item>8. Finally toss finely chopped cilantro and switch off.</item>
+        <item>9. Serve this yummy sidedish with white rice and curry, variety rice dishes, pulaos or chappatti. You can also use this to make masala dosa.</item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC127">
+        <item>Goan Fish Fry</item>
+
+        <item>Fish (Pomfret or any other fish) -  1 lb</item>
+        <item>Ginger Garlic Paste - 1 tsp</item>
+        <item>Lemon Juice - 2 tblsp</item>
+        <item>Turmeric Powder - 1/2 tsp + 1/2 tsp</item>
+        <item>Red Chilly Powder - 3 tsp (to taste)</item>
+        <item>Pepper Powder - 1/2 tsp</item>
+        <item>Corriander Powder (optional) - 2 tsp</item>
+        <item>Salt - to taste</item>
+        <item>Rava (Semolina, Sooji) -  3 tblsp</item>
+        <item>Oil - 3-4 tblsp (for shallow frying)</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC127">
+        <item>1. Clean the fish and make a few slits for the spices can get in. You can also cut it into steaks and proceed.</item>
+        <item>2. In a small bowl, make a paste of lemon juice, ginger garlic paste, red chilly powder, pepper powder, corriander powder and salt.</item>
+        <item>3. Rub the fish with the paste such that it coats the whole fish. Let this marinate for 15-30 minutes.</item>
+        <item>4. Take the rava in a plate. Mix little salt and turmeric powder with the rava. You can add some chilly powder too if you like.</item>
+        <item>5. Heat little oil in a tava or frying pan.</item>
+        <item>6. Take the fish carefully and roll it in the rava mixture.  The fish should be coated on all sides with the rava.</item>
+        <item>7. Gently place the fish on the hot pan. Fry for about 4 minutes on one side or till the rava turns golden brown.</item>
+        <item>8. Turn the fish carefully and fry the other side too. Drizzle some oil if needed.</item>
+        <item>9. The  rava forms a cripy layer on the outside. Garnish with lemon wedges and cilantro.</item>
+    </array>
+
+
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC128">
+        <item>Lemon Pepper Shrimp</item>
+
+        <item>Shrimp - 1 lb (cleaned and deveined)</item>
+        <item>Freshly ground pepper - 1 tsp (or as per taste)</item>
+        <item>Lemon - 1</item>
+        <item>Salt - as needed</item>
+        <item>Oil - 1 tsp</item>
+        <item>Turmeric Powder - 1/4 tsp</item>
+        <item>Ginger garlic paste - 1 tsp</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC128">
+        <item>1. Gently scrap the zest of the lemon and put it in a bowl along with the ginger garlic paste, salt, turmeric powder, freshly ground and juice of half the lemon.</item>
+        <item>2. Add the shrimp to this and toss everything together till the shrimp is coated with the .spices.</item>
+        <item>3. Heat oil in a pan and when it is hot enough, add the shrimp.</item>
+        <item>4. Stir fry the shrimp for 2-3 minutes until the shrimp is cooked. The shrimp curls up and becomes opaque, an indication that it is cooked.</item>
+        <item>5. Transfer it to a serving bowl. Over cooking of the shrimp will make it rubbery.</item>
+        <item>6. Serve as a side, as appetizer or toss with some veggies to make a simple shrimp salad.</item>
+    </array>
+
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC129">
+        <item>Crab Fry </item>
+
+        <item>Crab - 2</item>
+        <item>Onion - 1 big (finely chopped)</item>
+        <item>Tomato - 2-3 (finely chopped)</item>
+        <item>Ginger Garlic Paste - 1 tbsp</item>
+        <item>Turmeric Powder - 1/2 tsp</item>
+        <item>Chilly Powder - 1 tbsp</item>
+        <item>Coriander Powder - 1/2 tsp</item>
+        <item>Curry Leaves - handful</item>
+        <item>Cilantro - handful</item>
+        <item>Salt - to taste</item>
+        <item>Oil - 2 tbsp</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC129">
+        <item>Bring water (1 or 2 cups) to a boil in a deep vessel. When it comes to a rolling boil, add enough salt and turmeric powder to it.</item>
+        <item>Add the crab to this and cook for 2-3 minutes. After that drain the water and keep it aside.</item>
+        <item>Heat the oil in a big kadai/pan and saute the onions till it turns brown in colour.</item>
+        <item>Add the ginger garlic paste and fry for a minute.</item>
+        <item>Next add the tomatoes, salt, chilly powder and coriander powder. (You can add few spoons of the water in which you cooked the crab to the masala to prevent the spices from getting burnt.)</item>
+        <item>Fry this mixture nicely till oil separates from the masala and most of the moisture has evaporated. </item>
+        <item>At this stage add the crab pieces, finely chopped curry leaves and coriander leaves.</item>
+        <item>Toss everything together for about 5 minutes till all the crab pieces are nicely coated with the masala.</item>
+        <item>Switch off. Tasty Nandu Varuval is ready to serve.</item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC130">
+        <item>Crab Cutlets</item>
+
+        <item>Crab meat - 1 lb</item>
+        <item>Onion - 1/2 (finely chopped)</item>
+        <item>Potato - 1</item>
+        <item>Garlic - 2 cloves (minced)</item>
+        <item>Cumin/Fennel seeds - 1/2 tsp</item>
+        <item>Egg - 1</item>
+        <item>Chilly powder - 1 tsp</item>
+        <item>Garam Masala - 1/4 tsp</item>
+        <item>Cilantro - handful(finely chopped)</item>
+        <item>Bread crumbs - 2 tblsp</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC130">
+        <item>1. Boil the crab, remove the meat out and keep aside. You can get crab meat from the store.</item>
+        <item>2. Boil a potato and keep it aside.</item>
+        <item>3. Heat oil in a pan and saute the onions and garlic. </item>
+        <item>4. Take mixing bowl, add the sauteed onions, garlic, boiled potato, shredded crab meat, cumin seeds and cilantro.</item>
+        <item>5. Add chilly powder, salt, garam masala and one egg. Mix everything together.</item>
+        <item>6. If the mixture is moist, add bread crumbs.</item>
+        <item>7. Make equal sized crab meat balls and then shape them as cutlets.</item>
+        <item>8. Fry them with few drops of oil on a hot griddle.</item>
+        <item>9. Serve as a snack or with fish biriyani.</item>
+    </array>
+
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC131">
+        <item>Fish Cutlets</item>
+
+        <item>Fish fillets - 3-4</item>
+        <item>Onion - 1/2 (grated)</item>
+        <item>Garlic - 3 cloves (grated)</item>
+        <item>Ginger - 1"slice (grated)</item>
+        <item>Egg - 2</item>
+        <item>Garam masala - 1 tsp</item>
+        <item>Chilly powder - 1 tsp</item>
+        <item>Cumin powder - 1/2 tsp</item>
+        <item>Bread Crumbs - 1/2 cup</item>
+        <item>Cilantro - hanful (finely chopped)</item>
+        <item>Oil - for frying</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC131">
+        <item>1. Take water in a pan and bring it to a boil. Add the fish fillets to the water and let it cook nicely (till the fish turns opaque).</item>
+        <item>2. Remove the fish from the water and shred it into small pieces.</item>
+        <item>3. Heat oil in a small skillet and saute the onions, ginger and garlic in it till the raw smell vanishes.</item>
+        <item>4. Add the shredded fish to it along with garam masala, salt, chilly powder , cumin powder and cilantro.</item>
+        <item>5. Keep stirring the mixture until it becomes very dry. This is essential for the cutlets to bind together very well.</item>
+        <item>6. Once the above mixture is cool enough to handle, add one raw egg to it. Mix everything nicely with hands.</item>
+        <item>(The egg is mainly used for binding. You can also use a handful of cooked rice or a boiled and mashed potato instead.)  </item>
+        <item>7. Beat another egg in a bowl.</item>
+        <item>8. Make small round balls out of the cutlet mixture and shape it into patties. You can make any shape - round, oval, heart shape, cylindrical etc.</item>
+        <item>9. Dip the patties in the beaten egg then coat it with bread crumbs. Now you can deep fry, shallow fry or bake these cutlets.</item>
+        <item>10. Serve hot with ketchup or hot sauce.</item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC132">
+        <item>Prawns Masala</item>
+
+        <item>Prawns (or Shrimp) - 1 lb (about 1/2 kg)</item>
+        <item>Onion - 2 (chopped)</item>
+        <item>Ginger - 1" piece (minced)</item>
+        <item>Garlic - 5 cloves (minced)</item>
+        <item>Tomato - 1 big (or 2 small chopped)</item>
+        <item>Curry Leaves - 2 sprigs</item>
+        <item>Mustard Seeds - 1/2 tsp</item>
+        <item>Turmeric Powder - 1/4 tsp</item>
+        <item>Red Chilly Powder - 1 or 2 tsp (adjust according to your taste)</item>
+        <item>Coriander Powder - 2 tsp</item>
+        <item>Garam Masala - 1/2 tsp</item>
+        <item>Pepper Powder - 1/4 tsp (optional)</item>
+        <item>Lemon Juice - few drops</item>
+        <item>Oil - 1 tblsp</item>
+        <item>Salt - to taste</item>
+        <item>Coriander Leaves (Cilantro) and Lemon wedge - for garnish</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC132">
+        <item>Clean the shrimp (or prawns) and devein them.</item>
+        <item>Add little salt, pepper powder and lemon juice. Let this rest and marinate till you prepare the other stuff.</item>
+        <item>Take a frying pan and add oil to it. Splutter the mustard seeds and curry leaves.</item>
+        <item>Add the onions and saute till it turns golden brown. Add the finely chopped ginger and garlic.</item>
+        <item>Add the chopped (or pureed) tomato. Cook till the tomatoes are cooked.</item>
+        <item>Mix the dry spice powder - turmeric powder, red chilly powder, coriander powder and garam masala.</item>
+        <item>Let it cook till oil separates from the masala.</item>
+        <item>Add the prawns and mix for 2 minutes so that all the prawns will coated with the masala.</item>
+        <item>Add very little water and required salt. You can made a dry prawns (or shrimp) masala by cooking on low heat without adding any water. Adjust the water as per your requirement.</item>
+        <item>Cover and let it cook for about 10 minutes till all the prawns curls up into a 'c' or 'O' shape. This is an indication that it is done.</item>
+        <item>Garnish with cilantro and a lemon wedge and switch off. </item>
+    </array>
+
+
+    <array name="INGREDIENT_NVSTARTER_ITC133">
+        <item>Chilli Garlic Prawns</item>
+
+        <item>250g Cleaned Prawns</item>
+        <item>5 large Garlic cloves</item>
+        <item>4 Whole dried Kashmiri chilli (Reduce if you are using a Hot chillies)</item>
+        <item>1-2 Tablespoons butter/Vegetable oil</item>
+        <item>Salt - as required</item>
+    </array>
+    <array name="DIRECTIONS_NVSTARTER_ITC133">
+        <item>1. Heat a sauce pan and add butter. When melted, add chopped dries chillies and garlic and sauté till garlic goes soft.</item>
+        <item>2. Add prawns and required amount of salt. Cook for around 10 minutes or until done. This dish will pair well with noodles, fried rice etc.</item>
+    </array>
+
+</resources>
