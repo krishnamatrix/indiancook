@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    The array is of design <Name|imageName|code to drive the activity
+    -->
+    <array name="FOOD_CATEGORIES">
+        <item>Soups|soup|soup</item>
+        <item>Salads|salad|salad</item>
+        <item>Starters|starters|starters</item>
+        <item>Grills|grills|grills</item>
+        <item>Main Course|maincourse|maincourse</item>
+        <item>Desserts|desserts|desserts</item>
+    </array>
+</resources>

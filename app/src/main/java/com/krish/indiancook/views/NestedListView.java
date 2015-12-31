@@ -1,4 +1,4 @@
-package com.krish.indiancook.utils;
+package com.krish.indiancook.views;
 
 import android.content.Context;
 import android.util.AttributeSet;

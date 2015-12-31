@@ -1,29 +1,27 @@
 package com.krish.indiancook.adapter;
 
-/**
- * Created by u462716 on 12/28/2015.
- */
-
 import android.content.Context;
 import android.graphics.Color;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.krish.indiancook.R;
-import com.krish.indiancook.views.RoundedImageView;
 
 import java.util.List;
 
-public class IngredientAdapter extends ArrayAdapter<String> {
+/**
+ * Created by Krishna on 12/29/2015.
+ */
+public class FoodCategoriesAdapter extends ArrayAdapter<String> {
     private final Context context;
     private final List<String> values;
 
-    public IngredientAdapter(Context context, List<String> values) {
+    public FoodCategoriesAdapter(Context context, List<String> values) {
         super(context, -1, values);
         this.context = context;
         this.values = values;
@@ -50,30 +48,23 @@ public class IngredientAdapter extends ArrayAdapter<String> {
             rowView = new LinearLayout(getContext());
             LayoutInflater inflater = (LayoutInflater) context
                     .getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-            inflater.inflate(R.layout.ingredient, rowView, true);
+            inflater.inflate(R.layout.foodcategoriesitem, rowView, true);
         } else {
             rowView = (LinearLayout)convertView;
         }
         String ingredItem = values.get(position);
-        Log.d("IndianCook", "IngredItem:" + ingredItem +",position:" + position);
         String[] ingredItemList = ingredItem.split("\\|");
-        TextView textView = (TextView) rowView.findViewById(R.id.ingredientDetail);
-        RoundedImageView imageView = (RoundedImageView) rowView.findViewById(R.id.ingredientImage);
+        TextView textView = (TextView) rowView.findViewById(R.id.foodItemText);
+        ImageView imageView = (ImageView) rowView.findViewById(R.id.foodItem);
         textView.setText(ingredItemList[0]);
         textView.setTextColor(Color.parseColor("#000000"));
+        rowView.setTag(ingredItemList[2]);
         try{
             int res = context.getResources().getIdentifier(ingredItemList[1] , "drawable", context.getPackageName());
-            Log.d("IndianCook","The coriander image is:" + res + "," + ingredItemList[1]);
             if(res != 0) {
                 imageView.setImageResource(res);
             }
         } catch(Exception e){
-        }
-
-        if(position % 2 == 0) {
-            rowView.setBackgroundColor(Color.parseColor("#EEEEEE"));
-        } else {
-            rowView.setBackgroundColor(Color.parseColor("#FFFFFF"));
         }
         return rowView;
     }

@@ -3,13 +3,21 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/updateAddress"
+            android:id="@+id/home"
             android:checked="false"
-            android:title="Rate the App" />
+            android:title="Home" />
         <!--android:icon="@drawable/linkedin"-->
+        <item
+            android:id="@+id/favouritesMenu"
+            android:checked="false"
+            android:title="Favorites" />
+        <item
+            android:id="@+id/shoppingcart"
+            android:checked="false"
+            android:title="Favorites" />
         <item
             android:id="@+id/rateapp"
             android:checked="false"
-            android:title="Ingredient Shoppingcart" />
+            android:title="Rate the App" />
     </group>
 </menu>

@@ -21,15 +21,23 @@ public class HelperUtil {
     public static List<String> getResourceList(Context context, String ingredientId){
         Log.d("IndianCook", "Trying to fetch the resource:" + ingredientId);
         //ResourceHelper.getMultiTypedArray(context, "INGREDIENT" + ingredientId);
+        String[] ingredientList = null;
         int ingredientIdentifier = context.getResources().getIdentifier(ingredientId, "array", context.getPackageName());
-        String[] ingredientList = context.getResources().getStringArray(ingredientIdentifier);
+        try {
+            if(ingredientIdentifier != 0) {
+                ingredientList = context.getResources().getStringArray(ingredientIdentifier);
+                return Arrays.asList(ingredientList);
+            }
+        }catch(Exception e){
+        }
+        return null;
         /*List<IngredientDTO> ingredList = new ArrayList<IngredientDTO>();
         IngredientDTO igdto = new IngredientDTO();
         igdto.setIngredientImage("soup");
         igdto.setIngredientImage("Add 1/2 tsp of Salt");
         ingredList.add(igdto);*/
 
-        return Arrays.asList(ingredientList);
+
     }
 
     public static void openSearch(final Toolbar toolbar, final SearchBox searchbox, final Activity activity) {

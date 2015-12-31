@@ -2,23 +2,22 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:padding="5dp"
     android:orientation="horizontal">
+    <com.krish.indiancook.views.RoundedImageView
+        android:layout_width="40dp"
+        android:id="@+id/ingredientImage"
+        android:layout_height="40dp"
+        android:layout_margin="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_gravity="center_vertical|left"
+        />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="20dp"
+        android:layout_marginRight="10dp"
         android:id="@+id/ingredientDetail"
         android:text="160 mins asdfas asdfasdf asdf  asdf saf sadf asdf asd fas df asdf  d fsdf asd fas df s"
-        android:layout_gravity="center_vertical|left"
+        android:layout_gravity="center_vertical|right"
         android:textColor="#FF0000"
         android:textSize="14sp" />
-    <ImageView
-        android:layout_width="80dp"
-        android:id="@+id/ingredientImage"
-        android:layout_height="match_parent"
-        android:src="@drawable/soup"
-        android:layout_margin="10dp"
-        android:layout_gravity="center_vertical|right"
-        android:layout_weight="2"/>
 </LinearLayout>
