@@ -6,7 +6,6 @@ package com.krish.indiancook.adapter;
 
 import android.content.Context;
 import android.graphics.Color;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -55,7 +54,7 @@ public class IngredientAdapter extends ArrayAdapter<String> {
             rowView = (LinearLayout)convertView;
         }
         String ingredItem = values.get(position);
-        Log.d("IndianCook", "IngredItem:" + ingredItem +",position:" + position);
+        //Log.d("IndianCook", "IngredItem:" + ingredItem +",position:" + position);
         String[] ingredItemList = ingredItem.split("\\|");
         TextView textView = (TextView) rowView.findViewById(R.id.ingredientDetail);
         RoundedImageView imageView = (RoundedImageView) rowView.findViewById(R.id.ingredientImage);
@@ -63,7 +62,7 @@ public class IngredientAdapter extends ArrayAdapter<String> {
         textView.setTextColor(Color.parseColor("#000000"));
         try{
             int res = context.getResources().getIdentifier(ingredItemList[1] , "drawable", context.getPackageName());
-            Log.d("IndianCook","The coriander image is:" + res + "," + ingredItemList[1]);
+            //Log.d("IndianCook","The image is:" + res + "," + ingredItemList[1]);
             if(res != 0) {
                 imageView.setImageResource(res);
             }

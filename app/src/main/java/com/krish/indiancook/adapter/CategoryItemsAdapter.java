@@ -12,18 +12,18 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.krish.indiancook.R;
-import com.krish.indiancook.activity.DisplayListActivity;
+import com.krish.indiancook.activity.DisplayItemActivity;
 
 import java.util.List;
 
 /**
- * Created by Krishna on 12/29/2015.
+ * Created by Krishna on 1/4/2016.
  */
-public class FoodCategoriesAdapter extends ArrayAdapter<String> {
+public class CategoryItemsAdapter extends ArrayAdapter<String> {
     private final Context context;
     private final List<String> values;
 
-    public FoodCategoriesAdapter(Context context, List<String> values) {
+    public CategoryItemsAdapter(Context context, List<String> values) {
         super(context, -1, values);
         this.context = context;
         this.values = values;
@@ -50,30 +50,34 @@ public class FoodCategoriesAdapter extends ArrayAdapter<String> {
             rowView = new LinearLayout(getContext());
             LayoutInflater inflater = (LayoutInflater) context
                     .getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-            inflater.inflate(R.layout.foodcategoriesitem, rowView, true);
+            inflater.inflate(R.layout.displaylistitems, rowView, true);
         } else {
             rowView = (LinearLayout)convertView;
         }
         String ingredItem = values.get(position);
         String[] ingredItemList = ingredItem.split("\\|");
-        TextView textView = (TextView) rowView.findViewById(R.id.foodItemText);
-        ImageView imageView = (ImageView) rowView.findViewById(R.id.foodItem);
-        textView.setText(ingredItemList[0]);
+        TextView textView = (TextView) rowView.findViewById(R.id.textLabel);
+        ImageView imageView = (ImageView) rowView.findViewById(R.id.imageLabel);
+        textView.setText(ingredItemList[1]);
         textView.setTextColor(Color.parseColor("#000000"));
-        rowView.setTag(ingredItemList[2] + "|" + ingredItemList[0]);
+        rowView.setTag(ingredItemList[0]+"|" + ingredItemList[1]);
         rowView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent();
-                intent.setClass(context, DisplayListActivity.class);
+                intent.setClass(context, DisplayItemActivity.class);
                 String[] itemDetails = ((String)v.getTag()).split("\\|");
-                intent.putExtra("category", itemDetails[0]);
-                intent.putExtra("categoryname", itemDetails[1]);
+                intent.putExtra("itemid", itemDetails[0]);
+                intent.putExtra("itemdesc", itemDetails[1]);
+                if(itemDetails.length > 2)
+                    intent.putExtra("itemImage", itemDetails[2]);
+                if(itemDetails.length > 3)
+                    intent.putExtra("timetaken", itemDetails[3]);
                 context.startActivity(intent);
             }
         });
         try{
-            int res = context.getResources().getIdentifier(ingredItemList[1] , "drawable", context.getPackageName());
+            int res = context.getResources().getIdentifier(ingredItemList[2] , "drawable", context.getPackageName());
             if(res != 0) {
                 imageView.setImageResource(res);
             } else{

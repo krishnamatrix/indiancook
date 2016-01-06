@@ -397,7 +397,6 @@ public class RoundedImageView extends ImageView {
         if (drawable == null)   // Don't do anything without a proper drawable
             return null;
         else if (drawable instanceof BitmapDrawable) {  // Use the getBitmap() method instead if BitmapDrawable
-            Log.i(TAG, "Bitmap drawable!");
             return ((BitmapDrawable) drawable).getBitmap();
         }
 

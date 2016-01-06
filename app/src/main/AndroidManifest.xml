@@ -24,6 +24,14 @@
             android:name=".activity.DisplayItemActivity"
             android:theme="@style/AppTheme">
         </activity>
+        <activity
+            android:name=".activity.FilterActivity"
+            android:theme="@style/AppTheme">
+        </activity>
+        <activity
+            android:name=".activity.HealthTipsActivity"
+            android:theme="@style/AppTheme">
+        </activity>
     </application>
 
 </manifest>

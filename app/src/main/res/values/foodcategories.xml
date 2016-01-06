@@ -4,11 +4,12 @@
     The array is of design <Name|imageName|code to drive the activity
     -->
     <array name="FOOD_CATEGORIES">
-        <item>Soups|soup|soup</item>
-        <item>Salads|salad|salad</item>
-        <item>Starters|starters|starters</item>
-        <item>Grills|grills|grills</item>
-        <item>Main Course|maincourse|maincourse</item>
-        <item>Desserts|desserts|desserts</item>
+        <item>Soups|soups|SOUPS</item>
+        <item>Chutneys|chutneys|CHUTNEYS</item>
+        <item>Fry Items|frys|FRYS</item>
+        <item>Starters|starters|STARTERS</item>
+        <item>Main Dish|maincourse|MAINCOURSE</item>
+        <item>Desserts|desserts|DESSERTS</item>
+        <item>Sweets|sweets|SWEETS</item>
     </array>
 </resources>

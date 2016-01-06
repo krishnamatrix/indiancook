@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The legend is <<ItemCode|Item Name|Popular or Not|Nonveg-Veg-->
+<resources>
+    <array name="SOUPS">
+    </array>
+    <array name="CHUTNEYS">
+    </array>
+    <array name="FRYS">
+        <item>FRY_ITC100|Gobi Fry|gobhifry|P|VG</item>
+        <item>FRY_ITC101|Brinjal Fry|brinjalfry|P|VG</item>
+        <item>FRY_ITC102|Sprouts Fry|sproutsfry|NA|VG</item>
+        <item>FRY_ITC103|Veg Pakoda Fry|vegpakodafry|NA|VG</item>
+        <item>FRY_ITC104|Mushroom Fry|mushroomfry|P|VG</item>
+        <item>FRY_ITC105|Raw Banana Fry|rawbananafry|NA|VG</item>
+        <item>FRY_ITC106|Bittergourd Fry|bittergourdfry|P|VG</item>
+        <item>FRY_ITC107|Soya Fry|soyafry|NA|VG</item>
+        <item>FRY_ITC108|Potato Fry|potatofry|P|VG</item>
+        <item>FRY_ITC109|Bhindi Fry|bhindifry|P|VG</item>
+        <item>FRY_ITC110|Breadfruit Bhaji|breadfruitbhaji|NA|VG</item>
+        <item>FRY_ITC111|Parwal Sabzi|parwalsabzi|NA|VG</item>
+        <item>FRY_ITC112|Baked Kale Chips|bakedkalechips|NA|VG</item>
+        <item>FRY_ITC113|Bhendi Bhaja|bhendibhaja|NA|VG</item>
+        <item>FRY_ITC114|Guar Fry|guarfry|NA|VG</item>
+        <item>FRY_ITC115|Aloo Broccoli Sabzi|aloobroccolisabzi|NA|VG</item>
+        <item>FRY_ITC116|Carrot Poriyal|carrotporiyal|P|VG</item>
+        <item>FRY_ITC117|Brinjal Pan Fry|brinjalpanfry|NA|VG</item>
+        <item>FRY_ITC118|Mixed Vegetable Poriyal|mixedvegetableporiyal|NA|VG</item>
+        <item>FRY_ITC119|Turnip Greens Poriyal|turnipgreensporiyal|NA|VG</item>
+        <item>FRY_ITC120|Radish Poriyal|radishporiyal|NA|VG</item>
+        <item>FRY_ITC121|Bok Choy Poriyal|bokchoyporiyal|NA|VG</item>
+        <item>FRY_ITC122|Vegetable Fry|vegetablefry|P|VG</item>
+        <item>FRY_ITC123|Broccoli Poriyal|broccoliporiyal|NA|VG</item>
+        <item>FRY_ITC124|Beet Leaves Poriyal|beetleavesporiyal|NA|VG</item>
+        <item>FRY_ITC125|Turnip Poriyal|turnipporiyal|NA|VG</item>
+        <item>FRY_ITC126|Sprouts Poriyal|sproutsporiyal|NA|VG</item>
+        <item>FRY_ITC127|Turnip Poriyal|turnipporiyal|NA|VG</item>
+        <item>FRY_ITC128|Mixed Vegetable Poriyal|mixedvegetableporiyal|NA|VG</item>
+        <item>FRY_ITC129|Cabbage Poriyal|cabbageporiyal|NA|VG</item>
+        <item>FRY_ITC130|Beans Poriyal|beansporiyal|NA|VG</item>
+        <item>FRY_ITC131|Acorn Squash Poriyal|acornsquashporiyal|NA|VG</item>
+        <item>FRY_ITC132|Collard Greens Poriyal|collardgreensporiyal|NA|VG</item>
+        <item>FRY_ITC133|Asparagus Sabzi|asparagussabzi|NA|VG</item>
+        <item>FRY_ITC134|Jackfruit Seeds Sabzi|jackfruitseedssabzi|NA|VG</item>
+        <item>FRY_ITC135|Beans Poriyal|beansporiyal|NA|VG</item>
+        <item>FRY_ITC136|Vaazhapindi Thoran|vaazhapindithoran|NA|VG</item>
+        <item>FRY_ITC137|Cauliflower Egg Bhurjee|cauliflowereggbhurjee|NA|VG</item>
+        <item>FRY_ITC138|Vazhaipoo Poriyal|vazhaipooporiyal|NA|VG</item>
+    </array>
+    <array name="STARTERS">
+        <item>NVSTARTER_ITC100|Chicken Lollypop|chickenlollypop|P|NVG</item>
+        <item>NVSTARTER_ITC101|Nutty Chicken|nuttychicken|NA|NVG</item>
+        <item>NVSTARTER_ITC102|Chicken Roll|chickenroll|NA|NVG</item>
+        <item>NVSTARTER_ITC103|Chicken Sukka|chickensukka|NA|NVG</item>
+        <item>NVSTARTER_ITC104|Chicken Bartha|chickenbartha|NA|NVG</item>
+        <item>NVSTARTER_ITC105|Chilli Chicken|chillichicken|NA|NVG</item>
+        <item>NVSTARTER_ITC106|Scallion Chicken|scallionchicken|P|NVG</item>
+        <item>NVSTARTER_ITC107|Chicken Tawa|chickentawa|NA|NVG</item>
+        <item>NVSTARTER_ITC108|Chicken Fry|chickenfry|P|NVG</item>
+        <item>NVSTARTER_ITC109|Lemon Pepper Chicken|lemonpepperchicken|P|NVG</item>
+        <item>NVSTARTER_ITC110|Pan Fried Chicken|panfriedchicken|NA|NVG</item>
+        <item>NVSTARTER_ITC111|Fried Chicken|friedchicken|NA|NVG</item>
+        <item>NVSTARTER_ITC112|Salted Country Chicken Fry|saltedcountrychickenfry|NA|NVG</item>
+        <item>NVSTARTER_ITC113|Kheema Matar|kheemamatar|NA|NVG</item>
+        <item>NVSTARTER_ITC114|Mutton Masala|muttonmasala|P|NVG</item>
+        <item>NVSTARTER_ITC115|Cauliflower Egg Bhurjee|cauliflowereggbhurjee|NA|NVG</item>
+        <item>NVSTARTER_ITC116|Whole Roasted Chicken|wholeroastedchicken|P|NVG</item>
+        <item>NVSTARTER_ITC117|Chicken And Vegetable Saute|chickenandvegetablesaute|NA|NVG</item>
+        <item>NVSTARTER_ITC118|Pan Seared Chicken|pansearedchicken|NA|NVG</item>
+        <item>NVSTARTER_ITC119|Baked Fish|bakedfish|NA|NVG</item>
+        <item>NVSTARTER_ITC120|Fish Egg (Mullet Roe) Fry|fishegg(mulletroe)fry|NA|NVG</item>
+        <item>NVSTARTER_ITC121|Red Lobster Masala|redlobstermasala|NA|NVG</item>
+        <item>NVSTARTER_ITC122|Fish Fry|fishfry|P|NVG</item>
+        <item>NVSTARTER_ITC123|Capsicum Fish|capsicumfish|NA|NVG</item>
+        <item>NVSTARTER_ITC124|Chilli Prawns|chilliprawns|NA|NVG</item>
+        <item>NVSTARTER_ITC125|Fish Masala|fishmasala|P|NVG</item>
+        <item>NVSTARTER_ITC126|Ridgegourd Shrimp Masala|ridgegourdshrimpmasala|NA|NVG</item>
+        <item>NVSTARTER_ITC127|Goan Fish Fry|goanfishfry|NA|NVG</item>
+        <item>NVSTARTER_ITC128|Lemon Pepper Shrimp|lemonpeppershrimp|NA|NVG</item>
+        <item>NVSTARTER_ITC129|Crab Fry|crabfry|P|NVG</item>
+        <item>NVSTARTER_ITC130|Crab Cutlets|crabcutlets|NA|NVG</item>
+        <item>NVSTARTER_ITC131|Fish Cutlets|fishcutlets|NA|NVG</item>
+        <item>NVSTARTER_ITC132|Prawns Masala|prawnsmasala|P|NVG</item>
+        <item>NVSTARTER_ITC133|Chilli Garlic Prawns|chilligarlicprawns|NA|NVG</item>
+    </array>
+    <array name="MAINCOURSE">
+    </array>
+    <array name="SWEETS">
+        <item>SW_ITC100|Coconut Macaroons|coconutmacaroons|NA|VG</item>
+        <item>SW_ITC101|Jilebi|jilebi|P|VG</item>
+        <item>SW_ITC102|Punjabi Besan Ki Kheer|punjabibesankikheer|NA|VG</item>
+        <item>SW_ITC103|Pineapple Payasam|pineapplepayasam|P|VG</item>
+        <item>SW_ITC104|Fruit Kesari|fruitkesari|NA|VG</item>
+        <item>SW_ITC105|Dry Fruit Barfi|dryfruitbarfi|P|VG</item>
+        <item>SW_ITC106|Dry Gulab Jamun|drygulabjamun|NA|VG</item>
+        <item>SW_ITC107|Shakkar Pare|shakkarpare|P|VG</item>
+        <item>SW_ITC108|Boondi Laddu|boondiladdu|P|VG</item>
+        <item>SW_ITC109|Coconut Laddus|coconutladdus|P|VG</item>
+        <item>SW_ITC110|Sabudana Laddu|sabudanaladdu|NA|VG</item>
+    </array>
+    <array name="DESSERTS">
+    </array>
+</resources>

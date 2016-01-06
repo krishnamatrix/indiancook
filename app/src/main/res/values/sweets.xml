@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="INGREDIENT_SW_ITC100">
-        <item>coconut macaroons</item>
         <item>½ cup sweetened condensed milk, 150 to 155 grams</item>
         <item>1.5 cups desiccated coconut, 90 grams</item>
         <item>½ tsp vanilla extract or vanilla essence</item>
@@ -21,7 +20,6 @@
     </array>
 
     <array name="INGREDIENT_SW_ITC101">
-        <item>jalebi </item>
         <item>1 cup all purpose flour/maida, 125 grams</item>
         <item>2 tbsp gram flour/besan</item>
         <item>Pinch of turmeric powder/haldi</item>
@@ -57,7 +55,7 @@
         <item>to check the temperature of oil, add a tiny amount of batter to the oil. if it comes up quickly and gradually the oil is hot enough for the jalebis to be fried. the frying temperature is 350 degrees fahrenheit/176 degrees celsius.</item>
         <item>now squeeze the bottle and make concentric rings with the batter.</item>
         <item>either start from the center and move outside or vice versa. be careful while making the jalebis as the oil is hot.</item>
-        <item>you won't get perfect shapes as the jalebis keep on moving while you make the circles. this does require practice and it also depends on what equipment you are using to make the jalebis.</item>
+        <item>you won\'t get perfect shapes as the jalebis keep on moving while you make the circles. this does require practice and it also depends on what equipment you are using to make the jalebis.</item>
         <item>when one side is partly cooked, turn over and fry the other side.</item>
         <item>some jalebis will be cooked faster than others.</item>
         <item>fry till the oil stops sizzling and the jalebis are a light golden. remove with a tongs or a bamboo skewer. while removing shake to drain the extra oil.</item>
@@ -70,7 +68,6 @@
     </array>
 
     <array name="INGREDIENT_SW_ITC102">
-        <item>punjabi besan ki kheer</item>
         <item>60 gram dates (roughly 1 cup)</item>
         <item>30 gram punjabi besan/kala chana atta or black chickpeas flour (1/4 cup)</item>
         <item>1 teaspoon ghee (you may add oil if you prefer, but ghee brings a better flavor)</item>
@@ -96,7 +93,6 @@
 
 
     <array name="INGREDIENT_SW_ITC103">
-        <item>pineapple payasam</item>
         <item>1 cup finely chopped pineapple, 200 grams pineapple without the peel</item>
         <item>2/3 cup powdered or grated jaggery, 60 to 65 grams, add as per taste as the sweetness also depends on the sweetness of pineapple</item>
         <item>3 cup water</item>
@@ -127,7 +123,6 @@
 
 
     <array name="INGREDIENT_SW_ITC104">
-        <item>fruit kesari</item>
         <item>½ cup fine rava/sooji/ cream of wheat</item>
         <item>1 tsp ghee for roasting sooji</item>
         <item>4 to 5 tbsp ghee or 2 tbsp ghee + 2 tbsp oil or 4 tbsp oil (use a neutral flavored oil)</item>
@@ -170,7 +165,6 @@
 
 
     <array name="INGREDIENT_SW_ITC105">
-        <item>dry fruit barfi</item>
         <item>140 to 150 grams seedless dates, about ¾ cup</item>
         <item>60 grams dried figs or 6 to 7 dried figs</item>
         <item>1 tbsp golden raisins</item>
@@ -186,7 +180,7 @@
     <array name="DIRECTIONS_SW_ITC105">
         <item>blanch 6 to 7 dried figs and 1 tbsp raisins in hot water. for blanching, boil ? cup water and take it in a bowl. add the dried figs and raisins. cover and keep the bowl aside for 20 minutes. after 20 minutes, drain and keep aside. if the figs are not too dry, then you do not need to blanch them.</item>
         <item>when the figs are blanching, take the following dry fruits in a grinder or food processor - ¼ cup almonds, ¼ cup cashews, ¼ cup pistachios and ¼ cup walnuts.</item>
-        <item>pulse the dry fruits for 3 to 4 times or more till you get them in small bits and pieces. don' t make a powder or paste. you can also chop them finely. for saving time use a mixer or food processor. after pulsing, if you get slightly large pieces of almonds in the mixture, then remove and chop them.</item>
+        <item>pulse the dry fruits for 3 to 4 times or more till you get them in small bits and pieces. don\' t make a powder or paste. you can also chop them finely. for saving time use a mixer or food processor. after pulsing, if you get slightly large pieces of almonds in the mixture, then remove and chop them.</item>
         <item>remove the coarse mixture of dry fruits and keep aside.</item>
         <item>in the same grinder jar, add figs, raisins and ¾ cup dates (chopped).</item>
         <item>now grind these into a coarse paste. keep aside.</item>
@@ -206,7 +200,6 @@
 
 
     <array name="INGREDIENT_SW_ITC106">
-        <item>dry gulab jamun</item>
         <item>250 grams soft khoya or 1 cup tightly packed khoya/mawa/dried evaporated milk solids</item>
         <item>100 grams paneer or ½ cup tightly packed grated paneer/cottage cheese</item>
         <item>3 tbsp all purpose flour/maida</item>
@@ -255,7 +248,6 @@
 
 
     <array name="INGREDIENT_SW_ITC107">
-        <item>shakkar pare</item>
         <item>240 grams or 2 cups atta/whole wheat flour</item>
         <item>2 tbsp ghee</item>
         <item>½ cup water or add as required</item>
@@ -289,7 +281,6 @@
 
 
     <array name="INGREDIENT_SW_ITC108">
-        <item>boondi ladoo</item>
         <item>1.5 cups Sugar</item>
         <item>3/4 cup Water</item>
         <item>For the Boondi:</item>
@@ -318,7 +309,6 @@
     </array>
 
     <array name="INGREDIENT_SW_ITC109">
-        <item>coconut ladoos</item>
         <item>1 1/2 cups grated Coconut</item>
         <item>2/3 cup Sugar</item>
         <item>½ cup Water</item>
@@ -334,7 +324,6 @@
     </array>
 
     <array name="INGREDIENT_SW_ITC110">
-        <item>sabudana ladoo</item>
         <item>1 cup sabudana (tapoica pearls)</item>
         <item>¾ cup dessicated unsweetened coconut</item>
         <item>½ cup powdered sugar or as required</item>

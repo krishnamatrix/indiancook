@@ -30,12 +30,14 @@ import com.quinny898.library.persistentsearch.SearchBox;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class CookActivity extends AppCompatActivity {
     private NavigationView navigationView;
     private DrawerLayout drawerLayout;
     private SearchBox searchbox;
     private Toolbar toolbar;
+    List<String> searchData;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -49,6 +51,8 @@ public class CookActivity extends AppCompatActivity {
         populateFoodCategories();
         populateMainPageOtherCategories(R.array.POPULAR_DISHES, R.id.populardishes);
         populateMainPageOtherCategories(R.array.POPULAR_DESSERTS, R.id.populardesserts);
+
+        searchData = HelperUtil.addSearchData(this);
     }
 
     private void populateMainPageOtherCategories(int category, int layoutId){
@@ -59,7 +63,7 @@ public class CookActivity extends AppCompatActivity {
         for(int i = 0; i< categoryList.length;i++){
             item = categoryList[i];
             final String[] splitItem = item.split("\\|");
-            v = mInflater.inflate(R.layout.dishesitem,lp, false);
+            v = mInflater.inflate(R.layout.populardishesitem,lp, false);
             ImageView iv = (ImageView)v.findViewById(R.id.imageLabel);
             TextView tv = (TextView)v.findViewById(R.id.textLabel);
             tv.setText(splitItem[0]);
@@ -107,7 +111,7 @@ public class CookActivity extends AppCompatActivity {
             mFlowLayout.addView(v);
         }*/
     }
-    private void setDrawer(Activity act, Toolbar toolbar){
+    private void setDrawer(final Activity act, Toolbar toolbar){
         navigationView = (NavigationView) this.findViewById(R.id.navigation_view);
         navigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
             @Override
@@ -118,6 +122,7 @@ public class CookActivity extends AppCompatActivity {
                     menuItem.setChecked(true);
                 }
                 drawerLayout.closeDrawers();
+                Intent intent = new Intent();
                 switch (menuItem.getItemId()){
                     case R.id.rateapp:
                         Uri uri = Uri.parse("market://details?id=" + getPackageName());
@@ -132,8 +137,27 @@ public class CookActivity extends AppCompatActivity {
                                     Uri.parse("http://play.google.com/store/apps/details?id=" + getPackageName())));
                         }
                         return true;
-                    case R.id.updateAddress:
-                        //IntentCaller.callIntent(ShowMapActivity.this, AddCustomerAddressActivity.class);
+                    case R.id.favouritesMenu:
+                        intent.setClass(act, DisplayListActivity.class);
+                        intent.putExtra("category", "FAVORITES");
+                        intent.putExtra("categoryname", "Favorites");
+                        act.startActivity(intent);
+                        return true;
+                    case R.id.shoppingcart:
+                        intent.setClass(act, DisplayListActivity.class);
+                        intent.putExtra("category", "FAVORITES");
+                        intent.putExtra("categoryname", "Favorites");
+                        act.startActivity(intent);
+                        return true;
+                    case R.id.healthtips:
+                        intent.setClass(act, DisplayListActivity.class);
+                        intent.putExtra("category", "FAVORITES");
+                        intent.putExtra("categoryname", "Favorites");
+                        act.startActivity(intent);
+                        return true;
+                    case R.id.filter:
+                        intent.setClass(act, FilterActivity.class);
+                        act.startActivity(intent);
                         return true;
                     default:
                         Toast.makeText(getApplicationContext(), "Somethings Wrong", Toast.LENGTH_SHORT).show();
@@ -169,7 +193,7 @@ public class CookActivity extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case R.id.action_search:
-                HelperUtil.openSearch(toolbar, searchbox, this);
+                HelperUtil.openSearch(toolbar, searchbox, this, searchData);
                 return true;
             default:
                 return super.onOptionsItemSelected(item);

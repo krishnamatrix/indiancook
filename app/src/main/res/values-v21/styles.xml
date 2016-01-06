@@ -5,6 +5,7 @@
         <item name="colorPrimary">@color/ColorPrimary</item>
         <item name="colorPrimaryDark">@color/ColorPrimary</item>
         <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:textColorPrimary">@color/WHITE</item>
         <!-- Customize your theme here. -->
     </style>
     <style name="GreenHeaderAppTheme" parent="AppTheme">

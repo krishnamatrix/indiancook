@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="INGREDIENT_FRY_ITC100">
+        <item>Cauliflower - 1 (cut into florets)</item>
+        <item>Turmeric Powder - 1/2 tsp</item>
+        <item>Red Chilly Powder - 2 tsp</item>
+        <item>Chichen masala (any brand) - 1 tblsp</item>
+        <item>Ginger garlic paste - 1 tsp</item>
+        <item>Rice Flour (or corn flour) - 2 tblsp   </item>
+        <item>Oil - for deep frying</item>
+        <item>Salt - to taste </item>
+    </array>
+    <array name="DIRECTIONS_FRY_ITC100">
+        <item>Cut the cauliflower into florets. Put it in hot salted water for about 5 minutes. </item>
+        <item>Drain the florets and take it in a mixing bowl.</item>
+        <item>Add required salt, chilly powder, turmeric powder, ginger garlic paste, chicken masala  and rice flour. </item>
+        <item>Mix well so that all the florets are coated well. The moisture in the florets will help the spices to stick to it.</item>
+        <item>Heat oil in a kadai for deep frying. Drop a few florets and deep fry till golden brown and crispy.</item>
+        <item>Drain the excess oil in a kitchen towel. Fry the rest of the florets in batches.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC101">
+        <item>Eggplant (Brinjal) - 1 (Very Big)</item>
+        <item>Chilly powder - 1 tbsp</item>
+        <item>Turmeric powder - a pinch</item>
+        <item>Garam masala - a pinch (optional)</item>
+        <item>Salt - as needed</item>
+        <item>Lemon - 1/2</item>
+        <item>Oil - as needed (preferably mustard oil)</item>
+    </array>
+    <array name="DIRECTIONS_FRY_ITC101">
+        <item>Cut the eggplant into thin circles.</item>
+        <item>Season the eggplant circles with the above seasonings.</item>
+        <item>Eggplant Fry</item>
+
+        <item>Shallow fry the eggplant in a griddle.</item>
+        <item>Flip the eggplant when once side browns.</item>
+        <item>Eggplant Fry</item>
+
+        <item>When both the sides are browned, remove from griddle and add few drops of lemon juice on top.</item>
+    </array>
+
+
+    <array name="INGREDIENT_FRY_ITC102">
+        <item>Brussels sprouts - 1 pound</item>
+        <item>Oil/Butter- 4 tsp</item>
+        <item>Salt - to taste</item>
+        <item>Pepper - 1/4 tsp</item>
+        <item>Garam masala - 1 pinch</item>
+
+    </array>
+    <array name="DIRECTIONS_FRY_ITC102">
+        <item>In a pot of boiling water, cook the sprouts for 2 minutes until they are tender but crisp. Drain the water.</item>
+        <item>In a pan, pour some oil or melt the butter. Add the Brussels sprouts Seasoned with salt, pepper and garam masala and saute until golden brown.</item>
+        <item>This should be done on medium- high heat for about 5 minutes.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC103">
+        <item>Vegetable - 3/4 lb (sliced in an angle/ cut in circles - You can use ladiesfinger, ivygourd, bittergourd, beans, broccoli, cauliflower, potato etc for this type of fry)</item>
+        <item>Onion - 1/4 (sliced) (For better taste use half a cup of onion pakoda or fried onions)</item>
+        <item>Garlic - 2 cloves</item>
+        <item>Cashewnuts - 2 tblsp</item>
+        <item>Cumin seeds - 1 tsp</item>
+        <item>Amchoor powder - 1 tsp (If you do not have amchoor powder, you can use little tamarind juice/ vineger too.)</item>
+        <item>Chilly Powder - 1 tsp (or as needed)</item>
+        <item>Turmeric Powder - 1/4 tsp</item>
+        <item>Garam Masala - a pinch</item>
+        <item>Gram flour/ Rice flour - 4 tblsp</item>
+        <item>Salt - to taste</item>
+        <item>Oil - 3 tblsp</item>
+        <item>Mustard seeds - 1/4 tsp</item>
+        <item>Curry Leaves - 1 strand </item>
+        
+    </array>
+    <array name="DIRECTIONS_FRY_ITC103">
+        <item>Mix the cut vegetable with onion slices, cashew pieces, amchoor powder, chilly powder, turmeric powder, cumin seeds, gram flour, garam masala, curry leaves and salt.</item>
+        <item>Add few drops of water to mix if the mixture is too dry.</item>
+        <item>Heat a non stick pan and splutter some mustard seeds.</item>
+        <item>Turn the flame to high and when the oil is smoking hot, add the above mixture to it.</item>
+        <item>Stir fry over high flame for minutes or till the okra is nicely cooked and becomes crunchy.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC104">
+        <item>Mushroom – ½ lb</item>
+        <item>Onion – 1 ( cut lengthwise)</item>
+        <item>Red chilli powder - 1tsp</item>
+        <item>Pepper powder - 1tsp</item>
+        <item>Turmeric powder - ¼ tsp</item>
+        <item>Garam masala powder -¼ tsp</item>
+        <item>Salt - to taste</item>
+        <item>Oil - 2 tsp</item>
+        <item>Coriander leaves - (for garnishing)</item>
+        
+    </array>
+    <array name="DIRECTIONS_FRY_ITC104">
+        <item>Chop the mushroom top to bottom into thin slices to retain the mushroom shape.</item>
+        <item>Now heat oil in a kadai or deep sauce pan, add mustard seeds and curry leaves.When the mustard seeds pop, add the onions. Sauté the onions until they are golden brown. </item>
+        <item>3.Next add the mushrooms and fry on medium flame for about 6 minutes or until all the mushroom is nicely browned.</item>
+        <item>Now add salt, chilly powder, pepper powder, turmeric powder and garam masala. Fry everything for another 2 minutes.</item>
+        <item>Garnish with coriander leaves, split chillies and lemon. Mushroom fry is ready.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC105">
+        <item>Raw Banana -2 cut in small pieces</item>
+        <item>Asofoedita - a pinch</item>
+        <item>Chilli powder - 1 tsp (or to taste)</item>
+        <item>Turmeric - 1/4 tsp</item>
+        <item>Salt - to taste</item>
+        
+    </array>
+    <array name="DIRECTIONS_FRY_ITC105">
+        <item>Heat oil in a kadai. Once heated put the raw banana pieces.</item>
+        <item>Add the asofoedita, turmeric powder, chilli powder and salt. </item>
+        <item>Fry it until they are done and crispy. </item>
+        <item>This is very yummy to eat. Serve with rice and some curry.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC106">
+        <item>Bitter gourd -2 (cut into circles)</item>
+        <item>Mustard seeds - 1/2 tsp</item>
+        <item>Chilly powder - 1 tsp</item>
+        <item>Turmeric powder - a pinch</item>
+        <item>Corn Flour - 1 tsp (You can also use gram flour or rice flour instead)</item>
+        <item>Oil - 1/2 tsp</item>
+        <item>Salt - as needed</item>
+    </array>
+    <array name="DIRECTIONS_FRY_ITC106">
+        <item>Sprinkle salt generously on the bitter gourd pieces and keep it aside for about half an hour.</item>
+        <item>After that squeeze the water that would have oozed out of the bitter gourd pieces. This step removes lot of the bitterness from the bitter gourd.</item>
+        <item>You can skip the above steps if you do not mind the bitterness. Coat the bitter gourd pieces with corn flour, chilly powder and turmeric powder. (Salt is not needed as the bitter gourd would have absorbed enough salt).</item>
+        <item>Now you can stir fry or deep fry the pieces till they are nicely cooked and crispy.</item>
+    </array>
+
+
+    <array name="INGREDIENT_FRY_ITC107">
+        <item>Soya Chunks - 2 cups</item>
+        <item>Onion - 1 big (thinly sliced)</item>
+        <item>Green Chillies - 3 or 4 (slit lengthwise)</item>
+        <item>Ginger Garlic Paste - 1 tsp</item>
+        <item>Cilantro - handful (finely chopped)</item>
+        <item>Salt - as needed</item>
+        
+        <item>For Seasoning</item>
+        <item>Oil - 3-4 tblsp</item>
+        <item>Mustard Seeds - 1/2 tsp</item>
+        <item>Curry Leaves - 2 springs</item>
+        
+        <item>Spice Mix</item>
+        <item>Red Chilly Powder - 1 tsp</item>
+        <item>Corriander Powder - 2 tsp</item>
+        <item>Cumin Powder - 1/4 tsp</item>
+        <item>Fennel Powder - 1/2 tsp</item>
+        <item>Garam Masala - 1/2 tsp</item>
+        <item>Turmeric Powder - 1/4 tsp</item>
+        <item>Pepper Powder - 1/4 tsp</item>
+    </array>
+    <array name="DIRECTIONS_FRY_ITC107">
+        <item>Wash and soak the soya chunks in hot salted water for 10-minutes.  Sqeeze the chunks and keep them aside.</item>
+        <item>Heat 1 tblsp of oil in a pan. Splutter the mustard seeds and curry leaves.</item>
+        <item>Add the sliced onions and green chillies. Saute till the onion sweats. Add the ginger garlic paste and fry for a minute.</item>
+        <item>Next add the soya chunks. Add about 1/4 cup of water and some salt. Cover and cook for about 7-8 mintes till most of the water dries up.</item>
+        <item>Add all the spice powders under spice mix. (You may also use 1.5 tblsp of some good brand of chicken masala instead of all these powders.)</item>
+        <item>Add another 2-3 tblsp of oil and increase the heat. Stir fry for 8-minutes till all the pieces get fried well. This dish needs a little extra oil if you want a rich colour and taste.</item>
+        <item>(You can switch off at any stage depending on your personal choice. The longer you fry it, the more it will become crispier and its colour will become deeper.)</item>
+        <item>Finally add some chopped cilantro and switch off.  Serve as a sidedish for fried rice, biriyani, white rice or chappatti.</item>        
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC108">
+        <item> Onion - 1/4 (sliced) - You can also use 3-4 whole pearl onions instead</item>
+        <item>Garlic Powder - 1/4 tsp (or 1 clove garlic crushed)</item>
+        <item>Crushed Cumin Powder - 1/4 tsp</item>
+        <item>Fennel Powder - 1/4 tsp</item>
+        <item>Garam Masala - 1/4 tsp</item>
+        <item>Crushed Peppercorns - 1/4 tsp</item>
+        <item>Curry Leaves - 1 spring (Chopped)</item>
+        <item>Cashew nuts - 1-2 tblsp</item>
+        <item>Mustard seeds - 1/2 tsp</item>
+    </array>
+    <array name="DIRECTIONS_FRY_ITC108">
+        <item>Wash the potatoes and peel them or leave the skin on. </item>
+        <item>Cut the potatoes into uniform sized pieces of your desired shape.</item>
+        <item>Partially boil the potatoes in the microwave or stovetop. This step is optional but it speeds up the frying process.</item>
+        <item>Take the potato pieces in a bowl and mix the spices with it. ( If you do not have one or two of the above mentioned spices, just skip it. Potato fry will still taste good. You can also add 2-3 tsp of any brand chicken masala powder instead of all the above spices.)</item>
+        <item>Heat oil in a non stick pan or kadai. Splutter the mustard seeds and curry leaves.</item>
+        <item>Add the onions and cashew nuts and fry for a minute.</item>
+        <item>Add the spice rubbed potato pices. Keep the heat on medium high and start frying.</item>
+        <item>Stir fry till all the pieces are completely cooked and the potatoes become little crispy.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC109">
+        <item>Okra/bhindi/ladies finger - 2gms </item>
+        <item>Gram flour (besan) - 3 tsp </item>
+        <item>Salt</item>
+        <item>Chilli powder - 2 tsp</item>
+        <item>Asafoetida - a pinch</item>
+        <item>Turmeric powder - a pinch</item>
+        <item>Oil - for frying</item>
+        
+    </array>
+    <array name="DIRECTIONS_FRY_ITC109">
+        <item>Wash and cut the okra in a slanting shape.  </item>
+        <item>Sprinkle salt, chilli powder, gram flour,asafoetida and turmeric powder on top of it and mix well. </item>
+        <item>You will get the okras coated with the gram flour.  </item>
+        <item>Fry it in medium heat oi.  You will get nice crispy bhindi fry.   </item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC110">
+        <item>Bread fruit - 1 no</item>
+        <item>Red chilli powder - 1 tsp</item>
+        <item>Coriander powder - 1 tsp</item>
+        <item>Turmeric powder  - ¼ tsp</item>
+        <item>Salt - to taste</item>
+
+        <item>For Tempering </item>
+        <item>Mustard seeds - 1 tsp</item>
+        <item>Urid dal - 1 tsp</item>
+        <item>Oil - 3 tbsp</item>
+        <item>Curry leaves - few</item>
+        <item>Asafetida - pinch</item>
+        
+    </array>
+    <array name="DIRECTIONS_FRY_ITC110">
+        <item>Cut the breadfruit and put it in water .</item>
+        <item>In  a kadai, pour oil. When it becomes hot add the mustard seeds, urid dal. When it splutters, add the curry leaves and asafoetida.  </item>
+        <item>Then add the cut breadfruit after removing the water. Add turmeric powder and salt.  </item>
+        <item>Sprinkle little water and cover for two minutes.  Sauté the same, add the coriander powder, chilli powder mix well and cover it.  </item>
+        <item>In between stir the same.  If required, sprinkle water.  </item>
+        <item>When it is cooked, remove from the gas and serve hot with sambar rice, dahi rice, chapatti etc.</item>
+    </array>
+
+
+    <array name="INGREDIENT_FRY_ITC111">
+        <item>Parwal (Pointed Gourd, Potol) - 1 lb</item>
+        <item>Ginger garlic Paste - 2 tsp</item>
+        <item>Turmeric Powder - 1/2 tsp</item>
+        <item>Red Chilly Powder - 1 tsp</item>
+        <item>Corriander Powder - 1 tsp</item>
+        <item>Cumin Powder - 1 tsp</item>
+        <item>Amchoor Powder - 1 tsp</item>
+        <item>Salt - to taste</item>
+        <item>Oil - 2 tblsp</item>
+
+    </array>
+    <array name="DIRECTIONS_FRY_ITC111">
+        <item>Scrape the rough skin of the parwal and wash it. Cut each parwal lengthwise into uniform sized pieces.</item>
+        <item>Heat oil in a frying pan and add the ginger garlic paste. Fry for just a minute.</item>
+        <item>Add the sliced parwal pieces and mix together. Cover and let it cook on medium heat for about minutes. </item>
+        <item>Add salt and all the spice powders. Stirfry for 5-minutes till the parwal pieces are nicely cooked and gets a little brown colour.</item>
+        <item>Switch off and serve as a sidedish for rice or roti.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC112">
+        <item>Kale - 1 bunch</item>
+        <item>Olive Oil - 2 tblsp</item>
+        <item>Crushed black pepper - 1/2 tsp or to taste</item>
+        <item>Salt - to taste</item>
+        
+        <item>Optional</item>
+        <item>Chaat Masala - 1/2 tsp</item>
+
+        <item>Baked Kale Chips</item>
+
+    </array>
+    <array name="DIRECTIONS_FRY_ITC112">
+        <item>Preheat the oven to 3degree F.</item>
+        <item>Wash the kale leaves, dry it completely and then tear them into 2-3 inch pieces.</item>
+        <item>Toss the kale leaves with olive oil, salt and pepper. If you want to give an Indian touch, add little chaat masala.</item>
+        <item>After all the leaves have been coated with the oil, arrange them in one single layer on a baking sheet.</item>
+        <item>Bake for about 15-minutes or until the edges starts browning a bit. Flip them once in between.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC113">
+        <item>Bhindi (Okra) - 1/2 lb (2gms)</item>
+        <item>Turmeric powder – ½ tsp</item>
+        <item>Salt - to taste</item>
+        <item>Mustard Oil - 1 tbsp</item>
+    </array>
+    <array name="DIRECTIONS_FRY_ITC113">
+        <item>Cut the okra into small pieces.</item>
+        <item>In a frying pan, heat the mustard oil.</item>
+        <item>Add the okra pieces and mix with the oil.</item>
+        <item>Add turmeric and salt and mix.</item>
+        <item>Fry on low heat for minutes. Bhendi Bhaja is ready to be served.</item>
+    </array>
+
+
+    <array name="INGREDIENT_FRY_ITC114">
+        <item>Cluster Beans – ¼ kgs (1/2 lb)</item>
+        <item>Oil – 2 tbsp</item>
+        <item>Mustard seeds – ½ tsp</item>
+        <item>Fennel seeds – ½ tsp</item>
+        <item>Red chilli powder – 1 tbsp</item>
+        <item>Turmeric powder – ¼ tsp</item>
+        <item>Curry leaves – 1 sprig (optional)</item>
+    </array>
+    <array name="DIRECTIONS_FRY_ITC114">
+        <item>Wash the beans, trim the tips and cut into 1.pieces.</item>
+        <item>Heat oil in a frying pan or kadai. Splutter the mustard seeds followed by the fennel seeds.</item>
+        <item>Add the curry leaves and chopped cluster beans.</item>
+        <item>Add 2 tbsp of water and required salt. Cover and cook it on medium low flame for about minutes.</item>
+        <item>Remove the lid. Add the turmeric powder and red chilli powder. </item>
+        <item>Fry for another 5 minutes till all the moisture evaporates and it gets crispy.</item>
+        <item>Switch off the stove. Guar fry is ready to be served.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC115">
+        <item>Broccoli - 1 crown (cut into small florets)</item>
+        <item>Potatoes - 2 or 3 (chopped)</item>
+        <item>Turmeric Powder    - 1/4 tsp</item>
+        <item>Red Chili Powder - 1 tsp</item>
+        <item>Cumin Powder - 1/4 tsp</item>
+        <item>Asafoetida (Hing) - a Pinch</item>
+        <item>Salt    To Taste</item>
+        <item>For Seasoning</item>
+        <item>Oil - 1 tbsp</item>
+        <item>Mustard seeds - 1/4 tsp</item>
+        <item>Cumin (or Fennel) seeds    - 1/2 tsp</item>
+    </array>
+    <array name="DIRECTIONS_FRY_ITC115">
+        <item>Wash the broccoli crown and chop it into small florets. You can use the stem of the broccoli spear also after peeling it.</item>
+        <item>Peel the potatoes, wash it and chop it into medium cubes roughly the same size as the broccoli florets.</item>
+        <item>Heat oil in the pan and add mustard seeds. When it begins to sputter, add the fennel seeds.</item>
+        <item>Add the chopped potatoes along with salt and pinch of turmeric.</item>
+        <item>Stir fry the potatoes in medium flame till they are half-cooked. You can cover with a lid for some time to cook it faster. Do not add water. I like to use a non stick pan for this in order to reduce the amount of oil.</item>
+        <item>When the potatoes are partially cooked, add the broccoli florets. Stir fry in medium flame for 5 minutes till the broccoli turns dark green.</item>
+        <item>Now add the red chili powder, cumin powder and asafoetida. Reduce the heat and cook for another 2-3 minutes.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC116">
+        <item>Carrot - 3-4</item>
+        <item>Onion - 1/2 (finely chopped/ grated)</item>
+        <item>Green Chillies - 1</item>
+        <item>Grated Coconut - 2 tblsp</item>
+        <item>Curry leaves - 1 string</item>
+        <item>Oil - 2 tsp</item>
+        <item>Mustard seeds - 1/2 tsp</item>
+        <item>Dry red Chillies - 2</item>
+        <item>Urad dhal - 1 tsp</item>
+        <item>Salt - as needed</item>
+        
+    </array>
+    <array name="DIRECTIONS_FRY_ITC116">
+        <item>Peel the skin of the carrots and grate it using a hand grater. You could also chop it using a chopper, shred it using a food processor or chop it into small dices with hand.</item>
+        <item>Heat oil in a kadai, splutter the mustard seeds, urad dal, dry red chillies and curry leaves.</item>
+        <item>Add chopped onion, green chillies  and fry for a minute.</item>
+        <item>Add the grated carrot and required salt. You could add 2-3 tblsp of some other vegetable along with carrot like broccoli, cabbage, beans, brussels sprouts, parsnip, turnip etc.</item>
+        <item>Cover and let it cook till the carrot is soft but not mushy. Sprinkle few drops of water if needed.</item>
+        <item>Add coconut gratings and mix again and remove from stove.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC117">
+        <item>Brinjal - 3 (cut into slices or cubes)</item>
+        <item>onion - 1/2 (chopped)</item>
+        <item>Sambhar powder - 1 tsp</item>
+        <item>salt - to taste</item>
+        <item>lemon juice - few drops</item>
+        <item>Mustard seeds - 1/2 tsp</item>
+        <item>cury leaves - 1 spring</item>
+        <item>oil - 1 tblsp</item>
+    </array>
+    <array name="DIRECTIONS_FRY_ITC117">
+        <item>Heat oil, Put some mustard seeds. </item>
+        <item>Once splutters,put the curry leaves. </item>
+        <item>Add the onion. Once fried add the brinjal cut in small pieces. </item>
+        <item>After frying in the oil for sometime, add some sambhar powder,salt.</item>
+        <item>Fry it for few more minutes till the brinjal pieces gets cooked.</item>
+        <item>Few drops of lemon juice can be added at the end to enrich the flavour. Without that also it tastes very good.</item>
+        <item>Serve with rice and some curry.</item>
+    </array>
+
+
+    <array name="INGREDIENT_FRY_ITC118">
+        <item>Mixed Vegetables - 2-3 cups (finely chopped or grated) (You can use any combination of vegetables. I have used carrots, french beans, green peas, radish and cabbage.)</item>
+        <item>Onion - 1 (finely chopped)</item>
+        <item>Green Chili - 1 (finely chopped)</item>
+        <item>Coconut - ¼ cup(grated)</item>
+        <item>Salt - to taste</item>
+        <item>For tempering</item>
+        <item>Oil - 1 tbsp</item>
+        <item>Mustard seeds - 1/2 tsp</item>
+        <item>Split black gram (Urad dal) - 1 tsp</item>
+        <item>Dry red chili - 1</item>
+        <item>Curry leaves - 1 strand</item>
+        <item>Asafoetida -  a pinch</item>
+    </array>
+    <array name="DIRECTIONS_FRY_ITC118">
+        <item>Heat oil in a pan and splutter the mustard seeds. Add the dry red chilly, split black gram, asafoetida and curry leaves.</item>
+        <item>Saute the onions and green chilies for a minute or till the onion sweats.</item>
+        <item>Add the chopped vegetables and salt. Cook covered for about 5 minutes sprinkling few drops of water if needed. (Note :- Some vegetables do not need water at all. If the dish seems to get dry, just sprinkle few drops of water. Different vegetables takes different time to get cooked.)</item>
+        <item>Finally add the fresh grated coconut, mix well with the cooked vegetable and switch off.</item>
+    </array>
+
+
+    <array name="INGREDIENT_FRY_ITC119">
+        <item>Turnip with turnip greens - 1 bunch</item>
+        <item>Onion - 1 (diced)  </item>
+        <item>Garlic - 2 clove (crushed)</item>
+        <item>Green Chilly - 2 (minced) </item>
+        <item>Coconut - ¼ cup (Grated) </item>
+        <item>Mustard - ¼ tsp </item>
+        <item>Split black gram - ¼ tsp </item>
+        <item>Turmeric powder - 1 pinch</item>
+        <item>Asafoetida - 1 pinch </item>
+        <item>Curry leaves - 2 </item>
+        <item>Salt - to taste </item>
+        <item>Oil - 2 tsp</item>
+    </array>
+    <array name="DIRECTIONS_FRY_ITC119">
+        <item>To clean the bunch of turnip with turnip leaves, first cut the turnips and then separate each</item>
+        <item>leaf. Give a good rinse 2-3 times in cold water.</item>
+        <item>Chop the turnips separately into small dices. Place all the leaves one over the other and finely chop it.</item>
+        <item>Heat oil in a pan and splutter mustard, split black gram and curry leaves. Fry the onions, green chillies and garlic for 2 minutes.</item>
+        <item>Add the chopped turnip with turmeric, asafoetida and salt and saute for another 2 minutes. </item>
+        <item>Next add the turnip leaves and cook nicely for 7-minutes until all the liquid that comes out of the leaves cooks out. Keep tossing often.</item>
+        <item>Add the fresh grated coconut, toss everything together and switch off. You could also make the poriyal with the turnip seperately or the greens seperately.</item>
+    </array>
+
+
+    <array name="INGREDIENT_FRY_ITC120">
+        <item>Radish - 1 lb (grated/ diced)</item>
+        <item>Onion - 1 (finely chopped/grated)</item>
+        <item>Garlic -1 (crushed)</item>
+        <item>Coconut - ¼ cup(grated)</item>
+        <item>Asafoetida - 1 pinch</item>
+        <item>Split black gram - ¼ tsp</item>
+        <item>Mustard - ¼ tsp</item>
+        <item>Dry red chilly - 2 </item>
+        <item>Curry leaves - 4 </item>
+        <item>Salt - to taste</item>
+        <item>Oil - 1 Tbsp</item>
+        <item>Radish Poriyal</item>
+
+
+
+    </array>
+    <array name="DIRECTIONS_FRY_ITC120">
+        <item>Heat oil in a pan and splutter mustard, dry red chilly, split black gram and curry leaves.</item>
+        <item>Saute the onions and garlic for a while. Add the grated/diced radish along with asafoetida and salt. Cook for about 5 minutes sprinkling a few drops of water if needed.</item>
+        <item>Next add the fresh grated coconut, mix it with the radish and switch off.</item>
+    </array>
+
+
+    <array name="INGREDIENT_FRY_ITC121">
+        <item>Bok Choy - 1</item>
+        <item>Onion - 1 ( finely chopped)</item>
+        <item>Green Chillies - 2 or 3 (minced)</item>
+        <item>Egg - 1</item>
+        <item>Mustard seeds - 1/4 tsp</item>
+        <item>Urad dal - 1 tsp</item>
+        <item>Salt - to taste</item>
+        <item>Curry leaves - 6</item>
+        <item>Oil - 1 tblsp</item>
+
+    </array>
+    <array name="DIRECTIONS_FRY_ITC121">
+        <item>Separate the stalks of the bok choy and wash each stalk thorougly. Chop both the stalk and the leaves finely.</item>
+        <item>Heat oil in a pan, splatter some mustard seeds, curry leaves and urad dal.</item>
+        <item>Fry the chopped onions and green chillies for a minute and then add the chopped bok choy.</item>
+        <item>Add salt and let it cook uncovered for about 7-8 minutes until the vegetable wilts. It is a very watery vegetable so releases lot of water.</item>
+        <item>Add the egg at this stage and mix everything together. Keep mixing for another 1 or 2 minutes until the egg is cooked. Serve with rice or roti.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC122">
+        <item>Broccoli - 1 head/ Ivyguard -  1/2 lb /  Asparagus - 1 bunch</item>
+        <item>Channa dal - 1 tblsp</item>
+        <item>Urad dal - 1 tblsp</item>
+        <item>Grated Coconut - 1 tblsp (optional)</item>
+        <item>Chilly powder - 1 tsp</item>
+        <item>Turmeric Powder - 1/4 tsp</item>
+        <item>Asafoetida - a pinch</item>
+        <item>Mustard seeds - 1/4 tsp</item>
+        <item>Cumin seeds - 1/4 tsp</item>
+        <item>Oil - 2 tblsp</item>
+        <item>Curry leaves - 5-6</item>
+        <item>Sesame seeds - 1 tblsp (optional, for garnish)</item>
+    </array>
+    <array name="DIRECTIONS_FRY_ITC122">
+        <item>Chop the required vegetable into desired size. ( If using broccoli, separate into small florets, if using ivyguard chop lengthwise, if using asparagus cut into pieces.)</item>
+        <item>Heat oil in a heavy bottomed pan, splutter mustard seeds, cumin seeds and curry leaves.</item>
+        <item>In the same oil fry channa dal and urad dal with a low flame for 2 minutes until the </item>
+        <item>dals become crispy. Do not burn them.</item>
+        <item>Fry the grated coconut till it turns brown in colour.</item>
+        <item>Add the vegetable pieces, cover and cook for 2-5 minutes depending on the vegetable being used. (Ivyguard, beans and snakeguard takes about 5 min to cook)</item>
+        <item>Add salt, chilly powder, turmeric powder and asafoetida to it.</item>
+        <item>Toss everything together for another 2 minutes. Do not overcook the veggie. It has to remain crunchy.</item>
+        <item>Garnish with some tosted sesame seeds and serve with rice and any curry.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC123">
+        <item>Broccoli - 1 bunch </item>
+        <item>Onion - 1/2 (finely chopped/ grated)</item>
+        <item>Green Chillies - 1</item>
+        <item>Grated Coconut - 2 tblsp</item>
+        <item>Curry leaves - 1 string</item>
+        <item>Oil - 2 tsp</item>
+        <item>Mustard seeds - 1/2 tsp</item>
+        <item>Dry red Chillies - 2</item>
+        <item>Urad dhal - 2 tblsp</item>
+        <item>Salt - as needed</item>
+    </array>
+    <array name="DIRECTIONS_FRY_ITC123">
+        <item>Wash the broccoli and chop it vey fine. You can also pulse it a few times in the food processor.</item>
+        <item>Heat oil in a kadai, splutter the mustard seeds.</item>
+        <item>Add the urad dal, dry red chillies and curry leaves. Fry for a minute or so till the urad dal turns golden brown.</item>
+        <item>Add the chopped onion and green chillies. Fry for a minute till the onion sweats.</item>
+        <item>Add the finely shredded broccoli and required salt. </item>
+        <item>Stir fry for about 3-5 minutes. The broccoli will become dark green in colour and will be partially cooked.</item>
+        <item>Add grated coconut, mix again and remove from the stove. Broccoli tastes best if it retains its crunchiness, so do not overcook it.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC124">
+        <item>Beetroot - 1 big (chopped or grated)</item>
+        <item>Grated coconut - 3 tbsp</item>
+        <item>Sambhar Powder (or Red Chilly Powder) - 1 tsp</item>
+        <item>Salt - to taste</item>
+        <item>For the seasoning</item>
+        <item>Oil - 1 tblsp</item>
+        <item>Mustard seeds - 1 tsp</item>
+        <item>Urad dal - 1 tsp</item>
+        <item>Dry Red Chillies - 2</item>
+        <item>Asafoetida (Hing) - 1/4 tsp</item>
+        <item>Curry leaves - few</item>
+    </array>
+    <array name="DIRECTIONS_FRY_ITC124">
+        <item>Wash the beetroot, peel the skin and chop it into small pieces. You can also grate the beetroot and proceed.</item>
+        <item>Heat the oil in a pan or kadai and splutter the mustard seeds. When it pops, add the urad dal, asafoetida, dry red chillies and curry leaves.</item>
+        <item>Next add the chopped beetroot and required salt. </item>
+        <item>Cover and cook on low flame and until soft. Sprinkle some water and stir in between to prevent it for getting burnt.</item>
+        <item>After about 5 minutes, the beetroot gets cooked. Add the sambhar powder and grated coconut.</item>
+        <item>Increase the flame, stir fry for a minute and switch off.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC125">
+        <item>Turnip - 1 lb (grated)</item>
+        <item>Onion - 1/2 (finely chopped/grated)</item>
+        <item>Garlic -1 (minced)</item>
+        <item>Coconut - 2 tblsp (grated)</item>
+        <item>Split black gram - 1 tsp </item>
+        <item>Mustard - ¼ tsp</item>
+        <item>Dry red chilly - 2 </item>
+        <item>Curry leaves - 4 </item>
+        <item>Salt - to taste</item>
+        <item>Oil - 1 Tblsp</item>
+    </array>
+
+    <array name="DIRECTIONS_FRY_ITC125">
+        <item>1.Heat oil in a pan and splutter mustard, dry red chilly, split black gram and curry leaves.</item>
+        <item>2.Saute the onions and garlic for a while.</item>
+        <item>3.Add the grated turnip and reqired salt. Cook for about 5 minutes spinkling a few drops of water if needed.</item>
+        <item>3.Finally add the fresh grated coconut, mix it with the turnip and switch off.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC126">
+        <item>Brussels Sprouts - 1/2 lb</item>
+        <item>Onion - 1/2 (finely chopped)</item>
+        <item>Urad dal - 2 tsp</item>
+        <item>Mustard seeds - 1/4 tsp</item>
+        <item>Salt - to taste</item>
+        <item>Green Chilly - 1(minced)</item>
+        <item>Grated Coconut - 2 tblsp</item>
+        <item>Curry leaves - 5</item>
+
+    </array>
+    <array name="DIRECTIONS_FRY_ITC126">
+        <item>Wash the brussels sprouts, cut of the woody stem and roughly chop it.</item>
+        <item>Heat oil in a pan, splutter mustard seeds and urad dal.</item>
+        <item>After the dal is nicely cooked fry some curry leaves, green chilly and chopped onions.</item>
+        <item>Next add the brussels sprouts with salt, cover and cook for 4 minutes with some water.</item>
+        <item>Add some grated coconut, mix everything together and switch off.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC127">
+        <item>Turnip - 1 lb (grated)</item>
+        <item>Onion - 1/2 (finely chopped/grated)</item>
+        <item>Garlic -1 (minced)</item>
+        <item>Coconut - 2 tblsp (grated)</item>
+        <item>Split black gram - 1 tsp </item>
+        <item>Mustard - ¼ tsp</item>
+        <item>Dry red chilly - 2 </item>
+        <item>Curry leaves - 4 </item>
+        <item>Salt - to taste</item>
+        <item>Oil - 1 Tblsp</item>
+
+
+    </array>
+    <array name="DIRECTIONS_FRY_ITC127">
+        <item>1.Heat oil in a pan and splutter mustard, dry red chilly, split black gram and curry leaves.</item>
+        <item>2.Saute the onions and garlic for a while.</item>
+        <item>3.Add the grated turnip and reqired salt. Cook for about 5 minutes spinkling a few drops of water if needed.</item>
+        <item>3.Finally add the fresh grated coconut, mix it with the turnip and switch off.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC128">
+        <item>Mixed Vegetables - 2-3 cups (finely chopped or grated) (You can use any combination of vegetables. I have used carrots, french beans, green peas, radish and cabbage.)</item>
+        <item>Onion - 1 (finely chopped)</item>
+        <item>Green Chili - 1 (finely chopped)</item>
+        <item>Coconut - ¼ cup(grated)</item>
+        <item>Salt - to taste</item>
+        <item>For tempering</item>
+        <item>Oil - 1 tbsp</item>
+        <item>Mustard seeds - 1/2 tsp</item>
+        <item>Split black gram (Urad dal) - 1 tsp</item>
+        <item>Dry red chili - 1</item>
+        <item>Curry leaves - 1 strand</item>
+        <item>Asafoetida -  a pinch</item>
+    </array>
+    <array name="DIRECTIONS_FRY_ITC128">
+        <item>Heat oil in a pan and splutter the mustard seeds. Add the dry red chilly, split black gram, asafoetida and curry leaves.</item>
+        <item>Saute the onions and green chilies for a minute or till the onion sweats.</item>
+        <item>Add the chopped vegetables and salt. Cook covered for about 5 minutes sprinkling few drops of water if needed. (Note :- Some vegetables do not need water at all. If the dish seems to get dry, just sprinkle few drops of water. Different vegetables takes different time to get cooked.)</item>
+        <item>Finally add the fresh grated coconut, mix well with the cooked vegetable and switch off.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC129">
+        <item>Cabbage - about 4 cups (shredded/grated/finely chopped)</item>
+        <item>Onion - 1 (chopped - optional)</item>
+        <item>Grated coconut - 3 tbsp </item>
+        <item>Turmeric Powder - 1/4 tsp (optional)/p></item>
+        <item>Salt - to taste</item>
+        <item>For the seasoning</item>
+        <item>Oil - 2 tsp</item>
+        <item>Mustard seeds - 1 tsp</item>
+        <item>Asafoetida - a pinch</item>
+        <item>Urad dal - 1 tsp</item>
+        <item>Green chilli - 2 (slit)</item>
+        <item>Dry Red Chilli - Curry leaves - 1 sprig</item>
+        <item>Cabbage Poriyal</item>
+
+    </array>
+    <array name="DIRECTIONS_FRY_ITC129">
+        <item>Wash the cabbage and remove the outer layer. Chop it finely, grate it or shred it using a food processor.</item>
+        <item>Heat oil in a pan and add the mustard seeds. When it splutters, add the urad dal, green chilies, red chilli, asafoetida, turmeric powder and curry leaves.</item>
+        <item>Add the onion and saute for a minute. You can skip the onions if you don\'t want to add.</item>
+        <item>Next add the cabbage and mix well. Just sprinkle few drops of water and add salt.</item>
+        <item>Cover with a lid and let it cook on medium low flame for about 5-7 minutes.</item>
+        <item>Remove the lid and increase the flame. Add the grated coconut, stir fry for a couple of minutes till all the moisture dries out and switch off.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC130">
+        <item>Beans (Green/Purple/Yellow) - 1/2 lb (2grams)</item>
+        <item>Onion - 1/2 (finely chopped - optional)</item>
+        <item>Green chilies - 2 (slit)</item>
+        <item>Turmeric Powder - 1/4 tsp</item>
+        <item>Grated coconut - 3-4 tbsp</item>
+        <item>Salt - as required</item>
+        <item>For Seasoning</item>
+        <item>Oil - 2 tsp</item>
+        <item>Mustard Seeds - 1 tsp</item>
+        <item>Urad dal - 1 tsp</item>
+        <item>Red chili -1</item>
+        <item>Asafoetida - a pinch </item>
+    </array>
+    <array name="DIRECTIONS_FRY_ITC130">
+        <item>Wash the beans and snap (or cut) the edges. Remove the string that comes along with the edges.</item>
+        <item>Arrange about beans into a bundle and chop it into small uniform pieces. </item>
+        <item>Heat oil in a kadai (frying pan) and splutter the mustard seeds.</item>
+        <item>Add the urad dal, asafoetida and curry leaves and fry till the dal turns golden brown.</item>
+        <item>Add the chopped onion, green chilies and beans.</item>
+        <item>Add salt, turmeric powder and little water. Mix everything, cover and let it cook for about minutes or till the beans become soft.Sprinkle more water if needed.</item>
+        <item>Add grated coconut, toss it together and switch off. Tasty beans poriyal is ready to served.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC131">
+        <item>Acorn Squash - 1 (diced)</item>
+        <item>Chilly Powder - 1 tsp</item>
+        <item>Turmeric Powder - 1/4 tsp</item>
+        <item>Mustard seeds - 1/4 tsp</item>
+        <item>Urad Dal - 1 tsp</item>
+        <item>Curry Leaves - 1 strand</item>
+        <item>Roasted Peanuts - 2 tbsp</item>
+        <item>Coriander seeds - 1 tsp</item>
+        <item>Salt - as needed</item>
+
+
+    </array>
+    <array name="DIRECTIONS_FRY_ITC131">
+        <item>Heat oil in a pan and splutter the mustard seeds, urad dal and curry leaves.</item>
+        <item>Add the diced acorn squash pieces and saute for a minute. I prefer to cut it into very small pieces.</item>
+        <item>Add salt, turmeric powder and chilly powder to it and fry for another minute.</item>
+        <item>Add around 1/4 cup of water, cover with a lid and let it cook for about 7 minutes till the squash becomes soft.</item>
+        <item>In the meantime, roast the peanuts and coriander seeds in a kadai or in microwave.</item>
+        <item>Coarsely grind this and add the powder to the cooked acorn squash.</item>
+        <item>Toss everything together for another minute and switch off. Serve as a side for rice.  </item>
+    </array>
+    <array name="INGREDIENT_FRY_ITC132">
+        <item>Collard greens – 1 bunch</item>
+        <item>Onion - 1/4 (chopped)</item>
+        <item>Green Chilly - 1</item>
+        <item>Turmeric Powder - a pinch</item>
+        <item>Nutmeg Powder - a pinch (optional)</item>
+        <item>Mustard seeds - 1/4 tsp</item>
+        <item>Curry leaves - 1 spring</item>
+        <item>Oil - 2 tsp</item>
+        <item>Shredded coconut – 2 tbsp (or 2 tbsp crushed peanuts or 1 egg)</item>
+        <item>collard greens poriyal</item>
+
+    </array>
+    <array name="DIRECTIONS_FRY_ITC132">
+        <item>Wash the green under cold running water.</item>
+        <item>collard greens poriyal</item>
+
+        <item>Take each leaf and cut the thick stem in the middle and bottom of the leaf.</item>
+        <item>collard greens poriyal</item>
+
+        <item>After the stem from every leaf has been cut, arrange the entire leaves one over the other.</item>
+        <item>Roll it up and chop it finely.</item>
+        <item>collard greens poriyal</item>
+
+        <item>Heat oil in a pan and pop the mustard seeds and curry leaves.</item>
+        <item>Add the chopped onions and green chilli and saute for few minutes.</item>
+        <item>Add the chopped leaves, turmeric powder, nutmeg powder and required salt.</item>
+        <item>Let it cook uncovered till the leaves become tender. The water from the leaves should be enough to cook it. Sprinkle few drops of water if needed.</item>
+        <item>Finally add shredded coconut or crushed peanuts or egg.</item>
+        <item>Toss everything together and cook for another 2 minutes.</item>
+        <item>Serve with white rice and some curry.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC133">
+        <item>Asparagus - 1 lb (chopped)</item>
+        <item>Onion - 1/2 (finely chopped)</item>
+        <item>Grated Coconut - 2-3 tblsp</item>
+        <item>Red Chilly Powder/Chilly Flakes - 1 tsp</item>
+        <item>Turmeric Powder - 1/4 tsp</item>
+        <item>Mustard seeds - 1/2 tsp</item>
+        <item>Channa Dal - 1 tsp</item>
+        <item>Urad dal - 1 tsp</item>
+        <item>Curry Leaves - 1 spring</item>
+        <item>Salt - to taste</item>
+        <item>Oil - 1 tblsp</item>
+        <item>Cilantro - handful (finely chopped)</item>
+
+        <item>Green Asparagus Sabzi</item>
+    </array>
+    <array name="DIRECTIONS_FRY_ITC133">
+        <item>Wash the asparagus and cut off the woody bottom ends (about 1"). </item>
+        <item> To cut the woody ends, hold the asparagus and bend it. The woody end will naturally break off. You can peel the hard skin of the woody portion and use it for the poriyal. If not, use it for making soups or stocks. </item>
+        <item>Chop the tender part into small pieces. </item>
+        <item>Heat oil in a pan and add the mustard seeds.</item>
+        <item>Once they start spluttering, add the channa dal and urad dal. Fry till the dals turn golden brown. The dals add a nice crunch to the sabzi.</item>
+        <item>Add finely chooped onion and curry leaves. Let the onions brown a little.</item>
+        <item>Add the grated coconut, turmeric powder and chilly flakes. Fry for a minute.</item>
+        <item>Now add the chopped asparagus and required salt. Stir fry for 2-3 minutes.The asparagus tastes best when it is crunchy, so do not overcook. </item>
+        <item>Add the chopped cilantro and switch off.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC134">
+        <item>Ingredients:</item>
+        <item>1 cup Finely chopped jackfruit seeds</item>
+        <item>Turmeric powder</item>
+        <item>Salt</item>
+        <item>Oil</item>
+        <item>1 tsp Mustard seeds</item>
+        <item>1 tsp Urid dal</item>
+        <item>1 Red chilli broken into pieces</item>
+        <item>Curry leaves</item>
+        <item>Pinch of asafoetida.</item>
+        <item>2 tsp Grated coconut</item>
+        <item>1 Green chilli</item>
+        <item>1/4 tsp Cumin seeds</item>
+    </array>
+    <array name="DIRECTIONS_FRY_ITC134">
+        <item>Heat a kadai and pour 2-3 tsp oil. When it becomes hot, add the mustard seeds, urid dal, broken chilly, curry leaves and asafoetida.</item>
+        <item>When it splutters add the jackfruit seeds, turmeric powder, salt and saute for minutes. Then cover it with a plate.  </item>
+        <item>Pour water in the plate and allow to cook the same till it is soft. Keep stirring in between.</item>
+        <item>Meantime grind the coconut, green chilly, cumin seed.</item>
+        <item>when it is cooked softly, add the coconut mix.  Mix well and serve hot as a side dish for sambar.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC135">
+        <item>Beans (Green/Purple/Yellow) - 1/2 lb (2grams)</item>
+        <item>Onion - 1/2 (finely chopped - optional)</item>
+        <item>Green chilies - 2 (slit)</item>
+        <item>Turmeric Powder - 1/4 tsp</item>
+        <item>Grated coconut - 3-4 tbsp</item>
+        <item>Salt - as required</item>
+        <item>For Seasoning</item>
+        <item>Oil - 2 tsp</item>
+        <item>Mustard Seeds - 1 tsp</item>
+        <item>Urad dal - 1 tsp</item>
+        <item>Red chili -1</item>
+        <item>Asafoetida - a pinch </item>
+    </array>
+    <array name="DIRECTIONS_FRY_ITC135">
+        <item>Wash the beans and snap (or cut) the edges. Remove the string that comes along with the edges.</item>
+        <item>Arrange about beans into a bundle and chop it into small uniform pieces. </item>
+        <item>Heat oil in a kadai (frying pan) and splutter the mustard seeds.</item>
+        <item>Add the urad dal, asafoetida and curry leaves and fry till the dal turns golden brown.</item>
+        <item>Add the chopped onion, green chilies and beans.</item>
+        <item>Add salt, turmeric powder and little water. Mix everything, cover and let it cook for about minutes or till the beans become soft.Sprinkle more water if needed.</item>
+        <item>Add grated coconut, toss it together and switch off. Tasty beans poriyal is ready to served.</item>
+    </array>
+
+
+    <array name="INGREDIENT_FRY_ITC136">
+        <item>Banana stem (vazhathandu - finely chopped) - 1 cup</item>
+        <item>Salt -  to taste</item>
+        <item>Turmeric powder -  1/4 tsp</item>
+        <item>Grated coconut - 2 tblsp</item>
+        <item>Tempering</item>
+        <item>Oil - 1 tsp </item>
+        <item>Cumin seeds - 1/4 tsp </item>
+        <item>Mustard seeds - 1 tsp </item>
+        <item>Urid dal - 1 tsp </item>
+        <item>Curry leaves - 1 sprig</item>
+        <item>Dry Red chilli (broken) - 1</item>
+        <item>A pinch of Asafoetida (Hing) - a pinch</item>
+
+
+    </array>
+    <array name="DIRECTIONS_FRY_ITC136">
+        <item>Cook the vazhathandu in pressure cooker with little water, salt and turmeric. You can also cook it in a open pot till it becomes soft.</item>
+        <item>In a kadai, heat oil for tempering. Add the mustard seeds, urid dal, broken red chilli, curry leaves and asafoetida (hing) powder.</item>
+        <item>Add the vazhathandu and stir well.</item>
+        <item>Coarsely grind the grated coconut and cumin seeds and add to the above mixture.</item>
+        <item>Saute well and serve as a side dish for plain rice and sambar.</item>
+    </array>
+
+    <array name="INGREDIENT_FRY_ITC137">
+        <item>Cauliflower - 1 (finely chopped/grated)</item>
+        <item>Eggs - 3 (beaten)</item>
+        <item>Onion - 1 (chopped)</item>
+        <item>Green Chillies - 3-4</item>
+        <item>Salt - to taste</item>
+        <item>Pepper - to taste</item>
+        <item>For Tempering</item>
+        <item>Oil - 2 tblsp</item>
+        <item>Mustard seeds - 1 tsp</item>
+        <item>Urad dal - 1 tsp</item>
+        <item>Cumin seeds - 1 tsp</item>
+        <item>Curry Leaves - 1 strand</item>
+        <item>Optional Ingredients</item>
+        <item>Garlic - 1 clove (grated)</item>
+        <item>Ginger - 1/2 " piece (grated) Tomato - 1 (chopped)</item>
+    </array>
+    <array name="DIRECTIONS_FRY_ITC137">
+        <item>Heat oil in a pan and splutter the mustard seeds, cumin seeds, urad dal add curry leaves.</item>
+        <item>Fry the chopped onions and green chillies.</item>
+        <item>When the onions turn golden brown, add the cauliflower along with required salt and pepper and let it cook for a couple of minutes. Since the cauliflower is very finely chopped, it gets cooked in 2 minutes.</item>
+        <item>In the meanwhile beat the eggs in a separate bowl.</item>
+        <item>Add the eggs to the cauliflower. Do not disturb that for the next 2 minutes.</item>
+        <item>After that, toss everything together till the egg gets cooked.</item>
+    </array>
+
+
+    <array name="INGREDIENT_FRY_ITC138">
+        
+
+        <item>Banana flower - 1 (cleaned and chopped)  </item>
+        <item>Onion - 1</item>
+        <item>Grated coconut - 1/4 cup </item>
+        <item>Turmeric powder - 1/4 tsp</item>
+        <item>Salt - to taste</item>
+        <item>For seasoning </item>
+        <item>Oil - 2 tsp</item>
+        <item>Mustard seeds - 1 tsp</item>
+        <item>Split urad dal - 3/4 tsp</item>
+        <item>Dry Red chillies - 2</item>
+        <item>Asafoetida (Hing) - 1/4 tsp</item>
+        <item>Curry leaves - a sprig</item>
+    </array>
+    <array name="DIRECTIONS_FRY_ITC138">
+        <item>Clean and chop the banana flower as per the instructions given in the link.</item>
+        <item>Heat oil in a kadai and fry the mustard seeds, urad dal, dry red chillies and curry leaves.</item>
+        <item>Add the chopped onions and asafoetida. Saute for few minutes.</item>
+        <item>Add the chopped banana flower, turmeric powder and salt. Add little water, cover and cook for about minutes.</item>
+        <item>After the flower is cooked, open the lid and add the grated coconut.</item>
+        <item>Stir fry for 3-4 minutes till all the moisture dries out. Switch off and serve this tasty Vazhaipoo Poriyal as a side dish for rice and some curry. You can also use it as a stuffing to make sandwiches or parathas.</item>
+    </array>
+
+
+
+</resources>

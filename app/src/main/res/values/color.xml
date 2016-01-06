@@ -9,6 +9,8 @@
     <color name="listitembody">#F7F7F7</color>
     <color name="GREEN">#339933</color>
     <color name="WHITE">#FFFFFF</color>
+    <color name="SLIGHT_WHITE">#FCFCFC</color>
+    <color name="BLACK">#000000</color>
     <color name="GREY">#999999</color>
     <color name="SAFRON">#FF9933</color>
     <color name="DARK_GREEN">#138808</color>

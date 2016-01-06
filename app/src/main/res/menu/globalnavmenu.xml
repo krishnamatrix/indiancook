@@ -2,10 +2,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <group android:checkableBehavior="single">
-        <item
-            android:id="@+id/home"
-            android:checked="false"
-            android:title="Home" />
+
         <!--android:icon="@drawable/linkedin"-->
         <item
             android:id="@+id/favouritesMenu"
@@ -14,7 +11,15 @@
         <item
             android:id="@+id/shoppingcart"
             android:checked="false"
-            android:title="Favorites" />
+            android:title="Shopping Card" />
+        <item
+            android:id="@+id/healthtips"
+            android:checked="false"
+            android:title="Health Tips"/>
+        <item
+            android:id="@+id/filter"
+            android:checked="false"
+            android:title="Filters"/>
         <item
             android:id="@+id/rateapp"
             android:checked="false"

@@ -19,8 +19,7 @@
         android:layout_marginLeft="15dp"
         android:layout_marginRight="15dp"
         android:id="@+id/directionDetail"
-        android:text="160 mins asdfas asdfasdf asdf  asdf saf sadf asdf asd fas df asdf  d fsdf asd fas df s"
         android:layout_gravity="center_vertical|left"
-        android:textSize="16sp"
+        android:textSize="14sp"
         />
 </LinearLayout>

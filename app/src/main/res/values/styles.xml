@@ -4,6 +4,8 @@
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/ColorPrimary</item>
         <item name="colorPrimaryDark">@color/ColorPrimaryDark</item>
+        <item name="android:textColorPrimary">@color/SLIGHT_WHITE</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
         <!-- Customize your theme here. -->
     </style>
     <style name="GreenHeaderAppTheme" parent="AppTheme">
@@ -14,6 +16,10 @@
     <style name="NoActionBar" parent="@android:style/Theme.Holo.Light">
         <item name="android:windowActionBar">false</item>
         <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@color/SLIGHT_WHITE</item>
     </style>
     <!--<style name="myAlertDialog" parent="@android:style/Theme.Dialog">
         <item name="android:windowFrame">@null</item>

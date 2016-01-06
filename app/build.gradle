@@ -25,4 +25,5 @@ dependencies {
     compile 'com.google.code.gson:gson:2.3'
     compile 'com.android.support:design:22.2.0'
     compile 'com.quinny898.library.persistentsearch:library:1.1.0-SNAPSHOT'
+    compile 'org.apache.commons:commons-collections4:4.0'
 }

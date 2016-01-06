@@ -4,31 +4,56 @@
     android:id="@+id/drawer"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:fitsSystemWindows="true">
-
-    <LinearLayout
+    android:fitsSystemWindows="true"
+    >
+    <FrameLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:background="@color/button_material_light"
-        android:orientation="vertical">
+        android:layout_height="match_parent">
+        <!-- 72 + 56 + 4-->
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#b3eeeeee"
+            android:layout_marginTop="60dp"
+            android:overScrollMode="never"
+            android:focusableInTouchMode="true"
+            android:scrollbars="none">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/button_material_light"
+                android:orientation="vertical">
+
+                <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/listitembody"
+                android:orientation="vertical">
+                    <!--<com.krish.indiancook.Layouts.FlowLayout
+                        android:id="@+id/flow_layout"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="start|top"
+                        android:background="@color/button_material_light"/>-->
+                    <com.krish.indiancook.views.ExpandableGridView
+                        android:id="@+id/itemsgridview"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:verticalSpacing="0dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:numColumns="3"
+                        android:stretchMode="columnWidth"
+                        android:gravity="center"
+                        />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
         <include
             android:id="@+id/toolbarlayout"
             layout="@layout/toolbarwithsearchgreen"
             ></include>
-        <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:background="@color/listitembody"
-        android:orientation="vertical">
-            <com.krish.indiancook.Layouts.FlowLayout
-                android:id="@+id/flow_layout"
-                android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:gravity="start|top"
-                android:background="@color/button_material_light"/>
-
-        </LinearLayout>
-    </LinearLayout>
+    </FrameLayout>
     <android.support.design.widget.NavigationView
         android:id="@+id/navigation_view"
         android:layout_height="match_parent"

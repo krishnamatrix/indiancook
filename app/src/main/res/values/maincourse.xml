@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="INGREDIENT_NVMAINCOURSE_ITC100">
-        <item>Curry Chicken</item>
-
         <item>Chicken / Turkey -1 lb (1/2 kg)</item>
         <item>Onion - 1 big (cut lengthwise)</item>
         <item>Tomato - 2 (diced or pureed)</item>
@@ -32,7 +30,7 @@
         <item>Wash and cut chicken (or turkey) in small size pieces.</item>
         <item>Take a deep bowl mix chilly powder, coriander powder, turmeric powder, salt, garam masala, ginger garlic paste, lemon juice and make a paste.</item>
         <item>Add chicken (or turkey) pieces to this and rub to coat the masala to all sides of chicken. Let this marinate for at least half an hour in the refrigerator.</item>
-        <item>Now heat oil in a kadai or deep sauce pan and fry the ingredients under 'To Grind' on medium flame for about 1 minute or until it turns brown and gives out a nice aroma.</item>
+        <item>Now heat oil in a kadai or deep sauce pan and fry the ingredients under \'To Grind\' on medium flame for about 1 minute or until it turns brown and gives out a nice aroma.</item>
         <item>After it cools grind it into a fine paste with little water. (If you are in a hurry, You can grind these without frying.)</item>
         <item>Now take the same kadai, heat some oil, add cumin seeds and curry leaves and let it splutter.</item>
         <item>Add onions and fry for few minutes till it browns.</item>
@@ -47,7 +45,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC101">
-        <item>Fish Curry</item>
         <item>Ingredients - 1</item>
         <item>Fish fillets/pieces - 1 lb</item>
         <item>Tamarind juice - made from 2-3 tamarind (lemon sized tamarind ball or 1 tblsp of tamarind pulp)</item>
@@ -90,8 +87,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC102">
-        <item>Egg Curry</item>
-
         <item>Eggs - 6</item>
         <item>Onion -1</item>
         <item>Tomatoes - 2</item>
@@ -121,8 +116,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC103">
-        <item>Butter Chicken</item>
-
         <item>Turkey/Chicken - 1 lb (boneless, skinless)</item>
         <item>Onion - 1 (chopped)</item>
         <item>Tomato - 3-4 (chopped)</item>
@@ -156,7 +149,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC104">
-        <item>Fish Curry</item>
         <item>Ingredients-1</item>
         <item>Coconut (grated) - 1/4 cup </item>
         <item>Pearl Onions - 4-5</item>
@@ -192,8 +184,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC105">
-        <item>Palak Chicken</item>
-
         <item>Ingriedients</item>
         <item>Batch -1</item>
         <item>Chicken Breast - 1 lbs (cut into desired pieces)</item>
@@ -231,8 +221,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC106">
-        <item>Chicken/Turkey Kurma</item>
-
         <item>Chicken/Turkey - 1 lb (cut into pieces)</item>
         <item>Onion - 1 (sliced)</item>
         <item>Kuskus - 2 tblsp</item>
@@ -264,8 +252,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC107">
-        <item>Chicken Roast Masala</item>
-
         <item>Chicken - 1/2 kg(1 lb)</item>
         <item>Oil - as needed</item>
         <item>Onions - 3</item>
@@ -291,8 +277,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC108">
-        <item>Chicken Tikka Masala</item>
-
         <item>Chicken Tikkas - 1 lb</item>
         <item>Tomato puree - 1 Cup</item>
         <item>Ginger garlic paste -1 tsp</item>
@@ -318,8 +302,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC109">
-        <item>Pepper Chicken Chettinad</item>
-
         <item>Chicken - 1 lbs (app. 1/2 kg)</item>
         <item>Onion - 2 (chopped)</item>
         <item>Tomatoes - 2 (diced)</item>
@@ -354,8 +336,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC110">
-        <item>Prawns Curry</item>
-
         <item>Srimp - 1 lb (cleaned and deveined) </item>
         <item>Cumin seeds - ¼ tsp </item>
         <item>Mustard Seeds - ¼ tsp </item>
@@ -380,8 +360,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC111">
-        <item>Sesame Chicken</item>
-
         <item>Chicken - 1 lb (boneless skinless, cut into small cubes)</item>
         <item>Oil -  2 tblsp (preferably sesame oil)</item>
         <item>Sesame seeds (white) - 2 tblsp</item>
@@ -412,7 +390,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC112">
-        <item>Almond Chicken</item>
         <item>Ingredients    </item>
         <item>Chicken - 1 whole chicken (2 lbs cut into small pieces)</item>
         <item>Almonds - 10</item>
@@ -444,8 +421,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC113">
-        <item>Fish Stew</item>
-
         <item>For Marinade</item>
         <item>Fish Fillets - 4</item>
         <item>Salt - 1 tsp</item>
@@ -478,8 +453,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC114">
-        <item>Shahi Mutton</item>
-
         <item>Mutton - 1 kg</item>
         <item>Onions - 2 (chopped)</item>
         <item>Brown Onion Paste - 1/2 cup</item>
@@ -510,8 +483,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC115">
-        <item>Curd Chicken Curry</item>
-
         <item>Chicken - 1 kg (app. 2 lbs)</item>
         <item>Yogurt - 1 cup (beaten)</item>
         <item>Onion - 1 big/ 2 small (finely chopped)</item>
@@ -543,8 +514,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC116">
-        <item>Chicken Vindaloo</item>
-
         <item>Chicken - 1 lb (cut into chunks)</item>
         <item>Potatoes -  2 (cut into big chunks) - optional</item>
         <item>Coconut milk - 1 cup </item>
@@ -568,7 +537,7 @@
     <array name="DIRECTIONS_NVMAINCOURSE_ITC116">
         <item>You can use store bought fried onions for this recipe. If not, slice the onions and deep fry</item>
         <item>in oil till it turns crispy and brown in colour.</item>
-        <item>Grind together all the ingredients under 'to grind' adding water as needed to make a very</item>
+        <item>Grind together all the ingredients under \'to grind\' adding water as needed to make a very</item>
         <item>smooth paste.</item>
         <item>Mix this paste with the chicken and let it marinate for atleast half an hour.</item>
         <item>Heat oil in a pan and add the marinated chicken along with the masala (marinade).</item>
@@ -580,8 +549,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC117">
-        <item>Green Chicken Curry</item>
-
         <item>Chicken - 2 lbs (1 kg)</item>
         <item>Onion - 1 (chopped)</item>
         <item>Turmeric Powder - 1/4 tsp</item>
@@ -606,7 +573,7 @@
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC117">
         <item>Marinate the chicken pieces with salt,  pepper powder and lemon juice for at least half an hour before preparing the curry.</item>
-        <item>Make a smooth paste of all the ingredients under 'to grind'. Try to avoid water while grinding or add as little as possible.</item>
+        <item>Make a smooth paste of all the ingredients under \'to grind\'. Try to avoid water while grinding or add as little as possible.</item>
         <item>Heat oil in a heavy bottomed pan and add the bay leaf and fennel seeds.</item>
         <item>Add the finely chopped onions and fry till it is golden brown.</item>
         <item>Add the ground paste and let it cook until the oil separates from the masala. This will take about 10 minutes.</item>
@@ -618,8 +585,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC118">
-        <item>Kozhi Rasam</item>
-
         <item>Chicken - 1/2 lb (bony pieces)</item>
         <item>Shallot onions - 5-8 (chopped)</item>
         <item>Tomato - 1 (chopped or mashed up with hands)</item>
@@ -634,14 +599,12 @@
         <item>Red chilly - 1</item>
         <item>Garlic pods - 5 or 6</item>
         <item>Curry Leaves - 5 leaves</item>
-        <item>  </item>
-
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC118">
         <item>In a pressure cooker add the bony chicken pieces, onion, green chilly and tomato.</item>
         <item>Add about 5-6 cups of water, salt and turmeric powder.</item>
         <item>Pressure cook for 7-8 whistles. We want the bones to break down and release all its essence.</item>
-        <item>In the meantime, coarsely grind the ingredients under 'For Tempering' using the pulse mode. You can also use a motar and pestle to crush the ingredients.</item>
+        <item>In the meantime, coarsely grind the ingredients under \'For Tempering\' using the pulse mode. You can also use a motar and pestle to crush the ingredients.</item>
         <item>Heat oil in a small pan, add the coarsely ground masala and fry for a minute.</item>
         <item>After the pressure goes down, open the cooker and turn on the heat.</item>
         <item>Add the tempering, chicken masala and chopped cilantro to the rasam.</item>
@@ -650,8 +613,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC119">
-        <item>South Indian Seafood Medley Curry</item>
-
         <item>Fish - 1 lb (app. 1/2 kg)</item>
         <item>Shrimp - 1 lb</item>
         <item>(You can also add other seafood like squid, scallops etc.)</item>
@@ -665,12 +626,10 @@
         <item>Salt - as needed</item>
         <item>Oil - 1 tblsp +1 tblsp</item>
         <item>Cilantro - for garnishing</item>
-
         <item>To grind</item>
         <item>Fennel Powder - 1 tsp</item>
         <item>Tomato - 1 big (or 2 small)</item>
         <item>Grated Coconut - 1/2 cup</item>
-
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC119">
         <item>Grind the tomatoes, coconut and fennel powder to a fine paste. Keep this aside.</item>
@@ -688,8 +647,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC120">
-        <item>Methi Chicken</item>
-
         <item>Chicken - 1 lb (cut into bite size pieces)</item>
         <item>Fenugreek Leaves (Methi) - 1 bunch (about 2 cups)</item>
         <item>Onion - 2 (finely chopped)</item>
@@ -707,7 +664,6 @@
         <item>Fennel seeds - 1/2 tsp</item>
         <item>Salt - as needed</item>
         <item>Oil - 3 tblsp</item>
-        <item>  </item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC120">
         <item>Take a heavy bottomed pan, heat the oil and splutter the cumin and fennel seeds.</item>
@@ -723,8 +679,6 @@
     </array>
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC121">
-        <item>Egg Kurma</item>
-
         <item>Eggs - 6 (Hard Boiled/ Raw)</item>
         <item>Red Chilly Powder - 1 tsp</item>
         <item>Corriander Powder - 2 tsp</item>
@@ -733,7 +687,6 @@
         <item>Cilantro - for garnish</item>
         <item>Salt - to taste</item>
         <item>Oil - 2 tblsp</item>
-
         <item>List I</item>
         <item>Fried Onions (store bought) - 1/2 cup </item>
         <item>Ginger Garlic Paste - 1 tsp</item>
@@ -746,14 +699,14 @@
         <item>Cashew nuts - 5</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC121">
-        <item>First of all, grind all the ingredients under 'List I' and keep it aside.</item>
-        <item>Similarly, grind the ingredients under 'List II' and set aside.</item>
+        <item>First of all, grind all the ingredients under \'List I\' and keep it aside.</item>
+        <item>Similarly, grind the ingredients under \'List II\' and set aside.</item>
         <item>You can make this kurma in two ways - (i) Hard Boil the eggs and add it to the gravy.</item>
         <item>(ii) Break a raw egg into the gravy and cook it.</item>
         <item>     The recipe is the same for both the kurmas.</item>
-        <item>Heat oil in a heavy bottomed pan/kadai and add the ground paste of 'List I'.</item>
+        <item>Heat oil in a heavy bottomed pan/kadai and add the ground paste of \'List I\'.</item>
         <item>Saute for 2 minutes on medium high flame and then add the dry spice powders.</item>
-        <item>Next add the ground paste of 'List II', about 2 cups of water and required salt.</item>
+        <item>Next add the ground paste of \'List II\', about 2 cups of water and required salt.</item>
         <item>Boil this for about 7-8 minutes till everything is cooked and oil separates.</item>
         <item>Add the egg at this stage and simmer for 4-5 minutes.</item>
         <item>        - If you are adding hard boiled eggs, make few slits for the gravy to be absorbed.</item>
@@ -763,8 +716,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC122">
-        <item>Spicy Chicken Curry</item>
-
         <item>Onion - 1 (finely chopped)</item>
         <item>Tomato - 2 (diced or pureed)</item>
         <item>Oil - 2 tbsp</item>
@@ -792,13 +743,13 @@
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC122">
         <item>Cut the chicken and cut it into medium size pieces. Marinate it with salt, lemon juice and turmeric powder for at least half an hour.</item>
-        <item>Dry roast the ingredients under 'List II' on low flame till the coconut turns golden brown in colour. After it cools make a powder of it and keep aside.</item>
-        <item>Make a paste of the ingredients under 'List I'. Keep this aside.</item>
+        <item>Dry roast the ingredients under \'List II\' on low flame till the coconut turns golden brown in colour. After it cools make a powder of it and keep aside.</item>
+        <item>Make a paste of the ingredients under \'List I\'. Keep this aside.</item>
         <item>Heat the oil in a heavy bottomed pan and add the cumin seeds and bay leaf.</item>
         <item>Add the chopped onions and fry till it becomes brown in colour.</item>
-        <item>Add the ground paste of 'List I' and fry till the raw smell is gone.</item>
+        <item>Add the ground paste of \'List I\' and fry till the raw smell is gone.</item>
         <item>Add the marinated chicken and fry for few minutes. The chicken releases lot of water. </item>
-        <item>Now add the remaining ingredients - tomato puree, powdered mixture of 'List II', required salt and water.</item>
+        <item>Now add the remaining ingredients - tomato puree, powdered mixture of \'List II\', required salt and water.</item>
         <item>Cover and cook for 15-20 minutes. By now the chicken pieces will be completely cooked.</item>
         <item>This is the right time to check for salt and other spices. Adjust anything if needed.</item>
         <item>Cook uncovered till the oil floats on top of the gravy.</item>
@@ -807,8 +758,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC123">
-        <item>Crab Kurma</item>
-
         <item>Crab - 5-6</item>
         <item>Onion - 1 big (finely chopped)</item>
         <item>Tomatoes - 2 (finely chopped)</item>
@@ -841,7 +790,7 @@
         <item>Now add the crabs and mix to coat the crabs with the masala.</item>
         <item>Add some water depending on how much gravy you need. You can also make it a semi gravy dish.</item>
         <item>Cover and let it cook for 5-7 minutes. The crab turns red in color when done. If you overcook the crab it will become stringy.</item>
-        <item>In the meantime grind the ingredients under 'To grind'.</item>
+        <item>In the meantime grind the ingredients under \'To grind\'.</item>
         <item>Add this ground paste to the crab gravy. Check for salt and other seasonings and adjust if needed.</item>
         <item>Let the gravy simmer for another 5 minutes for the ground masala to get cooked.</item>
         <item>Finally add chopped cilantro and switch off.</item>
@@ -849,8 +798,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC124">
-        <item>Karuvaatu Kulambu</item>
-
         <item>Dried Fish - 1/2 lb</item>
         <item>Shallot Onion - 5/ Onion - 1/2 (chopped)</item>
         <item>Tomato - 1 (chopped)</item>
@@ -883,19 +830,13 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC125">
-        <item>Kheema Kofta Curry</item>
-
-        <item>For the Koftas</item>
-        <item>Kheema (ground or minced meat) - 1 lb (1/2 kg)</item>
-        <item>    (You can use ground turkey, ground lamb, ground chicken or any other ground meat. If you cannot find ground meat, grind boneless skinless meat in a blender/mixie and proceed.)</item>
+        <item>Kheema (fully smashed) - 1 lb (1/2 kg)</item>
         <item>Ginger Garlic Paste - 1 tsp</item>
         <item>Red Chilly Powder - 1 tsp</item>
         <item>Turmeric Powder - 1/4 tsp</item>
         <item>Garam Masala - 1/2 tsp</item>
         <item>Salt - 1 tsp</item>
         <item>Cilantro - 2 springs (finely chopped)</item>
-
-        <item>For the gravy</item>
         <item>Onion - 1 (chopped)</item>
         <item>Tomatoes - 2 (pureed)</item>
         <item>Ginger garlic paste - 2 tsp</item>
@@ -932,10 +873,8 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC126">
-        <item>Fish Mappas</item>
-
-        <item>Fish - 1 lb (This preparation is traditionally made with karimeen, but you can use any fish available)</item>
-        <item>Shallots (Sambhar Onions) - 1/2 cup (sliced)</item>
+        <item>Fish - 1 lb</item>
+        <item>Onions - 1/2 cup (sliced)</item>
         <item>Tomatoes - 2 (chopped)</item>
         <item>Green chilly- 2</item>
         <item>Ginger- 1" piece (thinly sliced)</item>
@@ -963,7 +902,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC127">
-        <item>Crab Curry</item>
         <item>Ingredients-1</item>
         <item>Coconut (grated) - 3 tblsp </item>
         <item>Pearl Onions - 3-4</item>
@@ -1000,8 +938,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC128">
-        <item>Murg Noorjahani</item>
-
         <item>Chicken - 2 lbs (1 kg) (boneless skinless)</item>
         <item>Saffron Strands - a pinch</item>
         <item>Onion - 1 (finely chopped)</item>
@@ -1035,7 +971,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC129">
-        <item>Mutton Ridgegourd Curry</item>
         <item>Ingriedients</item>
         <item>Mutton - 500gms</item>
         <item>Ridge gourd pieces - 150 gms</item>
@@ -1060,8 +995,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC130">
-        <item>Naatu Kodi Cura</item>
-
         <item>Country chicken pieces - 1kg</item>
         <item>Turmeric Powder (haldi) - 1/2 spoon</item>
         <item>Chilli powder - 2 spoons</item>
@@ -1083,8 +1016,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC131">
-        <item>Mutton Curry</item>
-
         <item>Mutton - 1 lb (cut into small cubes)</item>
         <item>Potato - 1 big (cut into cubes - optional)</item>
         <item>Onion - 1 medium (sliced)</item>
@@ -1112,7 +1043,7 @@
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC131">
         <item>Wash the mutton and marinate it with salt, turmeric powder and lemon juice. </item>
-        <item>Heat 1 tbsp of oil in a pan and add the ingredients under 'to grind' one by one. Fry for few minutes.</item>
+        <item>Heat 1 tbsp of oil in a pan and add the ingredients under \'to grind\' one by one. Fry for few minutes.</item>
         <item>Let it cool. Grind it to a smooth paste. (Note : - You may skip step 2 and add everything without frying too. Frying mellows down the flavors of the spices.)</item>
         <item>Heat oil in a pressure cooker and fry the sliced onions.</item>
         <item>Next add the tomatoes, bay leaf, turmeric powder and the ground masala paste.</item>
@@ -1124,8 +1055,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC132">
-        <item>Naatu Kodi Gudla Pulusu</item>
-
         <item>Eggs - 5 (boiled)</item>
         <item>Onion paste - 1 cup</item>
         <item>Coconut paste - 1/2 cup</item>
@@ -1148,8 +1077,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC133">
-        <item>Achari Murg</item>
-
         <item>Chicken - 1 kg (cut into small pieces)</item>
         <item>Dry red chillies - 8-10</item>
         <item>Carom Seeds (Ajwain) - 1/2 tsp</item>
@@ -1188,8 +1115,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC134">
-        <item>Chicken Curry</item>
-
         <item>Chicken - 1 kg (cut into medium size pieces)</item>
         <item>Onion - 6 (sliced thinly)</item>
         <item>Ginger - 2" piece (crushed)</item>
@@ -1222,8 +1147,6 @@
     </array>
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC135">
-        <item>Malabar Chicken Curry</item>
-
         <item>Chicken – 1 kg (cleaned and cut into medium size pieces)</item>
         <item>Cashews - 5-7 (soaked in water)</item>
         <item>Thick  (First) coconut milk - 1/2 cup</item>
@@ -1269,8 +1192,6 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC136">
-        <item>South Indian Egg Masala</item>
-
         <item>Eggs - 4</item>
         <item>Onion - 3 (chopped or sliced)</item>
         <item>Tomatoes - 3 (chopped or sliced)</item>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="INGREDIENT_NVSTARTER_ITC100">
-        <item>Chicken Lollypop</item>
-
         <item>Chicken Lollypops (Wings deskinned) - 500 gms.</item>
         <item>For Marination</item>
         <item>cornflour - 2 tblsp. </item>
@@ -29,7 +27,7 @@
         <item>water - as required</item>
     </array>
     <array name="DIRECTIONS_NVSTARTER_ITC100">
-        <item>1. First, dry out the chicken pieces on a muslin cloth to remove out excess water. 2. Marinate the chicken with all the ingredients under 'for marination' for atleast 2 hours.</item>
+        <item>1. First, dry out the chicken pieces on a muslin cloth to remove out excess water. 2. Marinate the chicken with all the ingredients under \'for marination\' for atleast 2 hours.</item>
         <item>3. Mix all the ingredients under "for batter" with enough water to make a thick batter.</item>
         <item>4. Dip the lollypops in batter and deep fry.</item>
         <item>5. Serve as a starter with Schezuan sauce.</item>
@@ -37,8 +35,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC101">
-        <item>Nutty Chicken</item>
-
         <item>Boneless Chicken-1 lb</item>
         <item>Oil-2 Tblsp</item>
         <item>Eggs-2</item>
@@ -63,8 +59,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC102">
-        <item>Chicken Roll</item>
-
         <item>Chicken/ Turkey breast - 1</item>
         <item>Spinach - 1/2 cup</item>
         <item>Green chillie - 1</item>
@@ -95,9 +89,7 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC103">
-        <item>Chicken Sukka</item>
-
-        <item>Chicken - 1 lb (1/2 kg)</item>
+       <item>Chicken - 1 lb (1/2 kg)</item>
         <item>Onion - 1/2 ( diced in medium sized pieces)</item>
         <item>Red Chilly powder - 1 tsp</item>
         <item>Black Pepper powder - 1 tsp</item>
@@ -121,8 +113,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC104">
-        <item>Chicken Bartha</item>
-
         <item>Chicken - 2 lbs (boneless, skinless and chopped into very small pieces)</item>
         <item>Onion - 4 </item>
         <item>Tomato - 1 (chopped)</item>
@@ -158,8 +148,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC105">
-        <item>Chilli Chicken</item>
-
         <item>Marination</item>
         <item>Chicken Breast-2</item>
         <item>Ginger Garlic Paste-2 tsp</item>
@@ -192,8 +180,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC106">
-        <item>Scallion Chicken</item>
-
         <item>Scallions (Spring Onion/ Green Onion) - 1 bunch (sliced)</item>
         <item>Chicken - 1 lb (boneless, skinless)</item>
         <item>Ginger garlic Paste - 1 tsp</item>
@@ -216,8 +202,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC107">
-        <item>Chicken Tawa</item>
-
         <item>Chicken - 500 gms </item>
         <item>Onions - 2(finely chopped)</item>
         <item>Tomato - 1 1/2 (chopped/pureed)</item>
@@ -246,8 +230,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC108">
-        <item>Chicken Fry</item>
-
         <item>Whole Chicken - 1 medium sized (cut into 20-25 pieces with bones in)</item>
         <item>Ginger Garlic Paste - 1 tblsp</item>
         <item>Chilly Powder - 2 tsp</item>
@@ -274,8 +256,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC109">
-        <item>Lemon Pepper Chicken</item>
-
         <item>Chicken Breast - 2 (You can use drumsticks too)</item>
         <item>Freshly ground pepper - 1 tblsp (or as per taste)</item>
         <item>Lemon - 2</item>
@@ -297,8 +277,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC110">
-        <item>Pan Fried Chicken</item>
-
         <item>Chicken breast - 1 (slice it horizontally)</item>
         <item>Crushed pepper - As per taste </item>
         <item>Lime juice - 2 tsp</item>
@@ -314,11 +292,8 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC111">
-        <item>Fried Chicken</item>
-
         <item>Coating-1</item>
         <item>All purpose Flour-1/2 Cup</item>
-
         <item>Coating-2</item>
         <item>Eggs (beaten) - 2</item>
         <item>Milk - 1 1/2 cups</item>
@@ -350,8 +325,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC112">
-        <item>Salted Country Chicken Fry</item>
-
         <item>Country Chicken (Nattu Kozhi) - 1/2 kg</item>
         <item>Shallots (Pearl Onions) - 20 (sliced)</item>
         <item>Ginger - 1/2 " piece (crushed)</item>
@@ -381,8 +354,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC113">
-        <item>Kheema Matar</item>
-
         <item>Ground Meat (Kheema) - 1 lb (you could use ground beef, ground chicken, ground turkey, ground lamb or ground pork)</item>
         <item>Frozen Green Peas - 1/2 cup</item>
         <item>Onion - 1 large, finely chopped</item>
@@ -417,8 +388,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC114">
-        <item>Mutton Masala</item>
-
         <item>Mutton - 1/2 kg (1 lb)</item>
         <item>Onion Chopped - 1/2 cup</item>
         <item>Tomato small sized chopped -1</item>
@@ -449,8 +418,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC115">
-        <item>Cauliflower Egg Bhurjee</item>
-
         <item>Cauliflower - 1 (finely chopped/grated)</item>
         <item>Eggs - 3 (beaten)</item>
         <item>Onion - 1 (chopped)</item>
@@ -478,8 +445,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC116">
-        <item>Whole Roasted Chicken</item>
-
         <item>For the chicken</item>
         <item>Whole Chicken - 1</item>
         <item>Garlic - 3 cloves (minced)</item>
@@ -516,8 +481,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC117">
-        <item>Chicken And Vegetable Saute</item>
-
         <item>Chicken – 1 lb (1/2 kg)</item>
         <item>Mixed vegetables - 1 lb (1/2 kg) (You can use a mixture of vegetables like broccoli, cauliflower, sugar snap peas, asparagus, green beans, green peas, carrots, bell peppers, water chestnut, mushrooms etc..)</item>
         <item>Oregano - 1/2 tsp</item>
@@ -540,8 +503,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC118">
-        <item>Pan Seared Chicken</item>
-
         <item>Chicken breast – 2</item>
         <item>Tandoori chicken masala (or any store bought chicken masala blend) – 2 tbsp</item>
         <item>Salt – to taste</item>
@@ -560,8 +521,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC119">
-        <item>Baked Fish</item>
-
         <item>Whole Fish - 1</item>
         <item>Turmeric Powder - 1/4 tsp</item>
         <item>Chilly Powder - 2 tsp</item>
@@ -588,8 +547,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC120">
-        <item>Fish Egg (Mullet Roe) Fry</item>
-
         <item>Mullet Roe - 3 ( cut into cubes)</item>
         <item>Onion - 1/2 (finely chopped)</item>
         <item>Ginger garlic paste - 1/4 tsp</item>
@@ -616,8 +573,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC121">
-        <item>Red Lobster Masala</item>
-
         <item>Lobster tail/ Whole lobster - 2</item>
         <item>Onion - 2 (sliced lengthwise)</item>
         <item>Ginger garlic paste -  2 tblsp</item>
@@ -645,8 +600,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC122">
-        <item>Fish Fry</item>
-
         <item>Fish Pieces - 1 lb (1/2 kg)</item>
         <item>Red Chilly Powder - 3 tsp</item>
         <item>Corriander Powder - 1 tsp</item>
@@ -670,8 +623,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC123">
-        <item>Capsicum Fish</item>
-
         <item>Fish fillets - 2 (cutt into pieces)</item>
         <item>Onion - 1/2 (diced in medium sized pieces)</item>
         <item>Tomato - 2 ( finely diced)</item>
@@ -700,8 +651,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC124">
-        <item>Chilli Shrimp</item>
-
         <item>Marination:</item>
         <item>Shrimp -1 lb</item>
         <item>Ginger Garlic Paste -2 tsp</item>
@@ -733,9 +682,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC125">
-        <item>Fish Masala</item>
-
-
         <item>For Marinating</item>
         <item>Fish - 1 lb (cut into pieces)</item>
         <item>Red Chilly Powder - 2 tsp</item>
@@ -761,7 +707,7 @@
 
     </array>
     <array name="DIRECTIONS_NVSTARTER_ITC125">
-        <item>1. Cut the fish into small pieces and marinate with the ingredients under 'For Marinating'.</item>
+        <item>1. Cut the fish into small pieces and marinate with the ingredients under \'For Marinating\'.</item>
         <item>2. After about 5 minutes of marinating, shallow fry the pieces.</item>
         <item>3. To prepare the masala, heat oil in a pan and fry the onions till golden brown.</item>
         <item>4. Next add the tomatoes and green chillies and cook till the tomatoes become pulpy.</item>
@@ -775,8 +721,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC126">
-        <item>Ridgegourd Shrimp Masala</item>
-
         <item>Ridgegourd - 1 (chopped)</item>
         <item>Shrimp - 1/2 lb (cleaned and deveined)</item>
         <item>Onion - 2 (chopped)</item>
@@ -808,8 +752,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC127">
-        <item>Goan Fish Fry</item>
-
         <item>Fish (Pomfret or any other fish) -  1 lb</item>
         <item>Ginger Garlic Paste - 1 tsp</item>
         <item>Lemon Juice - 2 tblsp</item>
@@ -837,8 +779,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC128">
-        <item>Lemon Pepper Shrimp</item>
-
         <item>Shrimp - 1 lb (cleaned and deveined)</item>
         <item>Freshly ground pepper - 1 tsp (or as per taste)</item>
         <item>Lemon - 1</item>
@@ -859,8 +799,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC129">
-        <item>Crab Fry </item>
-
         <item>Crab - 2</item>
         <item>Onion - 1 big (finely chopped)</item>
         <item>Tomato - 2-3 (finely chopped)</item>
@@ -887,8 +825,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC130">
-        <item>Crab Cutlets</item>
-
         <item>Crab meat - 1 lb</item>
         <item>Onion - 1/2 (finely chopped)</item>
         <item>Potato - 1</item>
@@ -915,8 +851,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC131">
-        <item>Fish Cutlets</item>
-
         <item>Fish fillets - 3-4</item>
         <item>Onion - 1/2 (grated)</item>
         <item>Garlic - 3 cloves (grated)</item>
@@ -945,8 +879,6 @@
 
 
     <array name="INGREDIENT_NVSTARTER_ITC132">
-        <item>Prawns Masala</item>
-
         <item>Prawns (or Shrimp) - 1 lb (about 1/2 kg)</item>
         <item>Onion - 2 (chopped)</item>
         <item>Ginger - 1" piece (minced)</item>
@@ -974,14 +906,12 @@
         <item>Let it cook till oil separates from the masala.</item>
         <item>Add the prawns and mix for 2 minutes so that all the prawns will coated with the masala.</item>
         <item>Add very little water and required salt. You can made a dry prawns (or shrimp) masala by cooking on low heat without adding any water. Adjust the water as per your requirement.</item>
-        <item>Cover and let it cook for about 10 minutes till all the prawns curls up into a 'c' or 'O' shape. This is an indication that it is done.</item>
+        <item>Cover and let it cook for about 10 minutes till all the prawns curls up into a \'c\' or \'O\' shape. This is an indication that it is done.</item>
         <item>Garnish with cilantro and a lemon wedge and switch off. </item>
     </array>
 
 
     <array name="INGREDIENT_NVSTARTER_ITC133">
-        <item>Chilli Garlic Prawns</item>
-
         <item>250g Cleaned Prawns</item>
         <item>5 large Garlic cloves</item>
         <item>4 Whole dried Kashmiri chilli (Reduce if you are using a Hot chillies)</item>
