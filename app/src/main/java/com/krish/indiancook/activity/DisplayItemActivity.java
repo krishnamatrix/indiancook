@@ -55,6 +55,9 @@ public class DisplayItemActivity extends AppCompatActivity {
             itemId = extras.getString("itemid");
             itemDesc = extras.getString("itemdesc");
             itemImage = extras.getString("itemimage");
+            if(itemImage != null && !itemImage.isEmpty()){
+                itemImage = itemImage.replace("icon","");
+            }
             timetaken = extras.getString("timetaken");
         }
         TextView nameofdish = (TextView) findViewById(R.id.nameofdish);

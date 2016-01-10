@@ -84,12 +84,12 @@
                                     android:layout_height="40dp"
                                     android:background="@drawable/favouritesshape"
                                     android:id="@+id/favouritesIcon"
-                                    android:layout_margin="10dp"
+                                    android:layout_marginLeft="10dp"
                                     android:layout_gravity="center"/>
                                 <TextView
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
-                                    android:layout_margin="5dp"
+                                    android:layout_marginLeft="10dp"
                                     android:text="@string/u2665"
                                     android:id="@+id/lovesymbol"
                                     android:layout_gravity="center"

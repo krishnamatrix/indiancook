@@ -83,6 +83,43 @@
         <item>NVSTARTER_ITC133|Chilli Garlic Prawns|chilligarlicprawns|NA|NVG</item>
     </array>
     <array name="MAINCOURSE">
+        <item>NVMAINCOURSE_ITC100|Chicken Curry|chickencurryicon|P|NVG</item>
+        <item>NVMAINCOURSE_ITC101|Fish Curry|fishcurry|P|NVG</item>
+        <item>NVMAINCOURSE_ITC102|Egg Curry|eggcurry|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC103|Butter Chicken|butterchicken|P|NVG</item>
+        <item>NVMAINCOURSE_ITC104|Fish Curry|fishcurry|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC105|Palak Chicken|palakchicken|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC106|Chicken/Turkey Kurma|chicken/turkeykurma|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC107|Chicken Roast Masala|chickenroastmasala|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC108|Chicken Tikka Masala|chickentikkamasala|P|NVG</item>
+        <item>NVMAINCOURSE_ITC109|Pepper Chicken Chettinad|pepperchickenchettinad|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC110|Prawns Curry|prawnscurry|P|NVG</item>
+        <item>NVMAINCOURSE_ITC111|Sesame Chicken|sesamechicken|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC112|Almond Chicken|almondchicken|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC113|Fish Stew|fishstew|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC114|Shahi Mutton|shahimutton|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC115|Curd Chicken Curry|curdchickencurry|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC116|Chicken Vindaloo|chickenvindaloo|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC117|Green Chicken Curry|greenchickencurry|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC118|Kozhi Rasam|kozhirasam|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC119|South Indian Seafood Medley Curry|southindianseafoodmedleycurry|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC120|Methi Chicken|methichicken|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC121|Egg Kurma|eggkurma|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC122|Spicy Chicken Curry|spicychickencurry|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC123|Crab Kurma|crabkurma|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC124|Karuvaatu Kulambu|karuvaatukulambu|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC125|Kheema Kofta Curry|kheemakoftacurry|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC126|Fish Mappas|fishmappas|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC127|Crab Curry|crabcurry|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC128|Murg Noorjahani|murgnoorjahani|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC129|Mutton Ridgegourd Curry|muttonridgegourdcurry|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC130|Naatu Kodi Cura|naatukodicura|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC131|Mutton Curry|muttoncurry|P|NVG</item>
+        <item>NVMAINCOURSE_ITC132|Naatu Kodi Gudla Pulusu|naatukodigudlapulusu|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC133|Achari Murg|acharimurg|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC134|Chicken Curry|chickencurry|NA|NVG</item>
+        <item>NVMAINCOURSE_ITC135|Malabar Chicken Curry|malabarchickencurry|P|NVG</item>
+        <item>NVMAINCOURSE_ITC136|South Indian Egg Masala|southindianeggmasala|P|NVG</item>
     </array>
     <array name="SWEETS">
         <item>SW_ITC100|Coconut Macaroons|coconutmacaroons|NA|VG</item>
@@ -96,6 +133,38 @@
         <item>SW_ITC108|Boondi Laddu|boondiladdu|P|VG</item>
         <item>SW_ITC109|Coconut Laddus|coconutladdus|P|VG</item>
         <item>SW_ITC110|Sabudana Laddu|sabudanaladdu|NA|VG</item>
+        <item>SW_ITC111|Raw Banana Pudding|rawbananapudding|P|VG</item>
+        <item>SW_ITC112|Cucumber Kheer‏|cucumberkheer‏|P|VG</item>
+        <item>SW_ITC113|Tender Coconut Phirni|tendercoconutphirni|NA|VG</item>
+        <item>SW_ITC114|Suran Kheer|surankheer|P|VG</item>
+        <item>SW_ITC115|Pineapple Payasam|pineapplepayasam|NA|VG</item>
+        <item>SW_ITC116|Watermelon Kheer|watermelonkheer|NA|VG</item>
+        <item>SW_ITC117|Guava Kheer|guavakheer|NA|VG</item>
+        <item>SW_ITC118|Nei Payasam|neipayasam||VG</item>
+        <item>SW_ITC119|Parippu Pradhaman|parippupradhaman||VG</item>
+        <item>SW_ITC120|Mampazha Pradhaman|mampazhapradhaman|NA|VG</item>
+        <item>SW_ITC121|Apple Cinnamon Oats|applecinnamonoats|P|VG</item>
+        <item>SW_ITC122|Phirni|phirni|NA|VG</item>
+        <item>SW_ITC123|Pasta Payasam|pastapayasam|P|VG</item>
+        <item>SW_ITC124|Creamy Corn|creamycorn|NA|VG</item>
+        <item>SW_ITC125|Semiya Kesari|semiyakesari|NA|VG</item>
+        <item>SW_ITC126|Spaghetti Squash Halwa|spaghettisquashhalwa|NA|VG</item>
+        <item>SW_ITC127|Guava Cheese|guavacheese|NA|VG</item>
+        <item>SW_ITC128|Pumpkin Pie Halwa|pumpkinpiehalwa|NA|VG</item>
+        <item>SW_ITC129|Diet Pumpkin Halwa|dietpumpkinhalwa|NA|VG</item>
+        <item>SW_ITC130|Mango Kesari|mangokesari|NA|VG</item>
+        <item>SW_ITC131|Papaya Halwa|papayahalwa|NA|VG</item>
+        <item>SW_ITC132|Corn Halwa|cornhalwa|NA|VG</item>
+        <item>SW_ITC133|Apple Halwa|applehalwa|NA|VG</item>
+        <item>SW_ITC134|Beetroot Halwa|beetroothalwa|NA|VG</item>
+        <item>SW_ITC135|Doodhi ka Halwa|doodhikahalwa|NA|VG</item>
+        <item>SW_ITC136|Quick Carrot Halwa|quickcarrothalwa|NA|VG</item>
+        <item>SW_ITC137|Gajar Ka Halwa|gajarkahalwa|NA|VG</item>
+        <item>SW_ITC138|Pineapple Halwa|pineapplehalwa|NA|VG</item>
+        <item>SW_ITC139|Rava Kesari|ravakesari|NA|VG</item>
+        <item>SW_ITC140|Badam Halwa|badamhalwa|NA|VG</item>
+        <item>SW_ITC141|Carrot Halwa|carrothalwa|NA|VG</item>
+        <item>SW_ITC142|Kheer Poore|kheerpoore|NA|VG</item>
     </array>
     <array name="DESSERTS">
     </array>

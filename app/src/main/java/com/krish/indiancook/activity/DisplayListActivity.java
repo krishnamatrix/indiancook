@@ -16,8 +16,9 @@ import com.krish.indiancook.utils.CookingConstants;
 import com.krish.indiancook.utils.HelperUtil;
 import com.krish.indiancook.utils.ResourceHelper;
 import com.krish.indiancook.utils.StorageUtil;
-import com.krish.indiancook.views.ExpandableGridView;
 import com.quinny898.library.persistentsearch.SearchBox;
+import com.twotoasters.jazzylistview.JazzyGridView;
+import com.twotoasters.jazzylistview.JazzyHelper;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -30,6 +31,9 @@ public class DisplayListActivity extends AppCompatActivity {
     private SearchBox searchbox;
     private Toolbar toolbar;
     List<String> searchData;
+    private static final String KEY_TRANSITION_EFFECT = "transition_effect";
+    private JazzyGridView gridview;
+    private int mCurrentTransitionEffect = JazzyHelper.GROW;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -90,16 +94,22 @@ public class DisplayListActivity extends AppCompatActivity {
             populateItems(itemDetails);
             searchData.addAll(HelperUtil.populateDataForSearch(itemDetails));
         }
-
+        if (savedInstanceState != null) {
+            mCurrentTransitionEffect = savedInstanceState.getInt(KEY_TRANSITION_EFFECT, JazzyHelper.GROW);
+            setupJazziness(mCurrentTransitionEffect);
+        }
     }
+
     private void populateItems(List<String> categoryList) {
-        ExpandableGridView gridview = (ExpandableGridView) findViewById(R.id.itemsgridview);
-        gridview.setExpanded(true);
+        //ExpandableGridView gridview = (ExpandableGridView) findViewById(R.id.itemsgridview);
+        gridview = (JazzyGridView) findViewById(R.id.itemsgridview);
+        //gridview.setExpanded(true);
         gridview.setAdapter(new CategoryItemsAdapter(this, categoryList));
     }
     private void populateItems(int resourceId) {
-        ExpandableGridView gridview = (ExpandableGridView) findViewById(R.id.itemsgridview);
-        gridview.setExpanded(true);
+        //ExpandableGridView gridview = (ExpandableGridView) findViewById(R.id.itemsgridview);
+        gridview = (JazzyGridView) findViewById(R.id.itemsgridview);
+        //gridview.setExpanded(true);
         gridview.setAdapter(new CategoryItemsAdapter(this,
                 HelperUtil.filterData(this, resourceId)));
 
@@ -128,6 +138,17 @@ public class DisplayListActivity extends AppCompatActivity {
             mCategories.add(citem);
         }
         return mCategories;
+    }
+
+    @Override
+    public void onSaveInstanceState(Bundle outState) {
+        super.onSaveInstanceState(outState);
+        outState.putInt(KEY_TRANSITION_EFFECT, mCurrentTransitionEffect);
+    }
+
+    private void setupJazziness(int effect) {
+        mCurrentTransitionEffect = effect;
+        gridview.setTransitionEffect(mCurrentTransitionEffect);
     }
 
     @Override

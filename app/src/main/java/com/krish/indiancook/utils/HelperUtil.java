@@ -4,7 +4,6 @@ import android.app.Activity;
 import android.content.Context;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-import android.util.Log;
 import android.widget.Toast;
 
 import com.krish.indiancook.R;
@@ -22,7 +21,7 @@ import java.util.List;
 public class HelperUtil {
 
     public static List<String> getResourceList(Context context, String ingredientId){
-        Log.d("IndianCook", "Trying to fetch the resource:" + ingredientId);
+        //Log.d("IndianCook", "Trying to fetch the resource:" + ingredientId);
         //ResourceHelper.getMultiTypedArray(context, "INGREDIENT" + ingredientId);
         String[] ingredientList = null;
         int ingredientIdentifier = context.getResources().getIdentifier(ingredientId, "array", context.getPackageName());
@@ -62,7 +61,7 @@ public class HelperUtil {
         List<String> inputList = new ArrayList<String>(Arrays.asList(categoryList));
         String vegFilter = StorageUtil.getFromPreferences(context, CookingConstants.VEG_FILTER);
         String nonVegFilter = StorageUtil.getFromPreferences(context, CookingConstants.NON_VEG_FILTER);
-        Log.d("IndianCook","The vegfilter:" + vegFilter + " Non:" + nonVegFilter);
+        //Log.d("IndianCook","The vegfilter:" + vegFilter + " Non:" + nonVegFilter);
         String[] value; String tempVal;
         List<String> tempList = new ArrayList<String>();
         Iterator<String> filterIterator = inputList.iterator();

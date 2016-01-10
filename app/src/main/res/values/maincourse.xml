@@ -1,30 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="INGREDIENT_NVMAINCOURSE_ITC100">
-        <item>Chicken / Turkey -1 lb (1/2 kg)</item>
-        <item>Onion - 1 big (cut lengthwise)</item>
-        <item>Tomato - 2 (diced or pureed)</item>
-        <item>Ginger garlic paste - 1 tsp</item>
-        <item>Chicken masala - 1 tbsp</item>
-        <item>Salt - to taste</item>
-        <item>Oil - 2 tblsp</item>
-        <item>Cumin seeds - ¼ tsp</item>
-        <item>Coriander leaves - handful (for garnishing)</item>
-        <item>To Marinate</item>
-        <item>Chilly powder - 2 tsp</item>
-        <item>Coriander powder - 2 tsp</item>
-        <item>Turmeric powder - ¼ tsp</item>
-        <item>Ginger Garlic Paste - 1/4 tsp</item>
-        <item>Lemon juice - 2 tsp</item>
-        <item>Salt - ½ tsp </item>
-        <item>To grind</item>
-        <item>Coconut grated - 3 Tblsp</item>
-        <item>Shallots (Pearl onions, Sambhar Onions) - 4</item>
-        <item>Curry leaves - 6</item>
-        <item>Dry red chillies - 3</item>
-        <item>Whole Peppercorns - 2 tsp</item>
-        <item>Fennel Seeds - 1 tsp</item>
-        <item>Whole Garam Masala - 1 cinnamon, 3 cloves, 3 cardamom</item>
+        <item>Chicken - 1/2 kg|chicken</item>
+        <item>Onion - 1 piece|onion</item>
+        <item>Tomato - 2 (diced or pureed)|tomato</item>
+        <item>Ginger Garlic paste - 1 tsp|gingergarlic</item>
+        <item>Chicken Masala - 1 tbsp</item>
+        <item>Salt|salt</item>
+        <item>Oil - 2 tblsp|oil</item>
+        <item>Cumin seeds - ¼ tsp|cuminseeds</item>
+        <item>Coriander leaves - handful|coriander</item>
+        <item>Chilly powder - 2 tsp|chillypowder</item>
+        <item>Coriander powder - 2 tsp|corianderseeds</item>
+        <item>Turmeric powder - ¼ tsp|turmericpowder</item>
+        <item>Ginger Garlic Paste - 1/4 tsp|gingergarlic</item>
+        <item>Lemon juice - 2 tsp|lemonjuice</item>
+        <item>Shredded Coconut - 3 Tblsp|shreddedcoconut</item>
+        <item>Sambhar Onions - 4|smallonions</item>
+        <item>Curry leaves - 6|curryleaves</item>
+        <item>Dry red chillies - 3|drychillies</item>
+        <item>Black Pepper - 2 tsp|pepper</item>
+        <item>Fennel Seeds - 1 tsp|fennelseeds</item>
+        <item>Whole Garam Masala - 1 cinnamon, 3 cloves, 3 cardamom|cinnamoncloves</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC100">
         <item>Wash and cut chicken (or turkey) in small size pieces.</item>
@@ -37,39 +34,38 @@
         <item>Next add the ginger-garlic paste and saute until the raw smell vanishes.</item>
         <item>Now add the tomato paste and saute until everything becomes a paste.</item>
         <item>Add the coconut paste, required salt and chicken masala.</item>
-        <item>Now add the marinated chicken and fry it for 2 minutes.</item>
+        <item>Now add the marinated chicken and fry it for 2 minutes[ALARM(2)].</item>
         <item>Add required quantity of water.</item>
-        <item>Cover and cook for 15 minutes until the chicken is thoroughly cooked. Simmer for few minutes till oil floats on top.</item>
+        <item>Cover and cook for 15 minutes[ALARM(15)] until the chicken is thoroughly cooked. Simmer for few minutes till oil floats on top.</item>
         <item>Garnish with coriander leaves and split chillies.</item>
     </array>
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC101">
-        <item>Ingredients - 1</item>
         <item>Fish fillets/pieces - 1 lb</item>
-        <item>Tamarind juice - made from 2-3 tamarind (lemon sized tamarind ball or 1 tblsp of tamarind pulp)</item>
-        <item>Tomato - 1 (optional)</item>
-        <item>Asafoetida - 1/4 tsp</item>
-        <item>Mustard seeds - 1/2 tsp</item>
-        <item>Curry leaves - 1 strand</item>
-        <item>Oil (preferably coconut oil/sesame oil) - 3-4 tblsp</item>
-        <item>Green Chillies/banana peppers - (2 for garnish)</item>
-        <item>Cilantro - for garnish</item>
+        <item>Tamarind juice - made from 2-3 tamarind (lemon sized tamarind ball or 1 tblsp of tamarind pulp)|tamarind</item>
+        <item>Tomato - 1|tomato</item>
+        <item>Asafoetida - 1/4 ts|asafoetida</item>
+        <item>Mustard seeds - 1/2 tsp|mustardseeds</item>
+        <item>Curry leaves - 1 strand|curryleaves</item>
+        <item>Oil (preferably coconut oil/sesame oil) - 3-4 tblsp|oil</item>
+        <item>Green Chillies/banana peppers - (2 for garnish)|greenchillies</item>
+        <item>Cilantro - for garnish|coriander</item>
         <item>Other veggies that can be added - Brinjal pieces, drumstick, banana peppers or raw mangoes</item>
-        <item>Salt (preferably sea salt) - to taste</item>
+        <item>Salt|salt</item>
         <item>Ingredients - 2 (12 spice)</item>
         <item>Dry/Fresh Coconut - 3 -4 tbsp</item>
-        <item>Coriander seeds - 2.5 tbsp</item>
-        <item>Shallot/ Pearl Onions (sambhar onions) - 5-6</item>
+        <item>Coriander seeds - 2.5 tbsp|coriander</item>
+        <item>Shallot/ Pearl Onions (sambhar onions) - 5-6|smallonions</item>
         <item>Garlic - 5-6 cloves</item>
-        <item>Ginger - 1/4 " piece</item>
-        <item>Dry Red Chillies - 7 (or as needed)</item>
-        <item>Pepper - 5-7 seeds</item>
-        <item>Turmeric powder - 1/2 tsp</item>
-        <item>Cumin seeds - 1 tsp</item>
-        <item>Curry leaves - 2 strands</item>
+        <item>Ginger - 1/4 " piece|ginger</item>
+        <item>Dry Red Chillies - 7 (or as needed)|drychillies</item>
+        <item>Pepper - 5-7 seeds|pepper</item>
+        <item>Turmeric powder - 1/2 tsp|turmericpowder</item>
+        <item>Cumin seeds - 1 tsp|cuminseeds</item>
+        <item>Curry leaves - 2 strands|curryleaves</item>
         <item>Carom seeds - 1/4 tsp</item>
-        <item>Fenugreek seeds - 5-8 seeds</item>
+        <item>Fenugreek seeds - 5-8 seeds|fenugreek</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC101">
         <item>Heat oil in a small pan and roast the grated coconut with the onions, garlic, ginger and dry red chillies till the coconut turns nice and brown. Set aside to cool.</item>
@@ -77,8 +73,8 @@
         <item>Once everything cools grind everything together (all the spices under ingredients -2) to a fine paste and keep aside.</item>
         <item>Heat little oil in a clay pot/deep pan. If you are adding any veggies, saute the veggies and tomato pieces till it is partly mashed up.</item>
         <item>Add the ground spice masala, asafoetida and tamarind juice. Add required water and bring it to a boil.</item>
-        <item>Check for salt and add the fish pieces. Cover and cook it for 5-10 minutes.</item>
-        <item>Reduce the flame to the lowest and let the gravy simmer for another 15-20 minutes till the oil separates from the gravy.</item>
+        <item>Check for salt and add the fish pieces. Cover and cook it for 5-10 minutes.[ALARM(5)]</item>
+        <item>Reduce the flame to the lowest and let the gravy simmer for another 15-20 minutes[ALARM(15)] till the oil separates from the gravy.</item>
         <item>Heat little coconut/sesame oil in a pan and splutter the mustard seeds and curry leaves. Add this to the gravy.</item>
         <item>Garnish with finely chopped cilantro and split green chillies. The final curry should have equal amount of spiciness from the masala, tanginess from the tamarind and salt.</item>
         <item>Let the gravy rest for 2 hours before serving for the spices to enter the fish pieces nicely.  Serve with hot plain white rice.</item>
@@ -88,19 +84,19 @@
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC102">
         <item>Eggs - 6</item>
-        <item>Onion -1</item>
-        <item>Tomatoes - 2</item>
-        <item>Ginger garlic paste - 2 tsp</item>
+        <item>Onion -1|onion</item>
+        <item>Tomatoes - 2|tomato</item>
+        <item>Ginger garlic paste - 2 tsp|gingergarlic</item>
         <item>Corriander powder - 2 tsp</item>
         <item>Chilly powder - 1 tsp</item>
-        <item>Turmeric powder - 1/4 tsp</item>
+        <item>Turmeric powder - 1/4 tsp|turmericpowder</item>
         <item>Garam masala - 1/2 tsp</item>
-        <item>Mustard Seeds - 1/4 tsp</item>
-        <item>Cumin Seeds - 1/4 tsp</item>
-        <item>Curry leaves - 5</item>
-        <item>Cilantro - for garnish</item>
-        <item>Oil - 2 tblsp</item>
-        <item>Salt - to taste</item>
+        <item>Mustard Seeds - 1/4 tsp|mustardseeds</item>
+        <item>Cumin Seeds - 1/4 tsp|cuminseeds</item>
+        <item>Curry leaves - 5|curryleaves</item>
+        <item>Cilantro - for garnish|coriander</item>
+        <item>Oil - 2 tblsp|oil</item>
+        <item>Salt - to taste|salt</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC102">
         <item>Hard boil 5 eggs. After it is cool enough to handle, crack and remove the shell, cut it into halves and keep aside. </item>
@@ -109,30 +105,30 @@
         <item>Add the tomatoes and cook till it becomes soft.</item>
         <item>Add chilly powder, turmeric powder, corriander powder, garam masala and fry till everything blends and forms a nice paste.</item>
         <item>Add water as needed, cover and let the gravy come to a boil.</item>
-        <item>Add the hard boiled eggs to the gravy and let it simmer for 2 minutes.</item>
+        <item>Add the hard boiled eggs to the gravy and let it simmer for 2 minutes[ALARM(2)].</item>
         <item>Break a raw egg into the gravy. Mix everything together, cover and let it simmer until the gravy becomes thick and the egg is cooked. This induces the egg flavour throughout the gravy.</item>
         <item>Garnish with chopped cilantro and serve with rice or roti.</item>
     </array>
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC103">
-        <item>Turkey/Chicken - 1 lb (boneless, skinless)</item>
-        <item>Onion - 1 (chopped)</item>
-        <item>Tomato - 3-4 (chopped)</item>
-        <item>Cashews/Almonds - 5-6</item>
-        <item>Ginger garlic paste - 2 tsp</item>
-        <item>Green chilly - 1 (chopped)</item>
+        <item>Chicken - 1/2 Kg|chicken</item>
+        <item>Onion - 1 (chopped)|onion</item>
+        <item>Tomato - 3-4|tomato</item>
+        <item>Cashews/Almonds - 5-6|cashew</item>
+        <item>Ginger garlic paste - 2 tsp|gingergarlic</item>
+        <item>Green chilly - 1 (chopped)|greenchillies</item>
         <item>Kasoori Methi -  1/2 tsp + 1/2 tsp</item>
         <item>Fresh Cream ( or Heavy cream) - 1/4 cup</item>
         <item>Chilly powder - 1/2 tsp + 1/4tsp</item>
         <item>Corriander cumin powder - 1 tsp + 1/2 tsp</item>
-        <item>Turmeric powder - 1/4 tsp</item>
+        <item>Turmeric powder - 1/4 tsp|turmericpowder</item>
         <item>Garam masala - 1/4 tsp</item>
-        <item>Cumin seeds - 1/2 tsp</item>
-        <item>Cilantro - for garnish</item>
+        <item>Cumin seeds - 1/2 tsp|cuminseeds</item>
+        <item>Cilantro - for garnish|coriander</item>
         <item>Butter - 2 tblsp</item>
-        <item>Salt - to taste</item>
-        <item>Oil - 2 tblsp</item>
+        <item>Salt - to taste|salt</item>
+        <item>Oil - 2 tblsp|oil</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC103">
         <item>Wash the turkey/chicken and cut it into 1 inch thick cubes. </item>
@@ -142,129 +138,121 @@
         <item>After it is cool enough to handle, grind everything in a blender/ mixie with the cashew nuts to make a paste.</item>
         <item>Melt the butter in a pan, splutter some cumin seeds. Add this groud mixture and cook it for few minutes until the nuts gets cooked.</item>
         <item>Next add the fried turkey/chicken pieces, with all the dry spices like chilly powder, corriander powder, turmeric powder, kasoori methi, garam masala and salt.</item>
-        <item>Cover and let it cook for 10-15 minutes in medium low flame so the flavours combine nicely.</item>
+        <item>Cover and let it cook for 10-15 minutes[ALARM(10)] in medium low flame so the flavours combine nicely.</item>
         <item>Add the heavy cream, mix everything and let it simmer for few minutes.</item>
         <item>Garnish with chopped cilantro or some cream and serve with pulav, naan, roti. It goes well with anything.</item>
     </array>
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC104">
-        <item>Ingredients-1</item>
-        <item>Coconut (grated) - 1/4 cup </item>
-        <item>Pearl Onions - 4-5</item>
-        <item>Garlic Cloves - 3 </item>
-        <item>Curry leaves - 4 leaves </item>
-        <item>Red chilly - 3 </item>
-        <item>Cumin seeds - 1 tsp </item>
-
-        <item>Ingredients-2 </item>
-        <item>Fish fillets -2 (cut into pieces) </item>
-        <item>Tomato - 1 (diced or crushed) </item>
-        <item>Tamrind juice - ¼ cup </item>
-        <item>Turmeric powder - ¼ tsp </item>
+        <item>Coconut (grated) - 1/4 cup|shreddedcoconut</item>
+        <item>Pearl Onions - 4-5|onion</item>
+        <item>Garlic Cloves - 3|garlic</item>
+        <item>Curry leaves - 4 leaves|curryleaves</item>
+        <item>Red chilly - 3|drychillies</item>
+        <item>Cumin seeds - 1 tsp |cuminseeds</item>
+        <item>Fish fillets -2 (cut into pieces)|fish</item>
+        <item>Tomato - 1 (diced or crushed)|tomato</item>
+        <item>Tamraind juice - ¼ cup|tamarind</item>
+        <item>Turmeric powder - ¼ tsp|turmericpowder</item>
         <item>Chilly powder - 1 tsp </item>
-        <item>Corrainder powder- 1 Tblsp </item>
-        <item>Curry leaves - 4 </item>
-        <item>Green chilly - 1 </item>
-        <item>Mustard - ¼ tsp </item>
-        <item>Oil - 2 Tblsp </item>
-        <item>Fenugreek Seeds - ¼ tsp </item>
-        <item>Asafoetida powder - ¼ tsp </item>
-        <item>Salt - to taste</item>
-        <item>Cilantro/Corriander leaves - for garnish</item>
+        <item>Corainder powder- 1 Tblsp|corianderseeds</item>
+        <item>Curry leaves - 4|curryleaves</item>
+        <item>Green chilly - 1|greenchillies</item>
+        <item>Mustard - ¼ tsp |mustardseeds</item>
+        <item>Oil - 2 Tblsp|oil</item>
+        <item>Fenugreek Seeds - ¼ tsp|fenugreek</item>
+        <item>Asafoetida powder - ¼ tsp|asafoetida</item>
+        <item>Salt - to taste|salt</item>
+        <item>Cilantro/Corriander leaves - for garnish|coriander</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC104">
         <item>Take a skillet and heat some oil in it. Now fry all the ingredients from batch-1.</item>
         <item>Once the aroma starts coming, remove it from fire and let it cool. After it cools, grind everything together with some water to form a very fine paste and keep aside. </item>
         <item>Now take a clay pot or deep vessel, heat some oil, splutter mustard, fenugreek seeds and curry leaves. </item>
         <item>Now add the tamarind juice,chilly powder, corriander powder, turmeric powder, tomatoes, salt, asafoetida powder along with the ground masala and bring it to a boil.</item>
-        <item>Add the fish fillets, cover and cook for 10 minutes on low-medium flame. The fish fillets are cooked when they become opaque and soft.</item>
+        <item>Add the fish fillets, cover and cook for 10 minutes[ALARM(10)] on low-medium flame. The fish fillets are cooked when they become opaque and soft.</item>
         <item>Garnish with fresh curry leaves, cilantro and split green chilly and serve hot.</item>
     </array>
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC105">
-        <item>Ingriedients</item>
-        <item>Batch -1</item>
-        <item>Chicken Breast - 1 lbs (cut into desired pieces)</item>
-        <item>Corriander powder - 1 tsp</item>
+        <item>Chicken Breast - 1 lbs (cut into desired pieces)|chicken</item>
+        <item>Coriander powder - 1 tsp|corianderseeds</item>
         <item>Garam masala - 1 tblsp</item>
-        <item>Roasted Cumin Powder -1 tsp</item>
-        <item>Salt - as needed</item>
+        <item>Roasted Cumin Powder -1 tsp|cuminseeds</item>
+        <item>Salt - as needed|salt</item>
         <item>Yogurt - 4 tblsp</item>
-        <item>Ginger Garlic Green Chilly paste - 1 tblsp</item>
-
-        <item>Batch -2</item>
+        <item>Ginger Garlic Green Chilly paste - 1 tblsp|gingergarlic</item>
         <item>Fresh Spinach (Palak) - 1/2 packet</item>
-        <item>Green Chilly - 2</item>
-        <item>Salt - 1/2 tblsp</item>
+        <item>Green Chilly - 2|greenchillies</item>
+        <item>Salt - 1/2 tblsp|salt</item>
         <item>Batch -3</item>
-        <item>Big Onion -1 (finely chopped)</item>
-        <item>Tomato -1 (finely chopped)</item>
+        <item>Big Onion -1 (finely chopped)|onion</item>
+        <item>Tomato -1 (finely chopped)|tomato</item>
         <item>Nutmeg Powder - 1/4 tsp</item>
-        <item>Oil/Butter- 2tblsp</item>
+        <item>Oil/Butter- 2tblsp|oil</item>
 
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC105">
         <item>1.Mix all the ingredients from batch -1 and let it rest for 1/2 hour.</item>
-        <item>Wash the spinach and Microwave Batch -2 in little water for 2-3 minutes and allow it to cool.</item>
+        <item>Wash the spinach and Microwave Batch -2 in little water for 2-3 minutes[ALARM(2)] and allow it to cool.</item>
         <item>Heat oil/butter in a deep vessel and saute onions until golden grown.</item>
         <item>Add the tomatoes and saute until it comes as a gravy.</item>
         <item>Now add the Batch-1 marinated chicken into the pan and little water.</item>
         <item>Let it boil until chicken is cooked.</item>
         <item>Now grind the cooked spinach in the blender by adding little water to get a paste.</item>
         <item>Add the spinach paste and nutmeg powder into the chicken pan.</item>
-        <item>Let it cook fo 5 more minutes.</item>
+        <item>Let it cook fo 5 more minutes.[ALARM(5)]</item>
         <item>Now garnish with fresh coriander leaves.</item>
         <item>1Serve it with hot chapathi,parrota or any fried rice.</item>
     </array>
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC106">
-        <item>Chicken/Turkey - 1 lb (cut into pieces)</item>
-        <item>Onion - 1 (sliced)</item>
+        <item>Chicken/Turkey - 1 lb (cut into pieces)|chicken</item>
+        <item>Onion - 1 (sliced)|onion</item>
         <item>Kuskus - 2 tblsp</item>
-        <item>Cashews - 4</item>
+        <item>Cashews - 4|cashew</item>
         <item>Corriander seeds - 1 tblsp</item>
-        <item>Green chilly - 5-7</item>
-        <item>Cumin seeds - 1 tblsp</item>
-        <item>Coconut - 1/2 cup (grated)</item>
+        <item>Green chilly - 5-7|greenchillies</item>
+        <item>Cumin seeds - 1 tblsp|cuminseeds</item>
+        <item>Coconut - 1/2 cup (grated)|shreddedcoconut</item>
         <item>Yogurt (Curd) - 1/2 cup</item>
-        <item>Ginger-Garlic paste- 2 tsp</item>
+        <item>Ginger-Garlic paste- 2 tsp|gingergarlic</item>
         <item>Cardomon - 3</item>
-        <item>Fennel seeds - ¼ tsp </item>
+        <item>Fennel seeds - ¼ tsp|fennelseeds</item>
         <item>Bay leaf - 1</item>
-        <item>Cloves - 2 </item>
-        <item>Cinnamon sticks - 1</item>
-        <item>Oil - 2 tblsp</item>
-        <item>Salt - to taste</item>
-        <item>Cilantro - for garnish </item>
+        <item>Cinnamon sticks - 1|cinnamoncloves</item>
+        <item>Oil - 2 tblsp|oil</item>
+        <item>Salt - to taste|salt</item>
+        <item>Cilantro - for garnish|coriander</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC106">
-        <item>Soak kuskus in 1 cup warm water for 10 minutes and then grind it with green chillies, coriander seeds, cumin seeds, cashews,cardamom and coconut. Keep it aside.</item>
+        <item>Soak kuskus in 1 cup warm water for 10 minutes[ALARM(10)] and then grind it with green chillies, coriander seeds, cumin seeds, cashews,cardamom and coconut. Keep it aside.</item>
         <item>Heat oil in a deep pan. Splutter fennel seeds.Add the bay leaf, cloves and cinnamon.</item>
         <item>Add sliced onions and fry them till they are translucent. Next add the ginger-garlic paste and saute till the raw smell vanishes. </item>
-        <item>Add the chicken/turkey pieces and saute for 2 minutes. Next add 1 cup water, yogurt and salt to it. Cover and cook till the chicken is almost done.</item>
-        <item>At this stage add the ground paste and add the water required. Check for salt and let the kurma simmer for 5 minutes.</item>
+        <item>Add the chicken/turkey pieces and saute for 2 minutes.[ALARM(2)] Next add 1 cup water, yogurt and salt to it. Cover and cook till the chicken is almost done.</item>
+        <item>At this stage add the ground paste and add the water required. Check for salt and let the kurma simmer for 5 minutes.[ALARM(5)]</item>
         <item>Garnish with cilantro.</item>
     </array>
 
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC107">
-        <item>Chicken - 1/2 kg(1 lb)</item>
-        <item>Oil - as needed</item>
-        <item>Onions - 3</item>
-        <item>Tomatoes - 3</item>
+        <item>Chicken - 1/2 kg(1 lb)|chicken</item>
+        <item>Oil|oil</item>
+        <item>Onions - 3|onion</item>
+        <item>Tomatoes - 3|tomato</item>
         <item>Whole garam masala - 1 tblsp</item>
-        <item>Ginger paste - 2 tblsp</item>
-        <item>Garlic paste - 2 tblsp</item>
-        <item>Turmeric powder - 1 tsp</item>
+        <item>Ginger paste - 2 tblsp|ginger</item>
+        <item>Garlic paste - 2 tblsp|garlic</item>
+        <item>Turmeric powder - 1 tsp|turmericpowder</item>
         <item>Chilly powder - 1 tblsp</item>
         <item>Garam masala powder - 1 tblsp</item>
-        <item>Cashew paste - 2 tblsp</item>
-        <item>Salt - to taste</item>
-        <item>Cilantro - for garnish</item>
+        <item>Cashew paste - 2 tblsp|cashew</item>
+        <item>Salt - to taste|salt</item>
+        <item>Cilantro - for garnish|coriander</item>
         <item>Cream - for garnish</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC107">
@@ -277,18 +265,18 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC108">
-        <item>Chicken Tikkas - 1 lb</item>
-        <item>Tomato puree - 1 Cup</item>
-        <item>Ginger garlic paste -1 tsp</item>
-        <item>Cashews - 1 tblsp (4-6 coarsely powdered)</item>
+        <item>Chicken Tikkas - 1 lb|chicken</item>
+        <item>Tomato puree - 1 Cup|tomato</item>
+        <item>Ginger garlic paste -1 tsp|gingergarlic</item>
+        <item>Cashews - 1 tblsp (4-6 coarsely powdered)|cashew</item>
         <item>Heavy cream - 3-4 tblsp</item>
-        <item>Oil -2 tbsp</item>
-        <item>Kasoori methi (fenugreek leaves powder) - 1 tsp</item>
+        <item>Oil -2 tbsp|oil</item>
+        <item>Fenugreek powder - 1 tsp|fenugreek</item>
         <item>Corriander Powder  - 2 tsp</item>
         <item>Garam masala -1/2 tsp</item>
-        <item>Cayenne pepper/ Red Chilly Powder - 1/2 tsp</item>
-        <item>Cumin seeds - 1/2 tsp</item>
-        <item>Cilantro - for garnish</item>
+        <item>Cayenne pepper/ Red Chilly Powder - 1/2 tsp|pepper</item>
+        <item>Cumin seeds - 1/2 tsp|cuminseeds</item>
+        <item>Cilantro - for garnish|coriander</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC108">
         <item>Make chicken tikkas as per the recipe.</item>
@@ -296,38 +284,38 @@
         <item>Add the tomato puree and cook until it thickens to form a paste.</item>
         <item>Now add garam masala, cayenne pepper, corriander powder and kasuri methi.</item>
         <item>After 1 min add the heavy cream and stir in low flame to get a thick paste. Also add leftover marination masala(optional).</item>
-        <item>Now add the tikkas and cook for 2 mins and switch off.</item>
+        <item>Now add the tikkas and cook for 2 mins[ALARM(2)] and switch off.</item>
         <item>Garnish with cilantro and serve</item>
     </array>
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC109">
-        <item>Chicken - 1 lbs (app. 1/2 kg)</item>
-        <item>Onion - 2 (chopped)</item>
-        <item>Tomatoes - 2 (diced)</item>
-        <item>Green chilli - 1 (slit)</item>
-        <item>Ginger Garlic paste -1tbsp</item>
-        <item>Whole Garam Masala - (Cloves, Cardamom - 2 pieces each, Cinnamon, Bay Leaf - 1 piece each)</item>
-        <item>Red chilli powder - 2 tsp</item>
-        <item>Coriander powder - 1 tbsp</item>
-        <item>Cumin powder - 1 tsp</item>
-        <item>Turmeric powder - 1/4 tsp</item>
-        <item>Crushed black peppercorns - 1.5 tbsp (preferably freshly crushed)</item>
-        <item>Lemon Juice - 1/2 of a lemon</item>
-        <item>Mustard seeds - 1 tsp</item>
-        <item>Fennel seeds - 1 tsp</item>
-        <item>Curry leaves - 2 strands</item>
-        <item>Salt - 2 tsp</item>
-        <item>Coriander leaves - to garnish</item>
-        <item>Oil - 2 tbsp</item>
+        <item>Chicken - 1 lbs (app. 1/2 kg)|chicken</item>
+        <item>Onion - 2 (chopped)|onion</item>
+        <item>Tomatoes - 2 (diced)|tomato</item>
+        <item>Green chilli - 1 (slit)|greenchillies</item>
+        <item>Ginger Garlic paste -1tbsp|gingergarlic</item>
+        <item>Whole Garam Masala - (Cloves, Cardamom - 2 pieces each, Cinnamon, Bay Leaf - 1 piece each)|cinnamoncloves</item>
+        <item>Red chilli powder - 2 tsp|chillypowder</item>
+        <item>Coriander powder - 1 tbsp|corianderseeds</item>
+        <item>Cumin powder - 1 tsp|cuminseeds</item>
+        <item>Turmeric powder - 1/4 tsp|turmericpowder</item>
+        <item>Crushed black peppercorns - 1.5 tbsp (preferably freshly crushed)|pepper</item>
+        <item>Lemon Juice - 1/2 of a lemon|lemonjuice</item>
+        <item>Mustard seeds - 1 tsp|mustardseeds</item>
+        <item>Fennel seeds - 1 tsp|fennelseeds</item>
+        <item>Curry leaves - 2 strands|curryleaves</item>
+        <item>Salt - 2 tsp|salt</item>
+        <item>Coriander leaves - to garnish|coriander</item>
+        <item>Oil - 2 tbsp|oil</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC109">
         <item>Marinate the chicken with the lemon juice, salt and turmeric powder.</item>
         <item>Heat oil in a deep vessel. Add the mustard seeds and fennel seeds for tempering. After it splutters add whole garam masala.</item>
         <item>Add chopped onions and green chilies. Saute until golden brown.</item>
-        <item>Add the ginger-garlic paste and curry leaves. Saute everything for 5 mins.</item>
+        <item>Add the ginger-garlic paste and curry leaves. Saute everything for 5 mins.[ALARM(5)]</item>
         <item>Add tomatoes and saute it until it becomes pulpy.</item>
-        <item>Add chilli powder,coriander powder,cumin powder. Saute everything for 10 mins in medium heat. When oil comes out it is the correct consistency</item>
+        <item>Add chilli powder,coriander powder,cumin powder. Saute everything for 10 mins[ALARM(10)] in medium heat. When oil comes out it is the correct consistency</item>
         <item>Now add chicken and little water. Cover and cook.</item>
         <item>After the chicken is cooked, add the crushed pepper powder and check for seasoning.</item>
         <item>Mix well and switch off.</item>
@@ -337,17 +325,17 @@
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC110">
         <item>Srimp - 1 lb (cleaned and deveined) </item>
-        <item>Cumin seeds - ¼ tsp </item>
-        <item>Mustard Seeds - ¼ tsp </item>
-        <item>Onions - 1 big(finely chopped) </item>
-        <item>Ginger garlic paste - 2tsp </item>
-        <item>Tomato - 2(finely chopped) </item>
+        <item>Cumin seeds - ¼ tsp|cuminseeds</item>
+        <item>Mustard Seeds - ¼ tsp|mustardseeds</item>
+        <item>Onions - 1 big(finely chopped)|onion</item>
+        <item>Ginger garlic paste - 2tsp |gingergarlic</item>
+        <item>Tomato - 2(finely chopped)|tomato</item>
         <item>Chilly powder - 2 tsp </item>
         <item>Corrainder powder - 2 tsp </item>
-        <item>Pepper powder - 1 tsp </item>
+        <item>Pepper powder - 1 tsp|pepper</item>
         <item>Garam masala powder - ½ tsp </item>
-        <item>Salt - to taste </item>
-        <item>Oil - 2 tsp </item>
+        <item>Salt - to taste|salt</item>
+        <item>Oil - 2 tsp|oil</item>
         <item>Curry leaves - 5 </item>
         <item>Corainder leaves - for garnish </item>
     </array>
@@ -360,25 +348,21 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC111">
-        <item>Chicken - 1 lb (boneless skinless, cut into small cubes)</item>
-        <item>Oil -  2 tblsp (preferably sesame oil)</item>
+        <item>Chicken - 1 lb |chicken</item>
+        <item>Oil -  2 tblsp (preferably sesame oil)|oil</item>
         <item>Sesame seeds (white) - 2 tblsp</item>
-        <item>Ginger - 1 tsp (minced)</item>
+        <item>Ginger - 1 tsp (minced)|ginger</item>
         <item>Veggies - 1 cup. Any veggies like Spring Onion, bell peppers etc can be used.</item>
-
-        <item>Sauce Ingredients</item>
-        <item>Chilly garlic sauce - 1 tblsp</item>
+        <item>Chilly garlic sauce - 1 tblsp|garlic</item>
         <item>Soy sauce - 2 tblsp</item>
         <item>Vineger - 2 tblsp</item>
         <item>Water/Chicken Broth - 1 1/2 cup (or as needed)</item>
-        <item>Salt - as needed</item>
-
-        <item>Optional Ingredients</item>
+        <item>Salt - as needed|salt</item>
         <item>Corn Starch - 2 tblsp (to thicken the sauce)</item>
         <item>Honey - (to add some sweetness to the sauce) </item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC111">
-        <item>Marinate the chicken with some soy sauce (2 tblsp) and salt for atleast 15 minutes.</item>
+        <item>Marinate the chicken with some soy sauce (2 tblsp) and salt for atleast 15 minutes.[ALARM(15)]</item>
         <item>Heat the oil in a wok and stir fry the chicken until the chicken is cooked. (The chicken is traditionally deep fried.)</item>
         <item>Remove the chicken and keep it aside.</item>
         <item>Heat some oil in the same wok and stir fry the ginger and veggies for just a minute or two.</item>
@@ -390,31 +374,30 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC112">
-        <item>Ingredients    </item>
-        <item>Chicken - 1 whole chicken (2 lbs cut into small pieces)</item>
+        <item>Chicken - 1 whole chicken|chicken</item>
         <item>Almonds - 10</item>
-        <item>Cashew nuts - 10</item>
+        <item>Cashew nuts - 10|cashew</item>
         <item>(You can also add all almonds too)</item>
-        <item>Onion - 4-5 (finely chopped)</item>
+        <item>Onion - 4-5 (finely chopped)|onion</item>
         <item>Yogurt - 1 cup </item>
-        <item>Ginger garlic paste - 2 tblsp</item>
-        <item>Whole Garam Masala - ( 1 piece cinnamon, 4 cloves, 2 cardomon)</item>
-        <item>Coconut Milk/ Cream - 1 cup</item>
-        <item>Green Chillies - 5 (or as needed)</item>
-        <item>White Pepper - 2 tsp</item>
-        <item>Fennel Seeds - 1 tsp</item>
-        <item>Salt - to taste</item>
-        <item>Cilantro - for garnish</item>
+        <item>Ginger garlic paste - 2 tblsp|gingergarlic</item>
+        <item>Whole Garam Masala - ( 1 piece cinnamon, 4 cloves, 2 cardomon)|cinnamoncloves</item>
+        <item>Coconut Milk/ Cream - 1 cup|shreddedcoconut</item>
+        <item>Green Chillies - 5 (or as needed)|greenchillies</item>
+        <item>White Pepper - 2 tsp|pepper</item>
+        <item>Fennel Seeds - 1 tsp|fennelseeds</item>
+        <item>Salt - to taste|salt</item>
+        <item>Cilantro - for garnish|coriander</item>
         <item>Toasted sliced almonds - 2 tblsp (for garnish)</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC112">
-        <item>Soak the almonds, cashews and green chillies for 5-10 minutes and make a paste of it along with the soaked water. Keep aside.</item>
+        <item>Soak the almonds, cashews and green chillies for 5-10 minutes[ALARM(5)] and make a paste of it along with the soaked water. Keep aside.</item>
         <item>Heat oil in a pan, add the garam masala and fennel seeds.</item>
         <item>Fry the chopped onions till it sweats. Next fry the ginger garlic paste.</item>
         <item>Add the ground almond-cashew-chilly paste.</item>
         <item>Next add the corriander-cumin powder and 1/4 cup of water to prevent the masala from getting burnt.</item>
-        <item>Cover and cook this paste for 15 minutes till oil seperates from the masala.</item>
-        <item>Now add the yogurt and chicken pieces and saute for 5 minutes. </item>
+        <item>Cover and cook this paste for 15 minutes[ALARM(15)] till oil seperates from the masala.</item>
+        <item>Now add the yogurt and chicken pieces and saute for 5 minutes.[ALARM(5)] </item>
         <item>Add the coconut milk/cream, required salt, white pepper powder and more water as needed. Cover and let the chicken cook till it is completely cooked.</item>
         <item>Garnish with finely chopped cilantro and sliced almonds and serve with pulav or roti varieties.</item>
     </array>
@@ -423,19 +406,19 @@
     <array name="INGREDIENT_NVMAINCOURSE_ITC113">
         <item>For Marinade</item>
         <item>Fish Fillets - 4</item>
-        <item>Salt - 1 tsp</item>
+        <item>Salt - 1 tsp|salt</item>
         <item>Chilly powder - 1 tsp</item>
-        <item>Turmeric Powder - 1 tsp</item>
+        <item>Turmeric Powder - 1 tsp|turmericpowder</item>
         <item>For Gravy (Stew)</item>
-        <item>Green Chillies - 2</item>
-        <item>Onion (medium sized) - 1 (sliced diagonally)</item>
-        <item>Ginger - 1 " (sliced)</item>
-        <item>Garlic - 2-3 pods (sliced)</item>
-        <item>Pepper powder - 1 tsp</item>
-        <item>Coconut Milk - 2 cups (Tastes best with fresh coconut milk)</item>
-        <item>Curry Leaves - 1 string</item>
-        <item>Oil - 3 tblsp</item>
-        <item>Lemon Juice (or vineger) - 1 tblsp</item>
+        <item>Green Chillies - 2|greenchillies</item>
+        <item>Onion 1|onion</item>
+        <item>Ginger - 1 " (sliced)|ginger</item>
+        <item>Garlic - 2-3 pods (sliced)|garlic</item>
+        <item>Pepper powder - 1 tsp|pepper</item>
+        <item>Coconut Milk - 2 cups (Tastes best with fresh coconut milk)|shreddedcoconut</item>
+        <item>Curry Leaves - 1 strand|curryleaves</item>
+        <item>Oil - 3 tblsp|oil</item>
+        <item>Lemon Juice (or vineger) - 1 tblsp|lemonjuice</item>
         <item>Salt - to taste</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC113">
@@ -446,28 +429,28 @@
         <item>Add sliced green chilies and fry for a minute. </item>
         <item>Add water, lemon juice, pepper powder and salt to the above. </item>
         <item>Boil the mixture and then lower the flame. </item>
-        <item>Add coconut milk and simmer the gravy for 3 to 4 minutes until it becomes thick. Do not let it come to a full boil. Just let it simmer.</item>
-        <item>Now add the fried fish fillets to the above and cook for another 2-3 minutes. </item>
+        <item>Add coconut milk and simmer the gravy for 3 to 4 minutes[ALARM(3)] until it becomes thick. Do not let it come to a full boil. Just let it simmer.</item>
+        <item>Now add the fried fish fillets to the above and cook for another 2-3 minutes.[ALARM(2)] </item>
         <item>Fish Molee is ready.</item>
     </array>
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC114">
         <item>Mutton - 1 kg</item>
-        <item>Onions - 2 (chopped)</item>
+        <item>Onions - 2|onion</item>
         <item>Brown Onion Paste - 1/2 cup</item>
-        <item>Tomato - 3 (pureed)</item>
+        <item>Tomato - 3 (pureed)|tomato</item>
         <item>Yogurt - 1 1/2 cup</item>
         <item>Potatoes - 2 (each cut into 4 pieces)</item>
-        <item>Ginger Paste - 2 tblsp</item>
-        <item>Garlic Paste - 2 tblsp</item>
+        <item>Ginger Paste - 2 tblsp|gingergarlic</item>
+        <item>Garlic Paste - 2 tblsp|garlic</item>
         <item>Corriander leaves &amp; Mint leaves paste - 3 tblsp</item>
-        <item>Cashew nut Paste - 2 tblsp</item>
+        <item>Cashew nut Paste - 2 tblsp|cashew</item>
         <item>Bay Leaf - 2</item>
-        <item>Turmeric - 1/2 tsp</item>
-        <item>Red Chilly Powder - 1 tblsp</item>
+        <item>Turmeric - 1/2 tsp|turmericpowder</item>
+        <item>Red Chilly Powder - 1 tblsp|chillypowder</item>
         <item>Garam Masala Powder - 2 tblsp</item>
-        <item>White Salt &amp; Black Salt - to taste</item>
+        <item>Salt - to taste|salt</item>
 
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC114">
@@ -483,22 +466,22 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC115">
-        <item>Chicken - 1 kg (app. 2 lbs)</item>
+        <item>Chicken - 1 kg|chicken</item>
         <item>Yogurt - 1 cup (beaten)</item>
-        <item>Onion - 1 big/ 2 small (finely chopped)</item>
-        <item>Ginger garlic Paste - 1 tbsp</item>
-        <item>Green Chillies - 1 or 2</item>
-        <item>Tomatoes - 3 (finely chopped/ pureed)</item>
-        <item>Assorted Whole Garam Masala - (1 cinnamon, 1 bay leaf, 3 cloves etc)</item>
-        <item>Cumin seeds - 1/2 tsp</item>
-        <item>Turmeric Powder - 1/4 tsp</item>
+        <item>Onion - 1 big/ 2 small|onion</item>
+        <item>Ginger garlic Paste - 1 tbsp|gingergarlic</item>
+        <item>Green Chillies - 1 or 2|greenchillies</item>
+        <item>Tomatoes - 3 (finely chopped/ pureed)|tomato</item>
+        <item>Assorted Whole Garam Masala - (1 cinnamon, 1 bay leaf, 3 cloves etc)|cinnamoncloves</item>
+        <item>Cumin seeds - 1/2 tsp|cuminseeds</item>
+        <item>Turmeric Powder - 1/4 tsp|turmericpowder</item>
         <item>Chilly Powder - 1 tsp (or to taste)</item>
-        <item>Pepper Powder - 1 tbsp</item>
+        <item>Pepper Powder - 1 tbsp|pepper</item>
         <item>Garam Masala Powder - 1 tsp</item>
-        <item>Salt - to taste</item>
-        <item>Cilantro - 1/4 bunch (finely chopped)</item>
-        <item>Curry Leaves - for garnish</item>
-        <item>Oil – 2 tbsp</item>
+        <item>Salt - to taste|salt</item>
+        <item>Cilantro - 1/4 bunch (finely chopped)|coriander</item>
+        <item>Curry Leaves - for garnish|curryleaves</item>
+        <item>Oil – 2 tbsp|oil</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC115">
         <item>Marinate the chicken with the yogurt and all the dry masala powders (chilly powder, garam masala, turmeric powder and pepper powder).</item>
@@ -507,28 +490,28 @@
         <item>Add the ginger garlic paste and fry for 1 minute.</item>
         <item>Add the tomatoes and cook till the oil separates. (Note: Tomatoes are not traditionally added in this recipe. It can be added or not depending on individual taste.)</item>
         <item>Add the marinated chicken to this and bring everything to a boil. Add water if you want a thinner gravy.</item>
-        <item>Cover and cook for 10-15 minutes stirring occasionally.</item>
+        <item>Cover and cook for 10-15 minutes[ALARM(10)] stirring occasionally.</item>
         <item>Mix in the finely chopped coriander leaves.</item>
         <item>Finally garnish with fresh curry leaves and split green chillies. Curd chicken curry is ready to be served.</item>
     </array>
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC116">
-        <item>Chicken - 1 lb (cut into chunks)</item>
+        <item>Chicken - 1 lb|chicken</item>
         <item>Potatoes -  2 (cut into big chunks) - optional</item>
-        <item>Coconut milk - 1 cup </item>
-        <item>Salt - as needed</item>
-        <item>Oil - 1 tblsp</item>
+        <item>Coconut milk - 1 cup |shreddedcoconut</item>
+        <item>Salt - as needed|salt</item>
+        <item>Oil - 1 tblsp|oil</item>
 
         <item>To Grind</item>
         <item>Fried Onions (Birista) - 1 cup</item>
         <item>Vineger - 1 or 2 tsp</item>
-        <item>Ginger - 1.5 " piece</item>
-        <item>Garlic -6-8 cloves</item>
-        <item>Dry red Chillies - 5-8 (or use chilly powder as needed)</item>
-        <item>Mustard seeds - 1/2 tsp</item>
-        <item>Cumin seeds - 1/2 tsp</item>
-        <item>Fenugreek seeds - 1/4 tsp</item>
+        <item>Ginger - 1.5 " piece|ginger</item>
+        <item>Garlic -6-8 cloves|garlic</item>
+        <item>Dry red Chillies - 5-8 (or use chilly powder as needed)|drychillies</item>
+        <item>Mustard seeds - 1/2 tsp|mustardseeds</item>
+        <item>Cumin seeds - 1/2 tsp|cuminseeds</item>
+        <item>Fenugreek seeds - 1/4 tsp|fenugreek</item>
         <item>Corriander seeds - 1/2 tsp</item>
         <item>Cinnamon stick - 1 small piece</item>
         <item>Cloves - 3</item>
@@ -549,56 +532,56 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC117">
-        <item>Chicken - 2 lbs (1 kg)</item>
-        <item>Onion - 1 (chopped)</item>
-        <item>Turmeric Powder - 1/4 tsp</item>
-        <item>Coriander Powder - 2 tsp</item>
-        <item>Cumin Powder - 1 tsp</item>
-        <item>Pepper Powder - 1 tsp</item>
+        <item>Chicken - 1 kg|chicken</item>
+        <item>Onion - 1|onion</item>
+        <item>Turmeric Powder - 1/4 tsp|turmericpowder</item>
+        <item>Coriander Powder - 2 tsp|corianderseeds</item>
+        <item>Cumin Powder - 1 tsp|cuminseeds</item>
+        <item>Pepper Powder - 1 tsp|pepper</item>
         <item>Garam Masala - 1/2 tsp</item>
-        <item>Fennel seeds - 1/2 tsp</item>
+        <item>Fennel seeds - 1/2 tsp|fennelseeds</item>
         <item>Yogurt - 1/4 cup</item>
-        <item>Heavy Cream - 1/4 cup (You could also use thick coconut milk instead)</item>
-        <item>Lemon Juice - 3-4 tbsp</item>
-        <item>Oil - 2 tbsp</item>
+        <item>Heavy Cream - 1/4 cup (You could also use thick coconut milk instead)|shreddedcoconut</item>
+        <item>Lemon Juice - 3-4 tbsp|lemonjuice</item>
+        <item>Oil - 2 tbsp|oil</item>
         <item>Bay Leaf - 1</item>
-        <item>Salt - as needed</item>
+        <item>Salt - as needed|salt</item>
         <item>To Grind</item>
-        <item>Cilantro - 1 bunch</item>
+        <item>Cilantro - 1 bunch|coriander</item>
         <item>Mint - 1/2 bunch</item>
-        <item>Green Chillies - 4-5</item>
+        <item>Green Chillies - 4-5|greenchillies</item>
         <item>Shallots - 3</item>
-        <item>Ginger - 1.5 " piece</item>
-        <item>Garlic - 7-8 cloves</item>
+        <item>Ginger - 1.5 " piece|ginger</item>
+        <item>Garlic - 7-8 cloves|garlic</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC117">
         <item>Marinate the chicken pieces with salt,  pepper powder and lemon juice for at least half an hour before preparing the curry.</item>
         <item>Make a smooth paste of all the ingredients under \'to grind\'. Try to avoid water while grinding or add as little as possible.</item>
         <item>Heat oil in a heavy bottomed pan and add the bay leaf and fennel seeds.</item>
         <item>Add the finely chopped onions and fry till it is golden brown.</item>
-        <item>Add the ground paste and let it cook until the oil separates from the masala. This will take about 10 minutes.</item>
+        <item>Add the ground paste and let it cook until the oil separates from the masala. This will take about 10 minutes.[ALARM(10)]</item>
         <item>Add the yogurt, turmeric powder, coriander powder, cumin powder and garam masala. Fry for about half a minute before adding the chicken.</item>
-        <item>After adding the chicken, saute it with the masala for at least 3 minutes.</item>
+        <item>After adding the chicken, saute it with the masala for at least 3 minutes.[ALARM(3)]</item>
         <item>Add required water, salt and bring it to a boil. Cover the pan and cook till the chicken is no more raw and oil starts separating from the gravy.</item>
         <item>Add the heavy cream to the curry and mix well. Switch off. The green chicken curry is ready to be served</item>
     </array>
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC118">
-        <item>Chicken - 1/2 lb (bony pieces)</item>
-        <item>Shallot onions - 5-8 (chopped)</item>
-        <item>Tomato - 1 (chopped or mashed up with hands)</item>
-        <item>Green Chilly - 1</item>
-        <item>Turmeric powder - 1/2 tsp</item>
+        <item>Chicken - 1/2 lb|chicken</item>
+        <item>Sambar onions - 5-8 (chopped)|smallonions</item>
+        <item>Tomato - 1 (chopped or mashed up with hands)|tomato</item>
+        <item>Green Chilly - 1|greenchillies</item>
+        <item>Turmeric powder - 1/2 tsp|turmericpowder</item>
         <item>Chicken Masala - 1/2 tsp</item>
-        <item>Cilantro - 3 springs (chopped) </item>
+        <item>Cilantro - 3 springs (chopped)|coriander</item>
         <item>Ingredients For Tempering</item>
-        <item>Oil - 2 tbsp</item>
-        <item>Peppercorns - 1 tsp</item>
-        <item>Cumin Seeds - 1 tsp</item>
-        <item>Red chilly - 1</item>
-        <item>Garlic pods - 5 or 6</item>
-        <item>Curry Leaves - 5 leaves</item>
+        <item>Oil - 2 tbsp|oil</item>
+        <item>Peppercorns - 1 tsp|pepper</item>
+        <item>Cumin Seeds - 1 tsp|cuminseeds</item>
+        <item>Red chilly - 1|drychillies</item>
+        <item>Garlic pods - 5 or 6|garlic</item>
+        <item>Curry Leaves - 1 strand|curryleaves</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC118">
         <item>In a pressure cooker add the bony chicken pieces, onion, green chilly and tomato.</item>
@@ -616,24 +599,24 @@
         <item>Fish - 1 lb (app. 1/2 kg)</item>
         <item>Shrimp - 1 lb</item>
         <item>(You can also add other seafood like squid, scallops etc.)</item>
-        <item>Onion (Big) - 1/2 (chopped)</item>
-        <item>Green Chillies - 4</item>
-        <item>Tamarind - 100 gm</item>
-        <item>Turmeric Powder - 1/4 tsp</item>
+        <item>Onion (Big) - 1/2 (chopped)|onion</item>
+        <item>Green Chillies - 4|greenchillies|greenchillies</item>
+        <item>Tamarind - 100 gm|tamarind</item>
+        <item>Turmeric Powder - 1/4 tsp|turmericpowder</item>
         <item>Chilly Powder - 3 tsp</item>
         <item>Corriander Powder - 3 tsp</item>
-        <item>Fenugreek Seeds - 1/4 tsp</item>
-        <item>Salt - as needed</item>
-        <item>Oil - 1 tblsp +1 tblsp</item>
-        <item>Cilantro - for garnishing</item>
+        <item>Fenugreek Seeds - 1/4 tsp|fenugreek</item>
+        <item>Salt - as needed|salt</item>
+        <item>Oil - 1 tblsp +1 tblsp|oil</item>
+        <item>Cilantro - for garnishing|coriander</item>
         <item>To grind</item>
-        <item>Fennel Powder - 1 tsp</item>
-        <item>Tomato - 1 big (or 2 small)</item>
-        <item>Grated Coconut - 1/2 cup</item>
+        <item>Fennel Powder - 1 tsp|fennelseeds</item>
+        <item>Tomato - 1 big (or 2 small)|tomato</item>
+        <item>Grated Coconut - 1/2 cup|shreddedcoconut</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC119">
         <item>Grind the tomatoes, coconut and fennel powder to a fine paste. Keep this aside.</item>
-        <item>Soak the tamarind in about 2 cups of water for about 10 minutes and extract its pulp. </item>
+        <item>Soak the tamarind in about 2 cups of water for about 10 minutes[ALARM(10)] and extract its pulp. </item>
         <item>Mix the chilly powder, corriander powder and turmeric powder with this pulp and keep it aside.</item>
         <item>Heat oil in a wide pan or clay pot. Saute the onions and green chillies till they turn golden brown.</item>
         <item>Add the spiced up tamarind pulp to this and bring it to a boil.</item>
@@ -647,23 +630,23 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC120">
-        <item>Chicken - 1 lb (cut into bite size pieces)</item>
-        <item>Fenugreek Leaves (Methi) - 1 bunch (about 2 cups)</item>
-        <item>Onion - 2 (finely chopped)</item>
-        <item>Green Chillies - 2 </item>
-        <item>Ginger Garlic Paste - 1 tblsp</item>
-        <item>Tomatoes - 2 (pureed)</item>
+        <item>Chicken - 1 lb|chicken</item>
+        <item>Fenugreek Leaves (Methi) - 1 bunch (about 2 cups)|fenugreek</item>
+        <item>Onion - 2 (finely chopped)|onion</item>
+        <item>Green Chillies - 2|greenchillies</item>
+        <item>Ginger Garlic Paste - 1 tblsp|gingergarlic</item>
+        <item>Tomatoes - 2 (pureed)|tomato</item>
         <item>Yogurt - 2 tblsp (beaten)</item>
-        <item>Turmeric Powder - 1/2 tsp</item>
+        <item>Turmeric Powder - 1/2 tsp|turmericpowder</item>
         <item>Chilly Powder - 3 tsp</item>
         <item>Corriander Powder - 2 tsp</item>
-        <item>Cumin Powder - 1/2 tsp</item>
-        <item>Fennel Powder - 1/2 tsp</item>
+        <item>Cumin Powder - 1/2 tsp|cuminseeds</item>
+        <item>Fennel Powder - 1/2 tsp|fennelseeds</item>
         <item>Garam Masala Powder - 1/2 tsp</item>
-        <item>Cumin Seeds - 1/2 tsp</item>
-        <item>Fennel seeds - 1/2 tsp</item>
-        <item>Salt - as needed</item>
-        <item>Oil - 3 tblsp</item>
+        <item>Cumin Seeds - 1/2 tsp|cuminseeds</item>
+        <item>Fennel seeds - 1/2 tsp|fennelseeds</item>
+        <item>Salt - as needed|salt</item>
+        <item>Oil - 3 tblsp|oil</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC120">
         <item>Take a heavy bottomed pan, heat the oil and splutter the cumin and fennel seeds.</item>
@@ -672,7 +655,7 @@
         <item>Add the chicken pieces, beaten yogurt and salt. Stir fry for few minutes.</item>
         <item>Add all the dry spice powders (corriander, cumin, chilly, turmeric and fennel powders).</item>
         <item>Add the tomato puree and required water. If you want a dry dish add very little water.</item>
-        <item>Cover and cook for about 15 minutes till the oil seperates from the masala. </item>
+        <item>Cover and cook for about 15 minutes[ALARM(15)] till the oil seperates from the masala. </item>
         <item>Finally add the methi leaves and garam masala powder.</item>
         <item>Cook for a minute and switch off.</item>
         <item>Serve hot with roti, pulao, idli or white rice.</item>
@@ -680,23 +663,23 @@
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC121">
         <item>Eggs - 6 (Hard Boiled/ Raw)</item>
-        <item>Red Chilly Powder - 1 tsp</item>
+        <item>Red Chilly Powder - 1 tsp|chillypowder</item>
         <item>Corriander Powder - 2 tsp</item>
-        <item>Turmeric Powder - 1/4 tsp</item>
+        <item>Turmeric Powder - 1/4 tsp|turmericpowder</item>
         <item>Garam Masala Powder - 1/2 tsp</item>
-        <item>Cilantro - for garnish</item>
-        <item>Salt - to taste</item>
-        <item>Oil - 2 tblsp</item>
+        <item>Cilantro - for garnish|coriander</item>
+        <item>Salt - to taste|salt</item>
+        <item>Oil - 2 tblsp|oil</item>
         <item>List I</item>
         <item>Fried Onions (store bought) - 1/2 cup </item>
-        <item>Ginger Garlic Paste - 1 tsp</item>
-        <item>Tomato - 2</item>
+        <item>Ginger Garlic Paste - 1 tsp|gingergarlic</item>
+        <item>Tomato - 2|tomato</item>
 
         <item>List II</item>
-        <item>Grated Coconut - 1/2 cup</item>
-        <item>Fennel seeds - 1 tsp</item>
-        <item>Poppy seeds (kus kus) - 1 tsp</item>
-        <item>Cashew nuts - 5</item>
+        <item>Grated Coconut - 1/2 cup|shreddedcoconut</item>
+        <item>Fennel seeds - 1 tsp|fennelseeds</item>
+        <item>Poppy seeds (kus kus) - 1 tsp|poppyseeds</item>
+        <item>Cashew nuts - 5|cashew</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC121">
         <item>First of all, grind all the ingredients under \'List I\' and keep it aside.</item>
@@ -705,10 +688,10 @@
         <item>(ii) Break a raw egg into the gravy and cook it.</item>
         <item>     The recipe is the same for both the kurmas.</item>
         <item>Heat oil in a heavy bottomed pan/kadai and add the ground paste of \'List I\'.</item>
-        <item>Saute for 2 minutes on medium high flame and then add the dry spice powders.</item>
+        <item>Saute for 2 minutes[ALARM(2)] on medium high flame and then add the dry spice powders.</item>
         <item>Next add the ground paste of \'List II\', about 2 cups of water and required salt.</item>
-        <item>Boil this for about 7-8 minutes till everything is cooked and oil separates.</item>
-        <item>Add the egg at this stage and simmer for 4-5 minutes.</item>
+        <item>Boil this for about 7-8 minutes [ALARM(7)]till everything is cooked and oil separates.</item>
+        <item>Add the egg at this stage and simmer for 4-5 minutes.[ALARM(4)]</item>
         <item>        - If you are adding hard boiled eggs, make few slits for the gravy to be absorbed.</item>
         <item>        - If using raw egg, break open the egg and gently add to the simmering gravy for the egg to get poached.</item>
         <item>Garnish with cilantro and serve</item>
@@ -716,30 +699,29 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC122">
-        <item>Onion - 1 (finely chopped)</item>
-        <item>Tomato - 2 (diced or pureed)</item>
-        <item>Oil - 2 tbsp</item>
+        <item>Onion - 1|onion</item>
+        <item>Tomato - 2|tomato</item>
+        <item>Oil - 2 tbsp|oil</item>
         <item>Bay Leaf - 1</item>
-        <item>Curry Leaves - 1 spring</item>
-        <item>Cumin seeds - ¼ tsp</item>
-        <item>Coriander leaves (Cilantro) - handful (finely chopped)</item>
+        <item>Curry Leaves - 1 strand|curryleaves</item>
+        <item>Cumin seeds - ¼ tsp|cuminseeds</item>
+        <item>Coriander leaves (Cilantro) - handful (finely chopped)|coriander</item>
         <item>Ingredients To Marinate</item>
-        <item>Chicken - 1.5 lb</item>
-        <item>Turmeric powder - 1/4 tsp</item>
-        <item>Lemon juice - 2 tsp</item>
-        <item>Salt - 1 tsp</item>
-        <item>List I (To grind)</item>
-        <item>Ginger - 1" piece</item>
-        <item>Garlic - 8 cloves</item>
-        <item>Fennel Seeds - 1 tsp</item>
+        <item>Chicken - 1.5 lb|chicken</item>
+        <item>Turmeric powder - 1/4 tsp|turmericpowder</item>
+        <item>Lemon juice - 2 tsp|lemonjuice</item>
+        <item>Salt - 1 tsp|salt</item>
+        <item>Ginger - 1" piece|ginger</item>
+        <item>Garlic - 8 cloves|garlic</item>
+        <item>Fennel Seeds - 1 tsp|fennelseeds</item>
         <item>Shallots - 7</item>
-        <item>Green Chillies - 3</item>
+        <item>Green Chillies - 3|greenchillies</item>
         <item>List II (To dry roast and powder)</item>
-        <item>Grated Coconut - 1/4 cup</item>
-        <item>Dry red chillies - 10 Coriander Seeds - 3 tbsp</item>
-        <item>Curry Leaves - handful (2 springs)</item>
-        <item>Whole Peppercorns - 2 tsp</item>
-        <item>Whole Garam Masala - 2" piece cinnamon stick, 3 cloves, 3 cardamom, 1 star anise, 3 kalpasi</item>
+        <item>Grated Coconut - 1/4 cup|shreddedcoconut</item>
+        <item>Dry red chillies - 10 Coriander Seeds - 3 tbsp|drychillies</item>
+        <item>Curry Leaves - handful (2 strands)|curryleaves</item>
+        <item>Whole Peppercorns - 2 tsp|pepper</item>
+        <item>Whole Garam Masala - 2" piece cinnamon stick, 3 cloves, 3 cardamom, 1 star anise, 3 kalpasi|cinnamoncloves</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC122">
         <item>Cut the chicken and cut it into medium size pieces. Marinate it with salt, lemon juice and turmeric powder for at least half an hour.</item>
@@ -750,7 +732,7 @@
         <item>Add the ground paste of \'List I\' and fry till the raw smell is gone.</item>
         <item>Add the marinated chicken and fry for few minutes. The chicken releases lot of water. </item>
         <item>Now add the remaining ingredients - tomato puree, powdered mixture of \'List II\', required salt and water.</item>
-        <item>Cover and cook for 15-20 minutes. By now the chicken pieces will be completely cooked.</item>
+        <item>Cover and cook for 15-20 minutes.[ALARM(15)] By now the chicken pieces will be completely cooked.</item>
         <item>This is the right time to check for salt and other spices. Adjust anything if needed.</item>
         <item>Cook uncovered till the oil floats on top of the gravy.</item>
         <item>Add the finely chopped cilantro and fresh curry leaves and switch off. Keep the gravy covered till you are ready to serve.</item>
@@ -759,25 +741,22 @@
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC123">
         <item>Crab - 5-6</item>
-        <item>Onion - 1 big (finely chopped)</item>
-        <item>Tomatoes - 2 (finely chopped)</item>
-        <item>Ginger garlic paste - 1 teaspoon</item>
-        <item>Green Chillies - 2</item>
-        <item>Coriander powder - 1 tbsp</item>
-        <item>Red chilly powder - 1 tbsp</item>
-        <item>Turmeric powder - 1/2 tsp</item>
-        <item>Whole Garam Masala - 1 bay leaf, 2" piece cinnamon stick, 2 cloves, 3 cardamoms</item>
-        <item>Curry Leaves - 1 spring</item>
-        <item>Cumin seeds - 1 tsp</item>
-        <item>Fennel seeds - 1 tsp</item>
-        <item>Oil – 2 tbsp</item>
-        <item>Cilantro (Coriander Leaves) - handful (finely chopped)</item>
-        <item>To Grind</item>
-
-        <item>Grated Coconut - 1/4 cup</item>
-        <item>Fennel seeds - 1 tsp</item>
-        <item>Poppy seeds - 1 tsp</item>
-        <item>Cashews - 4</item>
+        <item>Onion - 1 big (finely chopped)|onion</item>
+        <item>Tomatoes - 2 (finely chopped)|tomato</item>
+        <item>Ginger garlic paste - 1 teaspoon|gingergarlic</item>
+        <item>Green Chillies - 2|greenchillies</item>
+        <item>Coriander powder - 1 tbsp|corianderseeds</item>
+        <item>Red chilly powder - 1 tbsp|chillypowder</item>
+        <item>Turmeric powder - 1/2 tsp|turmericpowder</item>
+        <item>Whole Garam Masala - 1 bay leaf, 2" piece cinnamon stick, 2 cloves, 3 cardamoms|cinnamoncloves</item>
+        <item>Curry Leaves - 1 spring|curryleaves</item>
+        <item>Cumin seeds - 1 tsp|cuminseeds</item>
+        <item>Fennel seeds - 1 tsp|fennelseeds</item>
+        <item>Oil – 2 tbsp|oil</item>
+        <item>Cilantro (Coriander Leaves) - handful (finely chopped)|coriander</item>
+        <item>Grated Coconut - 1/4 cup|shreddedcoconut</item>
+        <item>Poppy seeds - 1 tsp|poppyseeds</item>
+        <item>Cashews - 4|cashew</item>
         <item>Crab Kurma</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC123">
@@ -789,33 +768,33 @@
         <item>Now add the chilly powder, coriander powder and turmeric powder.</item>
         <item>Now add the crabs and mix to coat the crabs with the masala.</item>
         <item>Add some water depending on how much gravy you need. You can also make it a semi gravy dish.</item>
-        <item>Cover and let it cook for 5-7 minutes. The crab turns red in color when done. If you overcook the crab it will become stringy.</item>
+        <item>Cover and let it cook for 5-7 minutes.[ALARM(5)] The crab turns red in color when done. If you overcook the crab it will become stringy.</item>
         <item>In the meantime grind the ingredients under \'To grind\'.</item>
         <item>Add this ground paste to the crab gravy. Check for salt and other seasonings and adjust if needed.</item>
-        <item>Let the gravy simmer for another 5 minutes for the ground masala to get cooked.</item>
+        <item>Let the gravy simmer for another 5 minutes[ALARM(5)] for the ground masala to get cooked.</item>
         <item>Finally add chopped cilantro and switch off.</item>
     </array>
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC124">
         <item>Dried Fish - 1/2 lb</item>
-        <item>Shallot Onion - 5/ Onion - 1/2 (chopped)</item>
-        <item>Tomato - 1 (chopped)</item>
-        <item>Green Chillies - 2</item>
+        <item>Shallot Onion - 5/ Onion - 1/2 (chopped)|onion</item>
+        <item>Tomato - 1 (chopped)|tomato</item>
+        <item>Green Chillies - 2|greenchillies</item>
         <item>Brinjals (Eggplant) - 3</item>
         <item>Drumstick - 1</item>
         <item>Raw Mango - 1/2 </item>
         <item>Corriander Powder - 2 tsp</item>
         <item>Red Chilly Powder - 2 tsp</item>
-        <item>Turmeric Powder - 1/4 tsp</item>
-        <item>Grated Coconut - 1/4 cup</item>
-        <item>Tamarind Pulp - 1/4 cup</item>
-        <item>Mustard seeds - 1/2 tsp</item>
-        <item>Fenugreek Seeds - 1/4 tsp</item>
-        <item>Curry Leaves - 2 springs</item>
+        <item>Turmeric Powder - 1/4 tsp|turmericpowder</item>
+        <item>Grated Coconut - 1/4 cup|shreddedcoconut</item>
+        <item>Tamarind Pulp - 1/4 cup|tamarind</item>
+        <item>Mustard seeds - 1/2 tsp|mustardseeds</item>
+        <item>Fenugreek Seeds - 1/4 tsp|fenugreek</item>
+        <item>Curry Leaves - 2 springs|curryleaves</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC124">
-        <item>Soak the dried fish in some water for about 10 minutes.</item>
+        <item>Soak the dried fish in some water for about 10 minutes.[ALARM(10)]</item>
         <item>Drain the water and wash it thoroughly to remove any grits.</item>
         <item>Heat oil in a pan and splutter the mustard seeds, fenugreek seeds and curry leaves.</item>
         <item>Add the onions and green chillies and fry it golden brown.</item>
@@ -831,27 +810,27 @@
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC125">
         <item>Kheema (fully smashed) - 1 lb (1/2 kg)</item>
-        <item>Ginger Garlic Paste - 1 tsp</item>
-        <item>Red Chilly Powder - 1 tsp</item>
-        <item>Turmeric Powder - 1/4 tsp</item>
+        <item>Ginger Garlic Paste - 1 tsp|gingergarlic</item>
+        <item>Red Chilly Powder - 1 tsp|chillypowder</item>
+        <item>Turmeric Powder - 1/4 tsp|turmericpowder</item>
         <item>Garam Masala - 1/2 tsp</item>
-        <item>Salt - 1 tsp</item>
-        <item>Cilantro - 2 springs (finely chopped)</item>
-        <item>Onion - 1 (chopped)</item>
-        <item>Tomatoes - 2 (pureed)</item>
-        <item>Ginger garlic paste - 2 tsp</item>
-        <item>Green Chillies - 2 </item>
-        <item>Cashews (or almonds) - 5</item>
-        <item>Turmeric Powder - 1/4 tsp</item>
-        <item>Red Chilly Powder - 1.5 tsp</item>
+        <item>Salt - 1 tsp|salt</item>
+        <item>Cilantro - 2 springs (finely chopped)|coriander</item>
+        <item>Onion - 1 (chopped)|onion</item>
+        <item>Tomatoes - 2 (pureed)|tomato</item>
+        <item>Ginger garlic paste - 2 tsp|gingergarlic</item>
+        <item>Green Chillies - 2|greenchillies</item>
+        <item>Cashews (or almonds) - 5|cashew</item>
+        <item>Turmeric Powder - 1/4 tsp|turmericpowder</item>
+        <item>Red Chilly Powder - 1.5 tsp|chillypowder</item>
         <item>Corriander Powder - 2 tsp</item>
         <item>Garam Masala - 1 tsp</item>
-        <item>Fennel Powder (or crushed fennel seeds) - 1/2 tsp </item>
-        <item>Cumin Powder (or crushed cumin seeds) - 1/2 tsp </item>
-        <item>Coconut milk - 1/2 cup (you can also use beaten yogurt instead)</item>
-        <item>Oil - 1 + 1 tblsp</item>
-        <item>Salt - to taste</item>
-        <item>Cilantro - for garnish</item>
+        <item>Fennel Powder (or crushed fennel seeds) - 1/2 tsp|fennelseeds</item>
+        <item>Cumin Powder (or crushed cumin seeds) - 1/2 tsp|cuminseeds</item>
+        <item>Coconut milk - 1/2 cup (you can also use beaten yogurt instead)|shreddedcoconut</item>
+        <item>Oil - 1 + 1 tblsp|oil</item>
+        <item>Salt - to taste|salt</item>
+        <item>Cilantro - for garnish|coriander</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC125">
         <item>Take the kheema in a big bowl and add ginger garlic paste, red chilly powder, turmeric powder, garam masala, salt and finely chopped cilatro.</item>
@@ -866,7 +845,7 @@
         <item>Add the coconut milk and required water. Add salt and bring the gravy to a boil. </item>
         <item>(You can also use beaten yogurt instead of coconut milk as a healthy alternative. Coconut milk and yogurt gives two different taste to the gravy but both are equally delicious.)</item>
         <item>1Reduce the flame and gently add the koftas to the gravy one at a time. Do not mix once you have added the koftas.</item>
-        <item>1Cover and cook on medium low heat for 25-30 minutes till the koftas are well cooked.</item>
+        <item>1Cover and cook on medium low heat for 25-30 minutes[ALARM(25)] till the koftas are well cooked.</item>
         <item>1By now the koftas and oil will be floating on top of the gravy.  Add the garam masala powder and chopped cilantro and simmer for another 5 minutes.</item>
         <item>1Switch off and serve with white rice, any roti varieties or any pulav varieties.</item>
     </array>
@@ -874,21 +853,21 @@
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC126">
         <item>Fish - 1 lb</item>
-        <item>Onions - 1/2 cup (sliced)</item>
-        <item>Tomatoes - 2 (chopped)</item>
-        <item>Green chilly- 2</item>
-        <item>Ginger- 1" piece (thinly sliced)</item>
+        <item>Onions - 1/2 cup (sliced)|onion</item>
+        <item>Tomatoes - 2 (chopped)|tomato</item>
+        <item>Green chilly- 2|greenchillies</item>
+        <item>Ginger- 1" piece (thinly sliced)|ginger</item>
         <item>Garlic - 4 cloves (thinly sliced)</item>
         <item>Chilly powder- 2 tsp</item>
-        <item>Turmeric Powder - 1/2 tsp</item>
-        <item>Coriander powder- 2 tsp</item>
-        <item>Thick Coconut milk - 1 cup</item>
-        <item>Coconut Oil - 2 tblsp</item>
-        <item>Mustard Seeds - 1/2 tsp</item>
+        <item>Turmeric Powder - 1/2 tsp|turmericpowder</item>
+        <item>Coriander powder- 2 tsp|corianderseeds</item>
+        <item>Thick Coconut milk - 1 cup|shreddedcoconut</item>
+        <item>Coconut Oil - 2 tblsp|oil</item>
+        <item>Mustard Seeds - 1/2 tsp|mustardseeds</item>
         <item>Black Peppercons - 1/2 tsp</item>
-        <item>Fennel Seeds - 1/4 tsp</item>
-        <item>salt - to taste</item>
-        <item>curry leaves -  1 spring</item>
+        <item>Fennel Seeds - 1/4 tsp|fennelseeds</item>
+        <item>Salt - to taste|salt</item>
+        <item>curry leaves -  1 spring|curryleaves</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC126">
         <item>Heat the oil in a clay pot or a pan, splutter the mustard seeds, fennel seeds and peppercons.</item>
@@ -903,28 +882,28 @@
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC127">
         <item>Ingredients-1</item>
-        <item>Coconut (grated) - 3 tblsp </item>
-        <item>Pearl Onions - 3-4</item>
-        <item>Garlic Cloves - 3 </item>
-        <item>Curry leaves - 4 leaves </item>
-        <item>Dry red Chillies - 2</item>
+        <item>Coconut (grated) - 3 tblsp |shreddedcoconut</item>
+        <item>Onions - 3-4|onion</item>
+        <item>Garlic Cloves - 3|garlic</item>
+        <item>Curry leaves - 4 leaves|curryleaves</item>
+        <item>Dry red Chillies - 2|drychillies</item>
         <item>Peppercorns - 1 tsp</item>
-        <item>Cumin seeds - 1 tsp</item>
+        <item>Cumin seeds - 1 tsp|cuminseeds</item>
 
         <item>Ingredients-2</item>
         <item>Crab - 1 lb </item>
         <item>Tamrind juice - ¼ cup </item>
-        <item>Turmeric powder - ¼ tsp </item>
+        <item>Turmeric powder - ¼ tsp|turmericpowder</item>
         <item>Chilly powder - 1 tsp </item>
         <item>Corriander powder- 2 tsp </item>
-        <item>Curry leaves - 4 </item>
-        <item>Green chilly - 1 </item>
-        <item>Mustard sseds- ¼ tsp </item>
-        <item>Oil - 2 Tblsp </item>
-        <item>Fenugreek Seeds - ¼ tsp </item>
-        <item>Asafoetida powder - ¼ tsp </item>
-        <item>Salt - to taste</item>
-        <item>Cilantro - for garnish</item>
+        <item>Curry leaves - 4|curryleaves</item>
+        <item>Green chilly - 1|greenchillies</item>
+        <item>Mustard sseds- ¼ tsp|mustardseeds</item>
+        <item>Oil - 2 Tblsp |oil</item>
+        <item>Fenugreek Seeds - ¼ tsp|fenugreek</item>
+        <item>Asafoetida powder - ¼ tsp|asafoetida</item>
+        <item>Salt - to taste|salt</item>
+        <item>Cilantro - for garnish|coriander</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC127">
         <item>Clean the crab, cut it into small pieces and keep aside. </item>
@@ -932,28 +911,28 @@
         <item>Once the aroma starts coming, remove it from fire and let it cool. After it cools, grind everything together with some water to form a very fine paste and keep aside. </item>
         <item>Now take a clay pot or deep vessel, heat some oil, splutter mustard, fenugreek seeds and curry leaves. </item>
         <item>Now add the tamarind juice, chilly powder, corriander powder, turmeric powder, salt, asafoetida along with the ground masala and bring it to a boil. Add water if you want more gravy.</item>
-        <item>Add the crab pieces, cover and cook for 10 minutes on low-medium flame. The crab is done when it turns red in colour.</item>
+        <item>Add the crab pieces, cover and cook for 10 minutes[ALARM(10)] on low-medium flame. The crab is done when it turns red in colour.</item>
         <item>Garnish with fresh curry leaves, cilantro and split green chilly and serve hot. </item>
     </array>
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC128">
-        <item>Chicken - 2 lbs (1 kg) (boneless skinless)</item>
+        <item>Chicken - 2 lbs (1 kg)|chicken</item>
         <item>Saffron Strands - a pinch</item>
-        <item>Onion - 1 (finely chopped)</item>
+        <item>Onion - 1 (finely chopped)|onion</item>
         <item>Milk - 1 cup</item>
         <item>Yogurt - 1 cup</item>
         <item>White Pepper Powder -  to taste</item>
-        <item>Salt - to taste</item>
-        <item>Whole Garam Masala - 1 stick cinnamon, 3 cardomom, 3 cloves, 1 star anise</item>
+        <item>Salt - to taste|salt</item>
+        <item>Whole Garam Masala - 1 stick cinnamon, 3 cardomom, 3 cloves, 1 star anise|cinnamoncloves</item>
         <item>Ghee/Butter - 2 tblsp</item>
-        <item>Almonds/Cashews  - for garnishing</item>
+        <item>Almonds/Cashews  - for garnishing|cashew</item>
 
         <item>To grind</item>
-        <item>Ginger - 1 "piece</item>
-        <item>Garlic - 5 cloves</item>
-        <item>Green Chillies - 4</item>
-        <item>Fennel Seeds - 1 tsp</item>
+        <item>Ginger - 1 "piece|ginger</item>
+        <item>Garlic - 5 cloves|garlic</item>
+        <item>Green Chillies - 4|greenchillies</item>
+        <item>Fennel Seeds - 1 tsp|fennelseeds</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC128">
         <item>Make a paste of the ginger, garlic, green chillies and fennel seeds.</item>
@@ -965,7 +944,7 @@
         <item>In the meantime, boil the milk in a seperate saucepan and add the saffron strands to it.</item>
         <item>Add this saffron flavoured milk to the cooked chicken and let it boil.</item>
         <item>Check for seasoning and add more salt and pepper powder if needed .</item>
-        <item>Reduce the flame and let the gravy simmer for 15-20 minutes.</item>
+        <item>Reduce the flame and let the gravy simmer for 15-20 minutes.[ALARM(15)]</item>
         <item>1Garnish with roasted almonds/cashews.</item>
     </array>
 
@@ -974,20 +953,20 @@
         <item>Ingriedients</item>
         <item>Mutton - 500gms</item>
         <item>Ridge gourd pieces - 150 gms</item>
-        <item>Groundnut oil - 2 spoons</item>
-        <item>Turmeric Powder (haldi) - 1/4 spoon</item>
-        <item>Red chilli powder - 1 spoon</item>
-        <item>Salt - to taste</item>
-        <item>Onion paste - 1cup</item>
+        <item>Groundnut oil - 2 spoons|oil</item>
+        <item>Turmeric Powder (haldi) - 1/4 spoon|turmericpowder</item>
+        <item>Red chilli powder - 1 spoon|chillypowder</item>
+        <item>Salt - to taste|salt</item>
+        <item>Onion paste - 1cup|onion</item>
         <item>Cloves and pepper powder - 1 spoon</item>
-        <item>Coconut paste - 1/2 cup</item>
-        <item>Coriander leaves - 1/2 cup</item>
-        <item>Garlic paste - 1 spoon</item>
+        <item>Coconut paste - 1/2 cup|shreddedcoconut</item>
+        <item>Coriander leaves - 1/2 cup|coriander</item>
+        <item>Garlic paste - 1 spoon|garlic</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC129">
         <item>Heat oil in a pan or clay pot. </item>
         <item>Add the onion paste with turmeric powder. Fry until brown.</item>
-        <item>Add the mutton pieces. Mix chilli powder and cook for 20 minutes.</item>
+        <item>Add the mutton pieces. Mix chilli powder and cook for 20 minutes.[ALARM(20)]</item>
         <item>Next add the ridgegourd pieces with clove and pepper powder.</item>
         <item>Finally mix in the coconut paste with salt. Cook for a while.</item>
         <item>Before serving add coriander leaves. This is a tasty dish.</item>
@@ -995,15 +974,15 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC130">
-        <item>Country chicken pieces - 1kg</item>
-        <item>Turmeric Powder (haldi) - 1/2 spoon</item>
+        <item>Country chicken pieces - 1kg|chicken</item>
+        <item>Turmeric Powder (haldi) - 1/2 spoon|turmericpowder</item>
         <item>Chilli powder - 2 spoons</item>
         <item>Garam masala (mixing spices) - 1 spoon</item>
-        <item>Salt - to taste</item>
-        <item>Oil - 3 spoons</item>
-        <item>Onion paste - 1 cup</item>
-        <item>Ginger paste - 2 spoons</item>
-        <item>Tamarind paste - 2 spoons</item>
+        <item>Salt - to taste|salt</item>
+        <item>Oil - 3 spoons|oil</item>
+        <item>Onion paste - 1 cup|onion</item>
+        <item>Ginger paste - 2 spoons|ginger</item>
+        <item>Tamarind paste - 2 spoons|tamarind</item>
         <item>Corriander powder - 1 spoon</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC130">
@@ -1018,27 +997,27 @@
     <array name="INGREDIENT_NVMAINCOURSE_ITC131">
         <item>Mutton - 1 lb (cut into small cubes)</item>
         <item>Potato - 1 big (cut into cubes - optional)</item>
-        <item>Onion - 1 medium (sliced)</item>
-        <item>Tomatoes - 2 (chopped)</item>
-        <item>Turmeric Powder - 1/2 tsp</item>
-        <item>Lemon Juice - 1 tbsp</item>
-        <item>Bay Leaf - 1 Oil - 3-4 tbsp</item>
-        <item>Salt -  to taste</item>
-        <item>Cilantro (Coriander Leaves) - for garnish</item>
-        <item>Curry Leaves - 1 spring</item>
+        <item>Onion - 1 medium (sliced)|onion</item>
+        <item>Tomatoes - 2 (chopped)|tomato</item>
+        <item>Turmeric Powder - 1/2 tsp|turmericpowder</item>
+        <item>Lemon Juice - 1 tbsp|lemonjuice</item>
+        <item>Bay Leaf - 1 Oil - 3-4 tbsp|oil</item>
+        <item>Salt -  to taste|salt</item>
+        <item>Cilantro (Coriander Leaves) - for garnish|coriander</item>
+        <item>Curry Leaves - 1 spring|curryleaves</item>
         <item>Ingredients To Grind</item>
-        <item>Whole Garam Masala - 1 cinnamon stick, 2 cloves, 2 cardamom, 1 star anise, kalpasi - 2</item>
-        <item>Fennel Seeds - 1 tsp</item>
-        <item>Cumin Seeds - 1/2 tsp</item>
+        <item>Whole Garam Masala - 1 cinnamon stick, 2 cloves, 2 cardamom, 1 star anise, kalpasi - 2|cinnamoncloves</item>
+        <item>Fennel Seeds - 1 tsp|fennelseeds</item>
+        <item>Cumin Seeds - 1/2 tsp|cuminseeds</item>
         <item>Black Peppercorns - 1 tsp</item>
         <item>Coriander Seeds - 3 tbsp</item>
-        <item>Dry Red Chillies - 4-5</item>
-        <item>Grated Coconut - 4-5 tbsp</item>
-        <item>Poppy Seeds - 2 tsp</item>
-        <item>Ginger - 1.5" piece</item>
-        <item>Garlic - 5 cloves</item>
-        <item>Green Chillies - 3</item>
-        <item>Curry Leaves - 1 spring</item>
+        <item>Dry Red Chillies - 4-5|drychillies</item>
+        <item>Grated Coconut - 4-5 tbsp|shreddedcoconut</item>
+        <item>Poppy Seeds - 2 tsp|poppyseeds</item>
+        <item>Ginger - 1.5" piece|ginger</item>
+        <item>Garlic - 5 cloves|garlic</item>
+        <item>Green Chillies - 3|greenchillies</item>
+        <item>Curry Leaves - 1 spring|curryleaves</item>
         <item>Shallots (Sambhar Onions) - 10</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC131">
@@ -1056,20 +1035,20 @@
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC132">
         <item>Eggs - 5 (boiled)</item>
-        <item>Onion paste - 1 cup</item>
-        <item>Coconut paste - 1/2 cup</item>
-        <item>Turmeric powder - 1/2 spoon</item>
-        <item>Tamarind paste - 2 spoon</item>
-        <item>Red chlli paste - 2 spoons</item>
-        <item>Salt - to taste</item>
-        <item>Groundnut oil - 2 spoons</item>
+        <item>Onion paste - 1 cup|onion</item>
+        <item>Coconut paste - 1/2 cup|shreddedcoconut</item>
+        <item>Turmeric powder - 1/2 spoon|turmericpowder</item>
+        <item>Tamarind paste - 2 spoon|tamarind</item>
+        <item>Red chlli paste - 2 spoons|chillypowder</item>
+        <item>Salt - to taste|salt</item>
+        <item>Groundnut oil - 2 spoons|oil</item>
         <item>Garam masala - 1/2 spoon</item>
-        <item>Coriander leaves - 1/2 cup</item>
+        <item>Coriander leaves - 1/2 cup|coriander</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC132">
         <item>Heat oil in a clay pot. If it is prepared in clay pot, it will be tasty.</item>
         <item>Fry the onion paste until brown.</item>
-        <item>Add the coconut paste. Cook for 5 minutes.</item>
+        <item>Add the coconut paste. Cook for 5 minutes.[ALARM(5)]</item>
         <item>Mix the tamarind paste and chilli paste in it. If you need to add water, you may add 1 cup of water.</item>
         <item>Add the boiled eggs in it.</item>
         <item>Finally add garam masala, coriander levaes and salt.</item>
@@ -1077,26 +1056,26 @@
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC133">
-        <item>Chicken - 1 kg (cut into small pieces)</item>
-        <item>Dry red chillies - 8-10</item>
-        <item>Carom Seeds (Ajwain) - 1/2 tsp</item>
-        <item>Onion - 3 (chopped)</item>
-        <item>Ginger garlic paste - 2 tblsp</item>
-        <item>Tomatoes - 3-4 (pureed)</item>
-        <item>Green Chillies - 5-7 (You could use bell peppers or jalapenos instead.)</item>
-        <item>Turmeric Powder - 1/2 tsp</item>
-        <item>Red Chilly Powder - 1 tsp</item>
+        <item>Chicken - 1 kg|chicken</item>
+        <item>Dry red chillies - 8-10|drychillies</item>
+        <item>Carom Seeds (Ajwain) - 1/2 tsp|caromseeds</item>
+        <item>Onion - 3 (chopped)|onion</item>
+        <item>Ginger garlic paste - 2 tblsp|gingergarlic</item>
+        <item>Tomatoes - 3-4 (pureed)|tomato</item>
+        <item>Green Chillies - 5-7|greenchillies</item>
+        <item>Turmeric Powder - 1/2 tsp|turmericpowder</item>
+        <item>Red Chilly Powder - 1 tsp|chillypowder</item>
         <item>Yogurt - 1/2 cup (use more if needed)</item>
-        <item>Lemon Juice - 2 tblsp</item>
-        <item>Salt - to taste</item>
-        <item>Pickle with it oil - 2-3 tblsp (I use mango pickle or garlic pickle)</item>
-        <item>Cilantro - handful</item>
-        <item>Mustard Oil - 2-3 tblsp</item>
-        <item>Mustard seeds (Rai) - 1 tsp</item>
-        <item>Onion seeds (Kalonji) - 1 tsp</item>
-        <item>Fenugreek seeds (Methi dana) - 1 tsp</item>
-        <item>Cumin seeds (Jeera) - 1 tsp</item>
-        <item>Fennel seeds (Saunf) - 1 tsp</item>
+        <item>Lemon Juice - 2 tblsp|lemonjuice</item>
+        <item>Salt - to taste|salt</item>
+        <item>Pickle with it oil - 2-3 tblsp (I use mango pickle or garlic pickle)|oil</item>
+        <item>Cilantro - handful|coriander</item>
+        <item>Mustard Oil - 2-3 tblsp|oil</item>
+        <item>Mustard seeds (Rai) - 1 tsp|mustardseeds</item>
+        <item>Onion seeds (Kalonji) - 1 tsp|onionseeds</item>
+        <item>Fenugreek seeds (Methi dana) - 1 tsp|fenugreek</item>
+        <item>Cumin seeds (Jeera) - 1 tsp|cuminseeds</item>
+        <item>Fennel seeds (Saunf) - 1 tsp|fennelseeds</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC133">
         <item>Wash the chicken pieces nicely. Add some salt, lemon juice and slit green chillies to the chicken. Let this marinate while we get the other things ready. </item>
@@ -1108,27 +1087,27 @@
         <item>Add the chicken pieces and saute till the masala coats the chicken and the outside of the chicken is cooked.</item>
         <item>   Tips : - You can use any brand of pickle of your choice - home made or store bought. This is not part of the traditional recipe but adding the pickle takes the dish to a whole new level.</item>
         <item>            - If you want some gravy, add the yogurt at this stage. If you like it dry, scale down and add less curd or skip it all together.</item>
-        <item>Cover and reduce the flame. Let the chicken cook in its own juices for 15-20 minutes. Splash some water only if the chicken sticks to the bottom of the pan.</item>
+        <item>Cover and reduce the flame. Let the chicken cook in its own juices for 15-20 minutes.[ALARM(15)] Splash some water only if the chicken sticks to the bottom of the pan.</item>
         <item>Check for seasoning. Adjust salt, chilly powder and lemon juice according to your taste.</item>
         <item>Garnish with cilantro and switch off. Serve with any roti or white rice.</item>
     </array>
 
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC134">
-        <item>Chicken - 1 kg (cut into medium size pieces)</item>
-        <item>Onion - 6 (sliced thinly)</item>
-        <item>Ginger - 2" piece (crushed)</item>
-        <item>Garlic - 1 bulb (crushed)</item>
-        <item>Mustard seeds - 1/2 tsp</item>
-        <item>Fenugreek seeds - 1/8 tsp</item>
-        <item>Red chili Powder - 2 tbsp</item>
-        <item>Coriander Powder - 2 tbsp</item>
-        <item>Turmeric Powder - 1/2 tsp</item>
-        <item>Crushed Whole Spices - 1" cinnamon, 2 cloves, 2 cardamom, 1 tsp Fennel seeds, 1/2 tsp Peppercorns (or use store bought chicken masala powder)</item>
-        <item>Curry Leaves - 2 sprigs</item>
-        <item>Coconut pieces - 2-3 tbsp</item>
-        <item>Coconut oil - 3 tbsp</item>
-        <item>Salt - as needed</item>
+        <item>Chicken - 1 kg|chicken</item>
+        <item>Onion - 6 (sliced thinly)|onion</item>
+        <item>Ginger - 2" piece (crushed)|ginger</item>
+        <item>Garlic - 1 bulb (crushed)|garlic</item>
+        <item>Mustard seeds - 1/2 tsp|mustardseeds</item>
+        <item>Fenugreek seeds - 1/8 tsp|fenugreek</item>
+        <item>Red chili Powder - 2 tbsp|chillypowder</item>
+        <item>Coriander Powder - 2 tbsp|corianderseeds</item>
+        <item>Turmeric Powder - 1/2 tsp|turmericpowder</item>
+        <item>Crushed Whole Spices - 1" cinnamon, 2 cloves, 2 cardamom, 1 tsp Fennel seeds, 1/2 tsp Peppercorns (or use store bought chicken masala powder)|cinnamoncloves</item>
+        <item>Curry Leaves - 2 strands|curryleaves</item>
+        <item>Coconut pieces - 2-3 tbsp|shreddedcoconut</item>
+        <item>Coconut oil - 3 tbsp|oil</item>
+        <item>Salt - as needed|salt</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC134">
         <item>Heat the oil in a heavy bottomed pan and crackle the mustard seeds.</item>
@@ -1136,41 +1115,38 @@
         <item>Add the ginger, garlic, curry leaves and crushed whole spices. (Reserve a pinch to add at the end.)</item>
         <item>Cook for about half a minute.</item>
         <item>Add the sliced onions and saute. Add some salt to speed up the process.</item>
-        <item>Saute on medium heat for 10-15 minutes till it become golden brown and pasty.</item>
+        <item>Saute on medium heat for 10-15 minutes[ALARM(10)] till it become golden brown and pasty.</item>
         <item>Add the salt, turmeric powder, coriander powder and chili powder. Mix together and fry for few seconds to awaken the aroma of the spices.</item>
         <item>Add the chicken pieces and toss to coat with the spices.</item>
-        <item>Cover and let it cook in its own juices for about 5 minutes.</item>
-        <item>Add required amount of  water. Cover and cook on medium heat for about 10 minutes.</item>
-        <item>Add the coconut bits at this stage. Reduce the heat and cook covered for another 10 minutes till oil separates from the gravy.</item>
+        <item>Cover and let it cook in its own juices for about 5 minutes.[ALARM(5)]</item>
+        <item>Add required amount of  water. Cover and cook on medium heat for about 10 minutes.[ALARM(10)]</item>
+        <item>Add the coconut bits at this stage. Reduce the heat and cook covered for another 10 minutes[ALARM(10)] till oil separates from the gravy.</item>
         <item>Finally add a pinch of the crushed spices and some fresh curry leaves.</item>
         <item>Switch off and keep covered till you are ready to serve.</item>
     </array>
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC135">
-        <item>Chicken – 1 kg (cleaned and cut into medium size pieces)</item>
-        <item>Cashews - 5-7 (soaked in water)</item>
-        <item>Thick  (First) coconut milk - 1/2 cup</item>
-        <item>Thin (Second) coconut milk - 1.5 cup</item>
-        <item>Salt - to taste</item>
-        <item>Coconut oil - 2 tbsp</item>
-        <item>To fry and grind</item>
-        <item>Coconut oil - 2 tbsp</item>
-        <item>Onion – 3 medium (roughly chopped)</item>
-        <item>Ginger - 2" piece (roughly chopped)</item>
-        <item>Garlic – 1 bulb (roughly chopped)</item>
-        <item>Tomato - 2 small (roughly chopped)</item>
-        <item>Turmeric powder – 1/4 tsp</item>
-        <item>Chili powder – 2 tsp</item>
-        <item>Coriander powder – 2 tsp</item>
+        <item>Chicken – 1 kg|chicken</item>
+        <item>Cashews - 5-7 (soaked in water)|cashew</item>
+        <item>Thick  (First) coconut milk - 1/2 cup|shreddedcoconut</item>
+        <item>Thin (Second) coconut milk - 1.5 cup|shreddedcoconut</item>
+        <item>Salt - to taste|salt</item>
+        <item>Coconut oil - 2 tbsp|oil</item>
+        <item>Onion – 3 medium (roughly chopped)|onion</item>
+        <item>Ginger - 2" piece (roughly chopped)|ginger</item>
+        <item>Garlic – 1 bulb (roughly chopped)|garlic</item>
+        <item>Tomato - 2 small (roughly chopped)|tomato</item>
+        <item>Turmeric powder – 1/4 tsp|turmericpowder</item>
+        <item>Chili powder – 2 tsp|chillypowder</item>
+        <item>Coriander powder – 2 tsp|corianderseeds</item>
         <item>Garam masala – 1/2 tsp</item>
-        <item>Fennel seeds – 1 tsp</item>
-        <item>Pepper powder – 1/2 tsp</item>
-        <item>To Temper</item>
-        <item>Coconut oil - 1 tbsp</item>
-        <item>Mustard seeds – ½ tsp</item>
-        <item>Pearl (Sambhar) onions – 5 or 1/4 big onion (sliced)</item>
-        <item>Dry Red chilies - 3</item>
-        <item>Curry leaves - 1 sprig</item>
+        <item>Fennel seeds – 1 tsp|fennelseeds</item>
+        <item>Pepper powder – 1/2 tsp|pepper</item>
+        <item>Coconut oil - 1 tbsp|oil</item>
+        <item>Mustard seeds – ½ tsp|mustardseeds</item>
+        <item>Pearl (Sambhar) onions – 5 or 1/4 big onion (sliced)|smallonions</item>
+        <item>Dry Red chilies - 3|chillypowder</item>
+        <item>Curry leaves - 1 strand|curryleaves</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC135">
         <item>Heat oil in a heavy bottomed pan. Add the fennel seeds, garlic and ginger.</item>
@@ -1178,11 +1154,11 @@
         <item>Add the tomato pieces, turmeric powder, red chili powder, coriander powder and pepper powder.</item>
         <item>Cook for few minutes and switch off.</item>
         <item>After it cools a bit grind it to a smooth paste with little water. Keep it ready.</item>
-        <item>In the same pan, add some oil. Add the chicken pieces and saute for 3-4 minutes.</item>
+        <item>In the same pan, add some oil. Add the chicken pieces and saute for 3-4 minutes.[ALARM(4)]</item>
         <item>Add the ground masala, required salt and the thin coconut milk.</item>
-        <item>Cover and cook for 10-12 minutes or till the chicken is completely cooked.</item>
+        <item>Cover and cook for 10-12 minutes[ALARM(10)] or till the chicken is completely cooked.</item>
         <item>In the meantime, grind the soaked cashews along with the thick coconut milk.</item>
-        <item>Add this smooth paste to the gravy. Reduce the heat and let it simmer for another 5-7 minutes. By now the gravy will get thicker and creamier. Switch off,</item>
+        <item>Add this smooth paste to the gravy. Reduce the heat and let it simmer for another 5-7 minutes.[ALARM(5)] By now the gravy will get thicker and creamier. Switch off,</item>
         <item>Transfer the curry to a serving dish.</item>
         <item>Heat oil in a small pan for tempering. Pop the mustard seeds.</item>
         <item>Add the sliced onions and fry till it turns golden brown.</item>
@@ -1193,26 +1169,26 @@
 
     <array name="INGREDIENT_NVMAINCOURSE_ITC136">
         <item>Eggs - 4</item>
-        <item>Onion - 3 (chopped or sliced)</item>
-        <item>Tomatoes - 3 (chopped or sliced)</item>
-        <item>Ginger garlic paste - 1 tsp</item>
-        <item>Green Chilies - 2</item>
-        <item>Turmeric Powder - 1/4 tsp</item>
-        <item>Red Chili Powder - 2 tsp</item>
-        <item>Coriander Powder - 1 tbsp</item>
-        <item>Black Pepper Powder - 1/2 tsp</item>
+        <item>Onion - 3 (chopped or sliced)|onion</item>
+        <item>Tomatoes - 3 (chopped or sliced)|tomato</item>
+        <item>Ginger garlic paste - 1 tsp|gingergarlic</item>
+        <item>Green Chillies - 2|greenchillies</item>
+        <item>Turmeric Powder - 1/4 tsp|turmericpowder</item>
+        <item>Red Chili Powder - 2 tsp|chillypowder</item>
+        <item>Coriander Powder - 1 tbsp|corianderseeds</item>
+        <item>Black Pepper Powder - 1/2 tsp|pepper</item>
         <item>Garam Masala Powder - a pinch</item>
-        <item>Salt - to taste</item>
-        <item>Oil - 2 tbsp</item>
-        <item>Mustard Seeds - 1 tsp</item>
-        <item>Curry Leaves - few</item>
-        <item>Cilantro - handful (finely chopped)</item>
+        <item>Salt - to taste|salt</item>
+        <item>Oil - 2 tbsp|oil</item>
+        <item>Mustard Seeds - 1 tsp|mustardseeds</item>
+        <item>Curry Leaves|curryleaves</item>
+        <item>Cilantro - handful (finely chopped)|coriander</item>
     </array>
     <array name="DIRECTIONS_NVMAINCOURSE_ITC136">
-        <item>Take the eggs in a saucepan, add water to cover the eggs and bring to a boil. Reduce the flame and simmer for 5 minutes. Cover and leave it for 10 minutes. Drain the hot water and add cold water to the pan. After about 5 minutes, peel the eggs to get the perfect hard boiled eggs.</item>
+        <item>Take the eggs in a saucepan, add water to cover the eggs and bring to a boil. Reduce the flame and simmer for 5 minutes.[ALARM(5)] Cover and leave it for 10 minutes. Drain the hot water and add cold water to the pan. After about 5 minutes, peel the eggs to get the perfect hard boiled eggs.</item>
         <item>Chop the onions and tomatoes finely or slice them thinly and keep it ready.</item>
         <item>Heat oil in a pan, crackle the mustard seeds and curry leaves.</item>
-        <item>Add the chopped onions and saute for 3-4 minutes. Add the green chilies and ginger-garlic paste.</item>
+        <item>Add the chopped onions and saute for 3-4 minutes.[ALARM(4)] Add the green chilies and ginger-garlic paste.</item>
         <item>After about a minute, add the tomatoes, cover and cook for couple of minutes.</item>
         <item>Add the salt, turmeric powder, chili powder and coriander powder. Add about 1/2 cup of water (or coconut milk) and cook till oil separates from the masala.</item>
         <item>Make 3 or 4 slits in the eggs or cut it into halves. Add these to the curry.</item>

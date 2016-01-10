@@ -10,18 +10,19 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
         <!-- 72 + 56 + 4-->
-        <ScrollView
+        <!--<ScrollView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="#b3eeeeee"
             android:layout_marginTop="60dp"
             android:overScrollMode="never"
             android:focusableInTouchMode="true"
-            android:scrollbars="none">
+            android:scrollbars="none">-->
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@color/button_material_light"
+                android:layout_marginTop="60dp"
                 android:orientation="vertical">
 
                 <LinearLayout
@@ -35,7 +36,18 @@
                         android:layout_height="wrap_content"
                         android:gravity="start|top"
                         android:background="@color/button_material_light"/>-->
-                    <com.krish.indiancook.views.ExpandableGridView
+                    <com.twotoasters.jazzylistview.JazzyGridView
+                        android:id="@+id/itemsgridview"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:divider="@null"
+                        android:numColumns="3"
+                        android:stretchMode="columnWidth"
+                        android:verticalSpacing="8dp"
+                        android:scrollbars="none"
+                        app:effect="grow"
+                        app:only_animate_new_items="false" />
+                    <!--<com.krish.indiancook.views.ExpandableGridView
                         android:id="@+id/itemsgridview"
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
@@ -45,10 +57,10 @@
                         android:numColumns="3"
                         android:stretchMode="columnWidth"
                         android:gravity="center"
-                        />
+                        />-->
                 </LinearLayout>
             </LinearLayout>
-        </ScrollView>
+        <!--</ScrollView>-->
         <include
             android:id="@+id/toolbarlayout"
             layout="@layout/toolbarwithsearchgreen"

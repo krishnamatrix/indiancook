@@ -11,11 +11,11 @@
         <item
             android:id="@+id/shoppingcart"
             android:checked="false"
-            android:title="Shopping Card" />
+            android:title="Shopping Cart" />
         <item
-            android:id="@+id/healthtips"
+            android:id="@+id/cookingtips"
             android:checked="false"
-            android:title="Health Tips"/>
+            android:title="Cooking Tips"/>
         <item
             android:id="@+id/filter"
             android:checked="false"

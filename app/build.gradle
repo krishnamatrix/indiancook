@@ -26,4 +26,6 @@ dependencies {
     compile 'com.android.support:design:22.2.0'
     compile 'com.quinny898.library.persistentsearch:library:1.1.0-SNAPSHOT'
     compile 'org.apache.commons:commons-collections4:4.0'
+    compile 'com.twotoasters.jazzylistview:library:1.2.1'
+    compile 'com.twotoasters.jazzylistview:library-recyclerview:1.2.1'
 }

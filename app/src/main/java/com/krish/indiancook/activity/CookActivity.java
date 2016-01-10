@@ -149,10 +149,8 @@ public class CookActivity extends AppCompatActivity {
                         intent.putExtra("categoryname", "Favorites");
                         act.startActivity(intent);
                         return true;
-                    case R.id.healthtips:
-                        intent.setClass(act, DisplayListActivity.class);
-                        intent.putExtra("category", "FAVORITES");
-                        intent.putExtra("categoryname", "Favorites");
+                    case R.id.cookingtips:
+                        intent.setClass(act, CookingTipsActivity.class);
                         act.startActivity(intent);
                         return true;
                     case R.id.filter:

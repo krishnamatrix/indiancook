@@ -350,4 +350,677 @@
         <item>sabudana ladoo are ready to be served.</item>
         <item>you can also store sabudana ladoos in an air tight container in the fridge for a week.</item>
     </array>
+
+
+
+    <array name="INGREDIENT_SW_ITC111">
+        <item>Raw Banana - 1  (boiled and mashed)</item>
+        <item>Jaggery - 1 cup</item>
+        <item>Coconut milk (second milk) - 3 cups</item>
+        <item>Thick Ccconut milk (first milk) - 1 cup</item>
+        <item>Ghee - 4 tbsp</item>
+    </array>
+    <array name="DIRECTIONS_SW_ITC111">
+        <item>First add 1/2 cup water in the jaggery, melt it and strain impurities, if any.</item>
+        <item>In a pan add 3 tbsp of ghee and when it becomes hot, add the banana  and saute for 5-6 minutes.</item>
+        <item>Add the jaggery and boil the same or 5 minutes.  </item>
+        <item>Add the second milk and boil  till it becomes a thick consistency. </item>
+        <item>When it is done, remove from the gas and add the first milk.  Tip : When it cools down, the payasam/kheer is likely to become thick. You can also add crushed cardamom at this stage.</item>
+        <item>In a pan add the remaining 1 tbsp ghee, fry the coconut bits in it till brown and pour over the payasam.  </item>
+    </array>
+
+
+    <array name="INGREDIENT_SW_ITC112">
+        <item>Cucumber pieces (Vallarikka, Kakdi) - about 2 cups</item>
+        <item>Sago (Javarisi, Sabushana, Chowwary) - 1/4 cup</item>
+        <item>Sweetened Condensed Milk - 1/4 cup</item>
+        <item>Water - 2 cups</item>
+        <item>Milk - 1 cup</item>
+        <item>Sugar - 1/4 cup (or to taste)</item>
+        <item>Cardamom Powder - 1 tsp</item>
+        <item>Ghee - 2-3 tbsp</item>
+        <item>Cashews - 2-3 tbsp (or use other nuts like pistachios, chiroli or almonds)</item>
+        <item>Raisins - 2 tbsp (optional)</item>
+    </array>
+    <array name="DIRECTIONS_SW_ITC112">
+        <item>Soak the sago in water for about half an hour.</item>
+        <item>In the mean while, chop the cucumber into thin pieces.</item>
+        <item>Take the soaked sago in a heavy bottomed pan. Fill it with sufficient water and cook it.</item>
+        <item>When it is half cooked add the cucumber pieces and continue to cook till both the sago and cucumber pieces become soft.</item>
+        <item>Now add the sugar and let it melt. Next add the condensed milk and milk.</item>
+        <item>Simmer it for about 5 minutes or till you are satisfied with the consistency.</item>
+        <item>Add the cardamom powder and switch off.</item>
+        <item>Heat the ghee in another pan and fry the nuts and raisins. Add it to the payasam and cover with a lid until you are ready to serve.</item>
+    </array>
+
+
+
+    <array name="INGREDIENT_SW_ITC113">
+        <item>Chopped tender coconut flesh - 1 cup</item>
+        <item>Milk - 1 cup</item>
+        <item>Sugar - 1/2 cup</item>
+        <item>Rice powder - 2 tblsp</item>
+        <item>Cardamom powder - 2 pinches</item>
+        <item>Saffron - few strands</item>
+        <item>Water - 1 cup</item>
+        <item>Dry fruits and nuts - for garnishing</item>
+
+    </array>
+    <array name="DIRECTIONS_SW_ITC113">
+        <item>1. Take a bowl and mix the rice powder with water until there are no lumps.</item>
+        <item>2. Take a thick bottomed vessel or kadai and pour this mixture in it.</item>
+        <item>3. Switch on and heat while stirring continuously. </item>
+        <item>4. When it comes to boil, add the tender coconut, milk, sugar and saffron strands.</item>
+        <item>5. Keep stirring till the mixture becomes thick.</item>
+        <item>6. Add the cardamom powder and remove from the vessel. Pour into serving bowls.</item>
+        <item>7. Garnish with dry fruits and cool it. Serve chilled.</item>
+    </array>
+
+
+
+    <array name="INGREDIENT_SW_ITC114">
+        <item>Chena Kilangu (Yam) - 1 kg</item>
+        <item>Jaggery - 1/2 - 3/4 kg (depending on your sweet preference.)</item>
+        <item>Sago (Chowwary/Javarisi/Sabudhana) - 150 gm</item>
+        <item>Coconut Milk - 1/2 litre</item>
+        <item>Raisins - 50 gm</item>
+        <item>Cashew - 50 gm</item>
+        <item>Cardamom - 5 pods (crushed)</item>
+        <item>Ghee - 50 gms</item>
+
+    </array>
+    <array name="DIRECTIONS_SW_ITC114">
+        <item>1. Wash the yam thoroughly to remove all dirt, peel the skin and chop it into small pieces.</item>
+        <item>2. Boil the yam pieces in sufficient water.</item>
+        <item>3. Grind it to a smooth paste using a mixie. You can grind it coarsely if you like to have some texture.</item>
+        <item>4. Melt the jaggery in little water and strain it to remove any impurities.</item>
+        <item>5. Soak the sago for half an hour, boil it till it becomes transparent and keep aside.</item>
+        <item>6. Take a heavy bottomed pan. Add the jaggery syrup, boiled sago and yam paste to this.</item>
+        <item>7. Add the coconut milk and boil the mixture. Add more water or coconut milk and boil to bring it to your desired consistency.</item>
+        <item>8. Add the crushed cardamom pods.</item>
+        <item>9. Heat ghee and roast the cahsews and raisins in a small pan. Add it to the payasam.</item>
+        <item>10. Switch off and cover it. Let it rest for a few minutes before serving.</item>
+    </array>
+
+
+
+    <array name="INGREDIENT_SW_ITC115">
+        <item>Pineapple - 2 cups crushed (You can use 1/2 of one big pineapple cut into small pieces or a 14 oz can of crushed pineapple)</item>
+        <item>Thick Coconut Milk - 1 cup</item>
+        <item>Thin Coconut Milk - 2 cups</item>
+        <item>Sugar - 1/2 - 3/4 cup (Use according to your taste and according to how sweet the pineapple is)</item>
+        <item>Cardamom Powder - 1/4 tsp</item>
+        <item>Ghee - 2 tblsp</item>
+        <item>Cashew nuts/ Almonds - 10-15</item>
+        <item>Sago - 1/2 cup</item>
+        <item>Corn flour - 1 tblsp</item>
+        <item>Yellow food colour (or kesari powder) - 2 drops</item>
+    </array>
+    <array name="DIRECTIONS_SW_ITC115">
+        <item>1. Crush the pineapple using the pulse mode of the mixer. Do not grind it to a smooth paste. We need some texture in the kheer. I even prefer to add a few pieces of chopped pineapple pieces in the payasam.</item>
+        <item>2. Soak the sago for half an hour. </item>
+        <item>3. Take the soaked sago in a heavy bottomed pot and cook it with enough water till it turns transparent.</item>
+        <item>4. Add the crushed pineapple and sugar to this.</item>
+        <item>5. Cook for about 10 minutes till the sugar melts and the pineapple is cooked.</item>
+        <item>6. Next add the thin coconut milk and bring it to a boil. Add food colour if your prefer to have a mild yellow colour. </item>
+        <item>7. If you want to thicken the payasam a little more, take 1 tblsp of corn flour, make a paste with some cold water and add it to the payasam. </item>
+        <item>8. Add the thick coconut milk and cardamom powder. Simmer for a few minutes.</item>
+        <item>9. Heat ghee in another small pan and fry the nuts. Mix it with the payasam and switch off. Reserve some nuts for garnishing. </item>
+    </array>
+
+
+
+    <array name="INGREDIENT_SW_ITC116">
+        <item>1 cup grated water melon (white portion of the water melon)</item>
+        <item>2 tblsp milk powder</item>
+        <item>2 cups milk</item>
+        <item>½ cup sugar</item>
+        <item>1 tblsp ghee</item>
+        <item>Few strands of saffron soaked in hot milk</item>
+        <item>Cardamom powder</item>
+        <item>Dry fruits for garnishing </item>
+
+    </array>
+    <array name="DIRECTIONS_SW_ITC116">
+        <item>1. In a kadai, put ghee. When it becomes hot, add the grated water melon and sauté for few minutes.  </item>
+        <item>2. Add the sugar, milk and cook the water melon. </item>
+        <item>3. When it becomes soft, add the milk powder mixed in little water/milk and bring to boil.</item>
+        <item>4. Add the cardomom powder and switch off the gas. Garnish with dry fruits.  Serve chilled.</item>
+    </array>
+
+
+
+    <array name="INGREDIENT_SW_ITC117">
+        <item>1 big Ripe guava</item>
+        <item>1 cup Milk</item>
+        <item>1 cup Sugar</item>
+        <item>Cardamom (elaichi) powder</item>
+        <item>Dry fruits for garnishing</item>
+    </array>
+    <array name="DIRECTIONS_SW_ITC117">
+        <item>1. Pressure cook the guava. Remove the seeds. Sieve it through a strainer.</item>
+        <item>2. Add sugar and milk to the pulp and bring to a boil.  </item>
+        <item>3. After the sugar is dissolved, add cardamom powder and garnish with roasted dry fruits.</item>
+    </array>
+
+
+    <array name="INGREDIENT_SW_ITC118">
+        <item>1/4 cup Rice </item>
+        <item>3/4 cup Jaggery</item>
+        <item>1/4 cup Ghee</item>
+        <item>Cardamom powder</item>
+        <item>Few cashews</item>
+        <item>Raisins and Kadhi sakar (cubes)</item>
+    </array>
+    <array name="DIRECTIONS_SW_ITC118">
+        <item>1. Pressure cook the rice till it is soft.</item>
+        <item>2. Melt the jaggery, remove impurities.</item>
+        <item>3. Add the rice to it and cook the same.</item>
+        <item>4. Add ghee and cook the same till it forms a thick consistency.</item>
+        <item>5. Add cardamom powder and mix well.</item>
+        <item>6. Garnish with fried cashews, raisins and kadhi sakar.</item>
+    </array>
+
+
+    <array name="INGREDIENT_SW_ITC119">
+        <item>1/4 cup Moong dal</item>
+        <item>1 tblsp Channa dal</item>
+        <item>1 big Coconut  (grate the same and keep aside) </item>
+        <item>3/4 cup Jaggery</item>
+        <item>Sliced coconut bits</item>
+        <item>4-5 Cashewnuts</item>
+        <item>Cardamom powder</item>
+        <item>1 tblsp Ghee</item>
+        <item>1 Velchi banana</item>
+    </array>
+    <array name="DIRECTIONS_SW_ITC119">
+        <item>1. Add 1 cup water to the grated coconut, pulse it in the mixer for 3-4 seconds. Extract the 1st coconut milk, keep aside. </item>
+        <item>2. Add 2 cups of water to it  and pulse the mixer for 4-5 seconds and extract the second milk. Keep it aside. Your first and second coconut milk is ready.</item>
+        <item>3. Dry roast the moong dal and channa dal separately till it becomes golden brown (do not burn). Soak them in water for 5 minutes. </item>
+        <item>4. Wash and add 2 cups of water and pressure cook the same for one whistle.</item>
+        <item>5. Remove from the cooker, add the second milk and boil for 10 minutes.</item>
+        <item>6. Melt the jaggery with little water, remove the impurities, if any and add to the boiling mixture.</item>
+        <item>7. When it is blended nicely, boil for another 10  minutes.</item>
+        <item>8. Add the first coconut milk , cardamom powder and remove from gas. After adding first coconut milk, do not boil.</item>
+        <item>9. Garnish with cashew and coconut bits fried in ghee. </item>
+        <item>10. Serve hot or cold as you wish with Velchi Banana pieces.</item>
+        <item>Please note that over a period of time, the kheer will thicken.</item>
+    </array>
+
+
+
+
+    <array name="INGREDIENT_SW_ITC120">
+        <item>Mango pulp  - 1 cup</item>
+        <item>Sugar/sugar free - 4 tsp</item>
+        <item>Jaggery - 1/2 cup (sugar free people avoid this and add more sugar free)</item>
+        <item>Saffron strands - few</item>
+        <item>Coconut milk - 1 cup (first milk only if you are using fresh coconut)</item>
+        <item>Cardamom powder</item>
+        <item>Bits of coconut 1 tsp</item>
+        <item>Ghee - 1 tsp</item>
+
+    </array>
+    <array name="DIRECTIONS_SW_ITC120">
+        <item>1. In a kadai, add the jaggery with little water and melt the same. Remove the impurities.</item>
+        <item>2. Add the mango pulp, sugar, saffron strands to this and cook for 5 minutes.</item>
+        <item>3. Switch off the gas, add the coconut milk, cardomom powder and stir well.</item>
+        <item>4. Garnish with coconut bits fried in ghee.</item>
+    </array>
+
+    <array name="INGREDIENT_SW_ITC121">
+        <item>Oats (Rolled/Quick) - 1 cup</item>
+        <item>Cinnamon powder- 1/4 tsp</item>
+        <item>Nutmeg powder -1/4 tsp</item>
+        <item>Sugar - 2 tblsp</item>
+        <item>Milk - 1/4 cup</item>
+        <item>Apple - 1 (chopped into small pieces/grated)</item>
+        <item>Water - 1 cup  </item>
+    </array>
+    <array name="DIRECTIONS_SW_ITC121">
+        <item>Bring the water to a boil with the apple pieces in it.</item>
+        <item>Add the cinnamon powder, nutmeg powder, sugar and the oats and let it simmer for 5 minutes till it becomes nice and creamy.</item>
+        <item>Add the milk and cook for another minute stirring continuously. Add more water if needed.</item>
+    </array>
+
+
+
+
+    <array name="INGREDIENT_SW_ITC122">
+        <item>Whole milk - 1 litre</item>
+        <item>Rice - 1/2 cup</item>
+        <item>Sugar - 1/2 cup</item>
+        <item>Saffron - a pinch</item>
+        <item>Green cardamom powder - 1/2 tsp </item>
+        <item>Raisins - 15-20 </item>
+        <item>Orange juice - 2 tbsp </item>
+        <item>mixed nuts - for decorating</item>
+
+    </array>
+    <array name="DIRECTIONS_SW_ITC122">
+        <item>1. Soak rice in water for a couple of hours, drain and grind course. Spread it on a cotton sheet to dry up.</item>
+        <item>2. Let it dry well making sure no lumps are left behind. </item>
+        <item>3. Soak saffron in 1 tbsp milk and raisins in orange juice.</item>
+        <item>4. In a heavy bottomed pan bring milk to a boil. Add sugar and rice.</item>
+        <item>5. Let this mixture thicken. Then add saffron, cardamom powder. </item>
+        <item>6. Spread raisins over the base of a dish and pour phirni over it. </item>
+        <item>7. Refrigerate this and serve chill. Decorate with sliced mixed nuts like almonds/pistachios before serving.</item>
+    </array>
+
+
+    <array name="INGREDIENT_SW_ITC123">
+        <item>Small shell Pasta (or) Macaroni Pasta -1Cup</item>
+        <item>Water - 1 1/2 Cup</item>
+        <item>Milk - 2 Cups (Whole Milk)</item>
+        <item>Sugar - 1/2 Cup</item>
+        <item>Kesari powder - 1 pinch</item>
+        <item>Raisins - 10 nos</item>
+        <item>Cashew nuts or Almonds - 10 nos(Sliced)</item>
+        <item>Ghee/Oil - 2 tblsp</item>
+
+    </array>
+    <array name="DIRECTIONS_SW_ITC123">
+        <item>1.Heat water in a deep vessel and add the shell pasta or macaroni pasta.</item>
+        <item>2.To avoid sticking keep stirring once in a while.</item>
+        <item>2.When pasta is half cooked, add the milk and bring it to boil and keep stirring it .</item>
+        <item>3.Keep the stove in simmer and add sugar and kesari powder.</item>
+        <item>4.When a thick consistency of payasam is reached switch off the stove</item>
+        <item>5.Fry the raisins and nuts in Ghee and add to the above mixture.</item>
+        <item>6.Serve hot or keep in refrigerator and serve.</item>
+    </array>
+
+
+
+    <array name="INGREDIENT_SW_ITC124">
+        <item>Freah Corn - 4</item>
+        <item>Yellow Cornmeal - 2 tblsp</item>
+        <item>Heavy Cream - 1 cup</item>
+        <item>Milk - 1 cup (or as needed)</item>
+        <item>Sugar - 2 tblsp (or as needed)</item>
+        <item>Salt - a pinch</item>
+        <item>Turmeric Powder - a pinch</item>
+        <item>Butter/Ghee - 1 tblsp</item>
+        <item>Rosemary - 1 spring (You could also use a couple of cadomom pods instead)</item>
+
+    </array>
+    <array name="DIRECTIONS_SW_ITC124">
+        <item>1. Place the corn cob in the center of a wide vessel in standing position and remove the kernels using a sharp knife. The wide vessel will prevent the kernels from splattering all over the place.</item>
+        <item>2. Scrape off all the remaining itsy bitsy pieces out of the cob.</item>
+        <item>3. Melt the butter in a deep saucepan.</item>
+        <item>4. Add the corn kernels and the scrapes to the butter and saute for 2 minutes.</item>
+        <item>5. Add the rosemary, sugar, turmeric powder, cornmeal to this and saute for another 2 minutes.</item>
+        <item>6. Add the milk to the corn and let it cook till the corn get soft.</item>
+        <item>7. Add the heavy cream and continue to cook. Add more milk or sugar if needed.</item>
+        <item>8. Switch off when you get a nice creamy payasam(kheer) like consistency.</item>
+        <item>9. You could fry some cashews and raisins in some ghee and add to the payasam.</item>
+    </array>
+
+
+    <array name="INGREDIENT_SW_ITC125">
+        <item>Vermicelli (Seviyan, Semiya) – 1 cup</item>
+        <item>Milk /Water – 2 cups</item>
+        <item>Sugar – ½  cup (add more if needed)</item>
+        <item>Ghee – 2=3 tbsp</item>
+        <item>Cardamom – 2 (crushed)</item>
+        <item>Saffron – few strands</item>
+        <item>Chopped nuts (Cashew, Almonds, Raisins, Pitacios) – 2 tbsp</item>
+        <item>Orange food color – 2 drops or 2 pinches</item>
+        <item>Salt – 1 pinch</item>
+    </array>
+    <array name="DIRECTIONS_SW_ITC125">
+        <item>Heat 1 tbsp of ghee in a non stick pan and fry the chopped nuts till golden brown. Remove it and keep aside.</item>
+        <item>In the same pan, add the vermicelli and roast it on medium low flame till golden brown. This will take about 3 minutes.</item>
+        <item>Add warm milk (or water) with the saffron strands and bring it to boil. If you are adding food color, add it now.</item>
+        <item>Cover , reduce the flame to low and cook till all the moisture is almost absorbed. The vermicelli should be cooked soft and there should be little moisture left when you add the sugar. Only then the texture of the final product will be good.</item>
+        <item>Add the sugar, salt and crushed cardamom. The semiya will become little loose. Continue to cook without lid till it thickens again.</item>
+        <item>Finally add the remaining ghee and the roasted nuts. Mix once and switch off.  is ready to be served.</item>
+    </array>
+
+
+
+    <array name="INGREDIENT_SW_ITC126">
+        <item>Spaghetti Squash - 1 (medium size, about 1 lb)</item>
+        <item>Sugar - 1/2 cup</item>
+        <item>Milk - 1/4 cup</item>
+        <item>Ghee - 2 tbsp</item>
+        <item>Cardamom powder - 1/2 tsp (or use 2 crushed cardamom)</item>
+    </array>
+    <array name="DIRECTIONS_SW_ITC126">
+        <item>Chopped cashews or almonds or any other nuts - 2-3 tbsp (for garnishing)</item>
+        <item>Take 1 tbsp ghee in a pan. Toast the nuts till golden brown and remove it.</item>
+        <item>Add the scooped out spaghetti squash strands and saute for a minute.</item>
+        <item>Add the milk and sugar. Cook till all the liquid gets absorbed.</item>
+        <item>Add another tbsp of ghee and cook till the mixture moves as a single mass without sticking to the pan. You can also see a sheen as the ghee will start oozing out.</item>
+        <item>At this stage add the cardamom powder and toasted nuts. Mix once and switch off.</item>
+    </array>
+
+
+    <array name="INGREDIENT_SW_ITC127">
+        <item>Guavas - 1 kg</item>
+        <item>Sugar - 750 grams</item>
+        <item>Lime Juice -  1 tbsp</item>
+        <item>Butter/Ghee - 1 tbsp</item>
+    </array>
+    <array name="DIRECTIONS_SW_ITC127">
+        <item>Take some fresh guavas, clean it and peel the edges and black spots from it. Chop it into big chunks.</item>
+        <item>Boil the chunks with little water and grind it to a smooth puree. Boiling is optional but it makes the blending easier.</item>
+        <item>Sieve the pure through a strainer or a muslin cloth to get rid of all the seeds. This is a time consuming process but is quite important.</item>
+        <item>Take this smooth pure in a non stick flat pan and heat it. Keep stirring continuously to prevent the bottom from getting burnt.</item>
+        <item>When most of the moisture evaporates, add the sugar and continue stirring.</item>
+        <item>Slowly the colour begins to deepen and the mixture begins to thicken. Add the lime juice and butter (or ghee) and continue mixing. The butter gives a nice sheen and the lime helps the cheese to set.You can remove and store when it the mixture is still viscous (i.e.in Jam consistency). This can be used as a spread over toast for breakfast.</item>
+        <item>If not, continue to cook till the mix comes together as one mass and starts to leave the edges of the pan. </item>
+        <item>Grease a plate or tray with some oil and spread this mixture evenly. </item>
+        <item>Let it cool and set for a couple of hours before you slice it and enjoy. You can cut the Guava Cheese into squares or diamonds or any other shape.</item>
+    </array>
+
+
+    <array name="INGREDIENT_SW_ITC128">
+        <item>Pumpkin Pie filling - 1 can</item>
+        <item>Milk - 1/2 cup</item>
+        <item>Maida (All Purpose Flour) - 2 tblsp</item>
+        <item>Sugar - 1/2 cup</item>
+        <item>Ghee - 1/4 cup</item>
+        <item>Nut (cashews, almonds, walnuts) - as needed</item>
+    </array>
+    <array name="DIRECTIONS_SW_ITC128">
+        <item>1. Take the pumpkin pie filling, maida and milk in a wide heavy bottomed pan or kadai. You can also make this with pumpkin puree.</item>
+        <item>2. Cook till the milk is absorbed.</item>
+        <item>3. Add the sugar and cook for few minutes.</item>
+        <item>4. Next add the ghee and cook with constant stirring till it starts leaving the sides of the pan. When you mix it, all the halwa starts moving as one big mass.</item>
+        <item>5. Switch off at this stage. Garnish with fried nuts.</item>
+    </array>
+
+
+    <array name="INGREDIENT_SW_ITC129">
+        <item>Grated red pumpkin - 1 cup</item>
+        <item>Milk - 1 cup</item>
+        <item>Saffron strands - few</item>
+        <item>Cardamom powder - 1/4 tsp</item>
+        <item>Sugar free - 1 tsp</item>
+        <item>Ghee 1 tsp</item>
+        <item>Dry fruits - as needed</item>
+
+    </array>
+    <array name="DIRECTIONS_SW_ITC129">
+        <item>1. Heat ghee in a kadai. When it becomes hot, add the grated pumpkin and saute for five minutes.</item>
+        <item>2. Add the milk and cook till it is almost absorbed.</item>
+        <item>3. Add the sugar free, cardamom powder, saffron strands and mix well. </item>
+        <item>4. Cook on medium flame till it starts leaving the sides of the kadai. </item>
+        <item>5. Remove it in a serving dish and garnish with dry fruits.</item>
+    </array>
+
+
+
+    <array name="INGREDIENT_SW_ITC130">
+        <item>Semolina (Rava) - 1 cup</item>
+        <item>Mango Pulp - 1.5 cup (store bought or home made)</item>
+        <item>Ghee - 1/2 cup - 1 cup (add according to your health condition and taste)</item>
+        <item>Sugar - 1 cup (add more if you like it sweeter)</item>
+        <item>Water - 2.5 cup</item>
+        <item>Cardamom Powder - 1/2 tsp</item>
+        <item>Cashews - 1 tblsp</item>
+        <item>Salt - a pinch</item>
+        <item>Kesari powder (Orange food colour) - a pinch (optional)</item>
+    </array>
+    <array name="DIRECTIONS_SW_ITC130">
+        <item>1. Heat 1 tblsp ghee in a heavy bottomed pan and roast the rava till it turns light brown. Do not burn it. You can also use store bought roasted rava.</item>
+        <item>2. Remove the rava from the pan. Add another tblsp of ghee and fry the cashews till it turns golden brown. Remove it.</item>
+        <item>3. Add water to the same pan and bring it to a boil.</item>
+        <item>4. Add the sugar, salt, mango pulp and kesari powder to the water. </item>
+        <item>5. Slowly add the roasted rava while constantly stirring.</item>
+        <item>6. Reduce the flame to a simmer. Cover and let it cook for about 5 minutes.</item>
+        <item>7. Add the ghee little by little and keep mixing till the whole things forms a shiny mass and does not stick to the pan.</item>
+        <item>8. Add the cardamom powder and roasted cashews and switch off.</item>
+    </array>
+
+
+    <array name="INGREDIENT_SW_ITC131">
+        <item>1 cup Grated papaya</item>
+        <item>1 cup Milk</item>
+        <item>3-4 tsp Sugar</item>
+        <item>1 tsp Ghee</item>
+        <item>Cardamom powder (optional)</item>
+        <item>Dry fruits, Charoli etc. for garnishing</item>
+    </array>
+    <array name="DIRECTIONS_SW_ITC131">
+        <item>1. Heat a kadai and add the grated papaya and saute for two minutes.</item>
+        <item>2. Add the milk, sugar and keep on stirring in medium flame till it starts leaving the sides of kadai.</item>
+        <item>3. Transfer it in a bowl and garnish with dry fruits. </item>
+        <item>4. Serve hot or cold as you wish.</item>
+```</array>
+
+
+        <array name="INGREDIENT_SW_ITC132">
+            <item>1 cup semi crushed corn kernels</item>
+            <item>1 cup milk</item>
+            <item>1 cup pure ghee</item>
+            <item>1 cup khoya</item>
+            <item>1 tsp semolina</item>
+            <item>½ cup sugar (adjust according to your choice )</item>
+            <item>Few strands of kesar (saffron) dissolved in lukewarm milk</item>
+            <item>Elaichi (Cardamom) powder/jaifal powder </item>
+        </array>
+        <array name="DIRECTIONS_SW_ITC132">
+            <item>1. Heat ghee in a thick bottom pan and add the crushed corn and sauté for 5-10 minutes. </item>
+            <item>2. Then add semolina and keep stirring till it  changes the colour and stops sticking to the  kadhai. </item>
+            <item>3. Add milk and keep on stirring,add khoya and mix well,  cook  the same till it leaves the sides of the vessel.  </item>
+            <item>4. Add sugar and mix well, when it thickens, add  kesar and elaichi powder. </item>
+            <item>5. Remove from the kadhai and garnish with chopped pistachio, badam and charoli</item>
+            <item>Your golden delight is ready to serve.</item>
+        </array>
+
+
+        <array name="INGREDIENT_SW_ITC133">
+            <item>Grated apple - 1 cup (fuji apple, hard ones)</item>
+            <item>Milk - 1 cup</item>
+            <item>Milk powder - 2 tsp</item>
+            <item>Sugar - 1/2  cup</item>
+            <item>Pure ghee - 1 tsp</item>
+            <item>Saffron - few strands</item>
+            <item>Cardamom powder</item>
+            <item>Food colour as per your choice</item>
+            <item>Dry fruits for garnishing</item>
+
+        </array>
+        <array name="DIRECTIONS_SW_ITC133">
+            <item>1. Wash and grate the apple, transfer the same immediately in the milk to avoid discolouration of the apple.</item>
+            <item>2. In a kadai, add the ghee, milk and apple, food colour, saffron and boil.</item>
+            <item>3. The milk will start curdling due to the sourness of the apple. continue stirring. </item>
+            <item>4. When the mix becomes dry, add the sugar, stir continously.</item>
+            <item>5. When the halwa starts leaving the sides of the kadai, add milk powder, cardomom powder and stir.</item>
+            <item>6. When it is done, remove from the kadai and transfer in a bowl. Garnish with dry fruits.</item>
+        </array>
+
+
+        <array name="INGREDIENT_SW_ITC134">
+            <item>Beetroot (grated) - 1 cup</item>
+            <item>Milk - 1 cup</item>
+            <item>Sugar - 1/2 cup</item>
+            <item>Ghee - 2 tsp</item>
+            <item>Cardamon Powder </item>
+            <item>Melon seeds/musk melon seeds - for garnishing</item>
+
+        </array>
+        <array name="DIRECTIONS_SW_ITC134">
+            <item>1. Pour ghee in kadai.  When it becomes hot,  add the grated beetroot  and saute for few minutes.  </item>
+            <item>2. Add the milk and sugar. Cook in medium flame  till the halwa leaves the sides of the kadai.  </item>
+            <item>3. Garnish with melon seeds. Serve hot or cold as you like.</item>
+        </array>
+
+    <array name="INGREDIENT_SW_ITC135">
+        <item>Ingredients </item>
+        <item>Bottle gourd (grated) - 2 cups</item>
+        <item>Milk - 2 cups</item>
+        <item>Sugar - 1 cup</item>
+        <item>Ghee - 3 tblsp</item>
+        <item>Cardamom powder - a pinch</item>
+        <item>Nuts and raisins - as needed</item>
+        <item>Green food colour (optional) - few drops</item>
+    </array>
+    <array name="DIRECTIONS_SW_ITC135">
+        <item>1. Take a firm fresh bottlegourd and peel the skin. </item>
+        <item>2. Cut it in half vertically and scoop out all the seeds and membranes. Grate the flesh.</item>
+        <item>3. Heat 1 tblsp of ghee in a heavy bottomed pan and fry the nuts and raisins. Remove and keep aside.</item>
+        <item>4. In the same ghee add the grated bottlegourd and fry for a minute or two.</item>
+        <item>5. Add the milk and cook till the milk is completely absorbed. This may take about 15minutes.</item>
+        <item>Note :- You may speed up the process by using 1 can of sweetened condensed milk instead of the milk and sugar.</item>
+        <item>6. Add the sugar and food colour. Cook for few minutes stirring often.</item>
+        <item>7. Next add the remaining ghee and cardamom powder. Cook till the halwa is thickened and becomes glossy. You can make the halwa as thick or as gooey as you want.</item>
+        <item>8. Garnish with fried nut and dry fruits. Serve warm or chilled as such or with vanilla ice cream.</item>
+    </array>
+
+
+    <array name="INGREDIENT_SW_ITC136">
+        <item>Carrots (grated) - 2 cups</item>
+        <item>Milk Powder - 3/4 cup</item>
+        <item>Sugar - 3/4 cup</item>
+        <item>Cardamom Powder - of 5 cardamoms</item>
+        <item>Dry Fruits - for garnishing as per choice</item>
+        <item>Ghee - 2 tsp</item>
+        <item>  </item>
+    </array>
+    <array name="DIRECTIONS_SW_ITC136">
+        <item>1. Heat a kadai and pour ghee in it. </item>
+        <item>2. When it becomes hot add the grated carrot and sauté for 5 minutes.  </item>
+        <item>3. Add the milk powder sauté for another 5 minutes.  </item>
+        <item>4. Add the sugar and stir continuously till it starts leaving the kadai. </item>
+        <item>5. Add cardamom powder, dry fruits and transfer it into a bowl.  </item>
+        <item>6. Garnish with dry fruits of your choice.</item>
+    </array>
+
+
+
+    <array name="INGREDIENT_SW_ITC137">
+        <item>Carrots - 5 big ones, washed and peeled. </item>
+        <item>Sugar - approx 130-150 gms.(11/2 cups). </item>
+        <item>Saffron - 3-4 strands(soaked in 2 tsps of milk). </item>
+        <item>Condensed milk - 3 tbsps. </item>
+        <item>Ghee - 2 tbsps.</item>
+    </array>
+    <array name="DIRECTIONS_SW_ITC137">
+        <item>1. Cut the carrots into large pieces. </item>
+        <item>2. Pressure cook the carrots without adding water or milk for about 2 whistles(Be careful not to overcook). </item>
+        <item>3. Let it cool. </item>
+        <item>4. Grind these carrots into a coarse paste in a mixer/blender along with saffron. </item>
+        <item>5. Heat the ghee in a kadai(preferably non-stick) and add this paste. </item>
+        <item>6. After 2 mins add sugar and keep stirring. </item>
+        <item>7. When it starts thickening add the condensed milk and keep stirring. </item>
+        <item>8. Use less of sugar in case of sweetened condensed milk. </item>
+        <item>9. Garnish with fruits or nuts of ur own choice.</item>
+    </array>
+
+
+
+    <array name="INGREDIENT_SW_ITC138">
+        <item>Pineapple - 1no</item>
+        <item>Ghee - 3-4tsp</item>
+        <item>Sugar - 1/2cup</item>
+        <item>Milk - 1 cup</item>
+        <item>Cardammom (powdered) - 2 nos</item>
+        <item>Cashewnets - as required</item>
+        <item>  </item>
+    </array>
+    <array name="DIRECTIONS_SW_ITC138">
+        <item>1)Chop the pineapple and grind them into paste and keep aside.</item>
+        <item>2)Heat a kadai,  add grinded pineapple paste saute and cook .</item>
+        <item>3)Then add milk and boil,stir well  till it becomes thick.</item>
+        <item>4)Add sugar and keep stirring in a medium heat</item>
+        <item>5)Finally add ghee, cardamom powder  and cashewnets</item>
+        <item>6)Sweet and hot halwa is ready.</item>
+    </array>
+
+
+
+
+    <array name="INGREDIENT_SW_ITC139">
+        <item>Semolina (Rava/ Sooji/ Farina) - 1 cup</item>
+        <item>Ghee/ Butter - 1/2 cup</item>
+        <item>Ghee - 2 tblsp + 2 tblsp (for roasting the rava and toasting the nuts)</item>
+        <item>Sugar - 1 cup (add more if you like it sweeter)</item>
+        <item>Salt - a pinch</item>
+        <item>Cashews/Almonds - 10 nos (sliced/chopped)</item>
+        <item>Raisins - 10 nos</item>
+        <item>Kesari colour - One pinch (You can also use red/yellow/orange food colour)</item>
+        <item>Water - 3 cups</item>
+        <item>Cardamom - 3 pods(crushed)</item>
+    </array>
+    <array name="DIRECTIONS_SW_ITC139">
+        <item>1. Heat 2 tblsp of ghee in a pan. Fry the nuts and raisins and keep it aside.</item>
+        <item>2. Heat up the same pan again with another 2 tblsp of ghee.</item>
+        <item>3. Fry the rava till it gives a nice flavour. Remove it in another plate.</item>
+        <item>4. In the meantime, bring water to boil along with cardamom pods in a nonstick pan.</item>
+        <item>5. Once the water boils, add the rava little by little stirring continuously to avoid lumps.</item>
+        <item>6. Add the sugar, salt and kesari powder and stir again. </item>
+        <item>7.When it starts to thicken, add half of the nuts and raisins.</item>
+        <item>8. Pour the rest of the ghee (1/2 cup)  and keep mixing for another few minutes. Add little less ghee for people on diet.</item>
+        <item>9. Mix in the roasted nuts and raisins. Switch off.</item>
+    </array>
+
+
+
+    <array name="INGREDIENT_SW_ITC140">
+        <item>Almonds - 1 cup (around 80 almonds)</item>
+        <item>Milk - 3 tblsp</item>
+        <item>Ghee - 3 tblsp</item>
+        <item>Sugar - 1 cup (or as needed)</item>
+        <item>Saffron - a pinch</item>
+        <item>Kesari Powder/ Yellow food colour - a pinch</item>
+
+    </array>
+    <array name="DIRECTIONS_SW_ITC140">
+        <item>1. Soak the almonds in hot water for 2 hours and peel the skin off the almonds. To make it faster, boil the almonds with the water for 15-20 minutes and peel them or use store bought peeled almonds.</item>
+        <item>2. Grind the almonds in a blender or mixie along with the milk to make a paste. Add very little milk just to help the mixie moving.</item>
+        <item>3. Heat the sugar with 1/4 cup of water and bring it to a boil to make a simple syrup.</item>
+        <item>4. Add the milk-almond paste and keep stirring constantly to prevent it from getting burnt at the bottom.</item>
+        <item>5. Add saffron strands and food colour while mixing it.</item>
+        <item>6. Keep adding ghee little by little (1 tsp at a time) and keep stirring.</item>
+        <item>   Note :- It is best to use a non stick pan to prevent sticking at the bottom.</item>
+        <item>7. When the mixture cooks, there can be lot of hot splatterings. </item>
+        <item>8. When the splattering reduces, it is an indication that the mixture is almost cooked.</item>
+        <item>9. Continue mixing until the halwa no longer sticks to the pan and ghee starts seperating out. (The perfect Halwa consistency!!!)</item>
+        <item>10. Garnish with fresh nuts and serve as such or top it with ice cream. </item>
+    </array>
+
+
+    <array name="INGREDIENT_SW_ITC141">
+        <item>Carrots - 2 cups (app. 4 carrots)</item>
+        <item>Milk - 2 cups</item>
+        <item>Sugar - 1 cup</item>
+        <item>Ghee - 2 tblsp</item>
+        <item>Nuts &amp; Raisins - 1/4 cup (Almonds &amp;/ Cashews)</item>
+        <item>Cardamon - 2 (crushed or use 1/4 tsp cardomom powder)</item>
+
+    </array>
+    <array name="DIRECTIONS_SW_ITC141">
+        <item>1. Wash and peel the carrots and grate them or grind them. Grating leaves some texture to the carrot at the end but grinding is equally good too.</item>
+        <item>2. Heat the ghee in a small pan and fry the nuts and raisins in it. </item>
+        <item>3. Heat the milk in a heavy bottomed pan and add the carrot to it. </item>
+        <item>4. Cover and cook it on medium flame, stirring occassionally to avoid sticking to the bottom. </item>
+        <item>5. After about 15-20 minutes, when all the milk is absorbed by the carrot, add sugar and stir continuously.</item>
+        <item>6. After about 8 minutes the oil starts getting separated from the halwa. At this stage add cardomom powder, fried nuts and raisins and 1 tblsp of ghee.</item>
+        <item>7. Mix for another minute and switch off.</item>
+    </array>
+
+    <array name="INGREDIENT_SW_ITC142">
+        <item>Wheat Flour - 2 Cups</item>
+        <item>Jaggery - 1 1/2 cup - crushed</item>
+        <item>Oil / Ghee - For Shallow Frying</item>
+        <item>Rice - 2 cup Boiled</item>
+        <item>Milk - 2 cups </item>
+        <item>Sugar - Less than 1 cup</item>
+        <item>Water - 2 cups</item>
+    </array>
+    <array name="DIRECTIONS_SW_ITC142">
+        <item>1.Take a mixing pan and add plain water to it. Add crushed jaggery to it and let it stand till it completely dissolves. (This step can be done overnight also to save time )</item>
+        <item>2.Once the jaggery has completely dissolved in the water, add wheat flour to it and mix well , till no flour lumps are visible and the batter looks consistent.</item>
+        <item>3.Let the batter rest for 2-3 minutes. Fennel seeds can be added to it here - sprinkle over and allow them to be drawn in the batter on their own.</item>
+        <item>4.Spread oil on the griddle and heat it on the low-medium flame. Once the griddle is hot, turn the flame to low and carefully spread about 2-3 tbs of batter in the form of thin flat pancake.</item>
+        <item>5.As the pancake cooks, its color changes to golden , carefully lift and poora / pancake with a flat ladle and flip the side and let other side also cook to golden brown. </item>
+        <item>6.At this stage, the griddle can be covered with a lid, that will retain the heat and moisture inside and help in cooking the poora faster.</item>
+        <item>7.Once the poora seems to be readily coming off the griddle, carefully transfer it to the serving dish. Repeat the steps for the rest of the batter and prepare other pooras. </item>
+        <item>8.In a separate pan / pot, allow the milk to boil over medium - high flame. Once the milk comes to boil, add rice to it and keep stirring with the ladle at regular intervals to ensure rice does not stick to the pan surface / form lump in some corner. </item>
+        <item>9. Once the milk reduces to almost half the volume, switch off the flame. Add sugar to the pan and mix well with rice and milk cooked together. Our Rice Kheer is ready. Let it cool.</item>
+    </array>
+
+
 </resources>

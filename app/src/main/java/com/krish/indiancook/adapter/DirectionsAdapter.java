@@ -52,5 +52,10 @@ public class DirectionsAdapter extends ArrayAdapter<String> {
         textView.setText(ingredItemList[0]);
         return convertView;
     }
+
+    @Override
+    public boolean isEnabled(int position) {
+        return false;
+    }
 }
 

@@ -13,13 +13,24 @@
         android:text="\u2605"
         android:layout_gravity="center_horizontal|left"
         android:textSize="18sp"/>
-    <TextView
+    <com.krish.indiancook.views.TextViewWithImages
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="15dp"
         android:layout_marginRight="15dp"
         android:id="@+id/directionDetail"
         android:layout_gravity="center_vertical|left"
+        android:lineSpacingExtra="4dp"
         android:textSize="14sp"
         />
+    <!--<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:id="@+id/directionDetail"
+        android:layout_gravity="center_vertical|left"
+        android:lineSpacingExtra="4dp"
+        android:textSize="14sp"
+        />-->
 </LinearLayout>

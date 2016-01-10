@@ -3,6 +3,7 @@ package com.krish.indiancook.adapter;
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.Color;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -55,24 +56,25 @@ public class CategoryItemsAdapter extends ArrayAdapter<String> {
             rowView = (LinearLayout)convertView;
         }
         String ingredItem = values.get(position);
-        String[] ingredItemList = ingredItem.split("\\|");
+        final String[] ingredItemList = ingredItem.split("\\|");
         TextView textView = (TextView) rowView.findViewById(R.id.textLabel);
         ImageView imageView = (ImageView) rowView.findViewById(R.id.imageLabel);
         textView.setText(ingredItemList[1]);
         textView.setTextColor(Color.parseColor("#000000"));
-        rowView.setTag(ingredItemList[0]+"|" + ingredItemList[1]);
+        //rowView.setTag(ingredItemList[0]+"|" + ingredItemList[1]);
         rowView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent();
                 intent.setClass(context, DisplayItemActivity.class);
-                String[] itemDetails = ((String)v.getTag()).split("\\|");
-                intent.putExtra("itemid", itemDetails[0]);
-                intent.putExtra("itemdesc", itemDetails[1]);
-                if(itemDetails.length > 2)
-                    intent.putExtra("itemImage", itemDetails[2]);
-                if(itemDetails.length > 3)
-                    intent.putExtra("timetaken", itemDetails[3]);
+                //String[] itemDetails = ((String)v.getTag()).split("\\|");
+                intent.putExtra("itemid", ingredItemList[0]);
+                intent.putExtra("itemdesc", ingredItemList[1]);
+                if(ingredItemList.length > 2) {
+                    intent.putExtra("itemimage", ingredItemList[2]);
+                }
+                /*if(itemDetails.length > 3)
+                    intent.putExtra("timetaken", itemDetails[3]);*/
                 context.startActivity(intent);
             }
         });
@@ -81,10 +83,10 @@ public class CategoryItemsAdapter extends ArrayAdapter<String> {
             if(res != 0) {
                 imageView.setImageResource(res);
             } else{
-                imageView.setBackgroundResource(R.drawable.defaultgif);
+                imageView.setImageResource(R.drawable.defaultgif);
             }
         } catch(Exception e){
-            imageView.setBackgroundResource(R.drawable.defaultgif);
+            imageView.setImageResource(R.drawable.defaultgif);
         }
         return rowView;
     }
